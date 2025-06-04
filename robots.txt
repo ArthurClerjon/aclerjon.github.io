@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://aclerjon.github.io/al-folio/sitemap.xml
+Sitemap: https://aclerjon.github.io/sitemap.xml
