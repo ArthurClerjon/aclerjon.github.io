@@ -17,57 +17,83 @@ Nous avons construit une représentation graphique des flux entre la consommatio
 ## Figures
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Sankey/Itese_Sankey_Gradient.png" title="Flux énergétiques" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Sankey/Itese_Visual(2).png" title="Répartition énergie par source" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Sankey/Itese_Visual(3).png" title="Consommation par secteur" class="img-fluid rounded z-depth-1" %}
-    </div>
+  <div class="col-sm mt-3 mt-md-0">
+    <a href="/assets/img/Sankey/Itese_Sankey_Gradient.png" target="_blank">
+      <img src="/assets/img/Sankey/Itese_Sankey_Gradient.png" alt="Flux énergétiques" class="img-fluid img-thumbnail">
+    </a>
+    <div class="caption text-center mt-1">Flux énergétiques</div>
+  </div>
+  <div class="col-sm mt-3 mt-md-0">
+    <a href="/assets/img/Sankey/Itese_Visual(2).png" target="_blank">
+      <img src="/assets/img/Sankey/Itese_Visual(2).png" alt="Répartition énergie par source" class="img-fluid img-thumbnail">
+    </a>
+    <div class="caption text-center mt-1">Répartition énergie par source</div>
+  </div>
+  <div class="col-sm mt-3 mt-md-0">
+    <a href="/assets/img/Sankey/Itese_Visual(3).png" target="_blank">
+      <img src="/assets/img/Sankey/Itese_Visual(3).png" alt="Consommation par secteur" class="img-fluid img-thumbnail">
+    </a>
+    <div class="caption text-center mt-1">Consommation par secteur</div>
+  </div>
 </div>
-<div class="caption">
-    De gauche à droite : diagramme de Sankey des flux énergétiques, répartition des sources d’énergie finale, et consommation par secteur.
+
+<div class="caption mt-2">
+  De gauche à droite : diagramme de Sankey des flux énergétiques, répartition des sources d’énergie finale, et consommation par secteur.
 </div>
+
+<br>
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Sankey/Itese_Visual(5a).png" title="PAC - Scénario 50%" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Sankey/Itese_Visual(5b).png" title="Potentiel de chaleur fatale" class="img-fluid rounded z-depth-1" %}
-    </div>
+  <div class="col-sm mt-3 mt-md-0">
+    <a href="/assets/img/Sankey/Itese_Visual(5a).png" target="_blank">
+      <img src="/assets/img/Sankey/Itese_Visual(5a).png" alt="PAC - Scénario 50%" class="img-fluid img-thumbnail">
+    </a>
+    <div class="caption text-center mt-1">PAC - Scénario 50%</div>
+  </div>
+  <div class="col-sm mt-3 mt-md-0">
+    <a href="/assets/img/Sankey/Itese_Visual(5b).png" target="_blank">
+      <img src="/assets/img/Sankey/Itese_Visual(5b).png" alt="Potentiel de chaleur fatale" class="img-fluid img-thumbnail">
+    </a>
+    <div class="caption text-center mt-1">Potentiel de chaleur fatale</div>
+  </div>
 </div>
-<div class="caption">
-    Illustration des effets du scénario de déploiement des pompes à chaleur et du potentiel de valorisation de la chaleur fatale.
+
+<div class="caption mt-2">
+  Illustration des effets du scénario de déploiement des pompes à chaleur et du potentiel de valorisation de la chaleur fatale.
 </div>
+
+<br>
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/Sankey/Itese_Visual(6).png" title="Effets VE sur le transport" class="img-fluid rounded z-depth-1" %}
-    </div>
+  <div class="col-sm-8 mt-3 mt-md-0">
+    <a href="/assets/img/Sankey/Itese_Visual(6).png" target="_blank">
+      <img src="/assets/img/Sankey/Itese_Visual(6).png" alt="Effets VE sur le transport" class="img-fluid img-thumbnail">
+    </a>
+    <div class="caption text-center mt-1">Effets VE sur le transport</div>
+  </div>
 </div>
-<div class="caption">
-    Effet du déploiement des véhicules électriques sur la consommation énergétique du transport.
+
+<div class="caption mt-2">
+  Effet du déploiement des véhicules électriques sur la consommation énergétique du transport.
 </div>
+
+<br>
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/Sankey/Itese_Visual(7a).png" title="Effet global des scénarios" class="img-fluid rounded z-depth-1" %}
-    </div>
+  <div class="col-sm-8 mt-3 mt-md-0">
+    <a href="/assets/img/Sankey/Itese_Visual(7a).png" target="_blank">
+      <img src="/assets/img/Sankey/Itese_Visual(7a).png" alt="Effet global des scénarios" class="img-fluid img-thumbnail">
+    </a>
+    <div class="caption text-center mt-1">Effet global des scénarios</div>
+  </div>
 </div>
-<div class="caption">
-    Bilan énergétique global de l’effet combiné des pompes à chaleur et des véhicules électriques.
+
+<div class="caption mt-2">
+  Bilan énergétique global de l’effet combiné des pompes à chaleur et des véhicules électriques.
 </div>
 
-La France dépend encore majoritairement des énergies fossiles. 
-Quels leviers pour décarboner ?
-Par , Chercheur à I-Tésé
-
-
-
-
+# La France dépend encore majoritairement des énergies fossiles. 
+## Quels leviers pour décarboner ?
 
 ### Résumé
 
@@ -139,7 +165,8 @@ Par opposition, les vecteurs ‘bas-carbone’ ont un contenu CO2 plus faible, e
 ### 1.b - Un système qui repose majoritairement sur les fossiles
 La répartition de l’énergie finale par source (électricité, pétrole, gaz, etc...) – représentée par la partie gauche du diagramme de Sankey – est agrégée sous un autre format sur le visuel ci-dessous.
 
-
+![pompes à chaleur](assets/img/Sankey/Itese_Visual(1).png)
+<div class="caption">pompes à chaleur</div>
 
 Ce graphique montre que près de 65% de l’énergie finale consommée est d’origine fossile – pétrole, gaz naturel et charbon. Le reste de la consommation finale est répartie entre : 
 L’électricité, bas carbone en France. 
@@ -163,7 +190,8 @@ Usages non-énergétiques des fossiles en tant que matière première.
 Ces données sont agrégées dans le visuel ci-dessous (partie de droite du Sankey) représentant pour chaque secteur sa consommation totale d’énergie en fonction des vecteurs énergétiques finaux.
 
 
-
+![pompes à chaleur](assets/img/Sankey/Itese_Visual(2).png)
+<div class="caption">pompes à chaleur</div>
 
 Charbon énergétique et charbon métallurgique, quelles différences ?
 
@@ -193,6 +221,8 @@ Le secteur du bâtiment est aujourd’hui susceptible de réduire fortement sa c
 
 En effet, les pompes à chaleur, lorsque leur installation est possible, produisent en moyenne 3 unités de chaleur pour une unité d’énergie électrique consommée, comme l’illustre le schéma de principe ci-dessous.
 
+![pompes à chaleur](assets/img/Sankey/Itese_Visual(5a).png)
+<div class="caption">pompes à chaleur</div>
 
 
 Dans un rapport du faisant état de l’efficacité des différentes mesures de rénovation du parc immobilier français réalisées de 2016 à 2019, celui-ci indique que la rénovation, d’une part de la toiture, des murs et du plancher, d’autre part le remplacement des moyens de chauffage et de l’Eau Chaude Sanitaire (ECS)  sont les actions les plus efficaces pour réduire la consommation énergétique. En 2019, ces deux leviers représentaient respectivement 57% et 39% des économies d’énergie générales.
@@ -233,6 +263,8 @@ Pour illustrer le potentiel de report vers les vecteurs 'bas-carbone', nous avon
 
 Le graphique ci-dessous indique la répartition des émissions de GES du transport national. Il est important de remarquer que, au sein du transport national, la partie routière est responsable de plus de 95% des émissions de GES. 
  
+![pompes à chaleur](assets/img/Sankey/Itese_Visual(6).png)
+<div class="caption">pompes à chaleur</div>
 
 
 Ce graphique montre également que les véhicules particulier sont responsables de plus de 50% des émissions de GES du transport, suivi par les utilitaires (16%) et les poids lourds (23%).
@@ -283,7 +315,8 @@ Mis bout à bout, nous avons vu que, malgré un déploiement massif des pompes �
 Pour que l’électrification des usages demeure vertueuse
 
 Le développement des pompes à chaleur et véhicules électriques présenté plus haut implique une électrification massive des usages, et de fait une croissance de la consommation d’électricité. Pour que ce report de source d’énergies soit réellement vertueux, il faut s’assurer que les deux conditions ci-dessous soient remplies :
-## 1. La production d’électricité doit tout d'abord rester décarbonée. C’est aujourd’hui le cas en France, mais ces solutions ne seraient pas vraies pour tous les autres pays européen. 
+
+1. La production d’électricité doit tout d'abord rester décarbonée. C’est aujourd’hui le cas en France, mais ces solutions ne seraient pas vraies pour tous les autres pays européen. 
 2. Pour assurer la hausse globale de la consommation d’électricité, la France devra augmenter ses capacités de production en développant des moyens bas-carbone - le nucléaire et les ENR – en évitant le recours au gaz et au charbon.
 
 
@@ -305,6 +338,8 @@ Le choix d’une énergie bas-carbone, afin de réduire le contenu CO2 du vecteu
 L’efficacité énergétique, c'est-à-dire l’énergie consommée pour répondre à un besoin donné. C’est ce par exemple le cas des véhicules électriques, plus efficaces que les véhicules thermiques. 
 La sobriété, c'est-à-dire la réduction des besoins, quels qu’ils soient : besoin de déplacements, d’énergie pour le chauffage d’un foyer, de fabrication de biens de consommation. Par exemple, concernant la mobilité, la sobriété peut se traduire soit par une diminution de l'usage, mais également par un report modal vers des mobilités dites douces ou des transports en commun.a temporalité de choix et actions
 
+![pompes à chaleur](assets/img/Sankey/Itese_Visual(7a).png)
+<div class="caption">pompes à chaleur</div>
 
 
 
