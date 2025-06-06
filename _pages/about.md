@@ -1,7 +1,7 @@
 ---
 layout: about
 title: about
-permalink: /about/
+permalink: /
 subtitle: Affiliations. Address. Contacts. Motto. Etc.
 nav: true
 nav_order: 1
