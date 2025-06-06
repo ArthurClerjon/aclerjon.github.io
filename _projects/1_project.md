@@ -102,8 +102,25 @@ Nous avons construit une représentation graphique des flux entre la consommatio
 
 ### Messages principaux
 
-<div class="alert alert-info" role="alert"><strong>Les chiffres clefs :</strong>   
-<br><strong>Les défis à venir :</strong> </div>
+<div class="alert alert-info" role="alert"><strong>Les chiffres clefs :</strong>
+- En 2019, la France a consommé 1840 TWh d’énergie finale.​
+- 65% de cette consommation d’énergie finale est d’origine fossile.​
+- Transport routier et chauffage pour le résidentiel-tertiaire sont les usages les plus consommateurs en énergie et les plus dépendants des énergies fossiles :
+​
+* Transport routier :
+488 TWh, dont 450 TWh de fossile ; soit 30% des émissions de GES sur le territoire.
+​
+​​- Chauffage :
+400 TWh, dont  218 TWh de fossile ; soit 15% des émissions de GES sur le territoire.   
+<br><strong>Les défis à venir :</strong> 
+
+* ​L'électrification massive des usages est un levier indispensable pour réduire fortement la consommation d’énergie fossile.​
+​* Cette électrification implique de fortes consommations additionnelles, et nécessite donc de développer de nouvelles capacités de production d’électricité bas-carbone. 
+*La disponibilité d’électricité bas carbone étant limitée au moins dans un premier temps, il faudra privilégier des solutions à forte efficacité énergétique (e.g. pompes à chaleur, véhicules électriques).​
+* ​Les autres principales solutions envisageables en complément de l’électrification massive (biomasse et valorisation de la chaleur fatale) ne sont pas disponibles en quantité suffisante pour permettre de remplacer complètement les fossiles. De même, certaines matières premières minérales seront en tension avec l’électrification des usages.
+
+De ce fait, des efforts de sobriété, c’est-à-dire une baisse de la demande en énergie, sont également indispensables pour l’atteinte des objectifs de la SNBC.
+</div>
 
 
 <div class="alert alert-success" role="alert">De ce fait, des efforts de sobriété, c’est-à-dire une baisse de la demande en énergie, sont également indispensables pour l’atteinte des objectifs de la SNBC.</div>
