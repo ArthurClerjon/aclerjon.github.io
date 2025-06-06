@@ -77,7 +77,8 @@ Nous avons construit une représentation graphique des flux entre la consommatio
 ### Messages principaux
 
 <div class="alert alert-info" role="alert"><strong>Les chiffres clefs :</strong>   
-<br><strong>Les défis à venir :</strong> 
+<br><strong>Les défis à venir :</strong> </div>
+
 
 <div class="alert alert-success" role="alert">De ce fait, des efforts de sobriété, c’est-à-dire une baisse de la demande en énergie, sont également indispensables pour l’atteinte des objectifs de la SNBC.</div>
 
