@@ -4,8 +4,6 @@ title: Publications
 permalink: /publications/
 icon: fas fa-book
 ---
-{% bibliography %}
-
 ### PhD Thesis
 
 <div class="publications">
