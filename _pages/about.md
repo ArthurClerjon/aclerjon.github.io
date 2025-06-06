@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-### The webpage is in construction. I will try to gather here my publications, projects and teaching.
+### The webpage is in construction. I will try to gather here publications, projects, teaching.
 
 I am a researcher specializing in energy system modeling and the decarbonization of energysystems. 
 
