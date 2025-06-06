@@ -501,14 +501,14 @@ ninja.data = [{
         title: 'ORCID',
         section: 'Socials',
         handler: () => {
-          window.open("https://orcid.org/0000-0002-9545-988X# your ORCID ID", "_blank");
+          window.open("https://orcid.org/0000-0002-9545-988X", "_blank");
         },
       },{
         id: 'social-researchgate',
         title: 'ResearchGate',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.researchgate.net/profile/Arthur-Clerjon# your profile on ResearchGate/", "_blank");
+          window.open("https://www.researchgate.net/profile/Arthur-Clerjon/", "_blank");
         },
       },{
         id: 'social-rss',
