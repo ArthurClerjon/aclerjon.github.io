@@ -23,10 +23,10 @@ Nous avons construit une représentation graphique des flux entre la consommatio
         {% include figure.liquid loading="eager" path="assets/img/Sankey/Itese_Sankey_Gradient.png" title="Flux énergétiques" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Sankey/Itese_Visual(1).png" title="Répartition énergie par source" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/Sankey/Itese_Visual(2).png" title="Répartition énergie par source" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Sankey/Itese_Visual(2).png" title="Consommation par secteur" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/Sankey/Itese_Visual(3).png" title="Consommation par secteur" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -35,10 +35,10 @@ Nous avons construit une représentation graphique des flux entre la consommatio
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Sankey/Itese_Visual(3).png" title="PAC - Scénario 50%" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/Sankey/Itese_Visual(5a).png" title="PAC - Scénario 50%" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Sankey/Itese_Visual(4).png" title="Potentiel de chaleur fatale" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/Sankey/Itese_Visual(5b).png" title="Potentiel de chaleur fatale" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -47,7 +47,7 @@ Nous avons construit une représentation graphique des flux entre la consommatio
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/Sankey/Itese_Visual(5b).png" title="Effets VE sur le transport" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/Sankey/Itese_Visual(6).png" title="Effets VE sur le transport" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -56,33 +56,29 @@ Nous avons construit une représentation graphique des flux entre la consommatio
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/Sankey/Itese_Visual(7).png" title="Effet global des scénarios" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/Sankey/Itese_Visual(7a).png" title="Effet global des scénarios" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
     Bilan énergétique global de l’effet combiné des pompes à chaleur et des véhicules électriques.
 </div>
 
----
-
-
 ## Texte complet
 
-​La France dépend encore majoritairement des énergies fossiles.
+### ​La France dépend encore majoritairement des énergies fossiles.
 
-Quels leviers pour décarboner ?
+#### Quels leviers pour décarboner ?
 
-Par , Chercheur à I-Tésé
 
-Résumé
+### Résumé
 
 Nous avons construit une représentation graphique des flux entre la consommation d’énergie finale et les usages à l’échelle du territoire français sous la forme d’un diagramme de Sankey (voir graphique ci-dessous). Ce diagramme décrit les différents postes de consommation d’énergie et permet d’apprécier les volumes en jeu ainsi que leur origine et contenu CO2. Il est ensuite la base d’une analyse du potentiel des grands leviers de décarbonation du système énergétique.
 
-​Messages principaux
+### Messages principaux
 
-**<span class="text-danger">Les chiffres clefs :</span>**
+<span class="text-danger font-weight-bold">Les chiffres clefs :</span>
 
-**<span class="text-primary">Les défis à venir :</span>**
+<span class="text-primary">Les défis à venir :</span>
 
 <div class="alert alert-success" role="alert">
 
