@@ -7,7 +7,7 @@ nav: true
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: pic_bw.jpg
   image_circular: false
   more_info: >
     <p></p>
