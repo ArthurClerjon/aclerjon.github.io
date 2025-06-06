@@ -439,7 +439,7 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-les-usages-de-l-39-énergie",
           title: 'Les usages de l&amp;#39;énergie',
-          description: "wAnalyse du système énergétique français et leviers de décarbonation",
+          description: "Analyse du système énergétique français et leviers de décarbonation",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-project-2",
