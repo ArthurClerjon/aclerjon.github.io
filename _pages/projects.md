@@ -5,7 +5,7 @@ permalink: /projects/
 description: A growing collection of your cool projects.
 nav: true
 nav_order: 1
-display_categories: [work, fun]
+display_categories: [Usages de l'énergie en France, PhD thesis , Master thesis, Other]
 horizontal: false
 ---
 

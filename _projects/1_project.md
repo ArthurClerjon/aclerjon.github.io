@@ -4,17 +4,15 @@ title: Les usages de l'énergie
 description: Analyse du système énergétique français et leviers de décarbonation
 img: assets/img/Sankey/Itese_Sankey_Gradient.png
 importance: 1
-category: work
+category: Usages de l'énergie en France
 related_publications: true
 ---
 
 ### Résumé
 
 <div class="alert alert-info" role="alert">
-
 Nous avons construit une représentation graphique des flux entre la consommation d’énergie finale et les usages à l’échelle du territoire français sous la forme d’un diagramme de Sankey. Ce diagramme permet d’apprécier les volumes en jeu ainsi que leur origine et contenu CO2, et sert de base à une analyse du potentiel des grands leviers de décarbonation.
-
-
+</div>
 
 ## Figures
 
@@ -62,6 +60,7 @@ Nous avons construit une représentation graphique des flux entre la consommatio
 <div class="caption">
     Bilan énergétique global de l’effet combiné des pompes à chaleur et des véhicules électriques.
 </div>
+
 La France dépend encore majoritairement des énergies fossiles. 
 Quels leviers pour décarboner ?
 Par , Chercheur à I-Tésé
@@ -71,6 +70,7 @@ Par , Chercheur à I-Tésé
 
 
 ### Résumé
+
 Nous avons construit une représentation graphique des flux entre la consommation d’énergie finale et les usages à l’échelle du territoire français sous la forme d’un diagramme de Sankey (voir graphique ci-dessous). Ce diagramme décrit les différents postes de consommation d’énergie et permet d’apprécier les volumes en jeu ainsi que leur origine et contenu CO2. Il est ensuite la base d’une analyse du potentiel des grands leviers de décarbonation du système énergétique.
  
 
