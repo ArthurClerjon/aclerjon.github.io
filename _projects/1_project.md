@@ -133,7 +133,43 @@ Cet article n’a pas vocation à décrire une marche à suivre pour décarboner
 Les données énergétiques utilisées pour la réalisation de ce graphique proviennent de l’agrégation de rapports du (SDES) pour l’année 2019, avant la crise sanitaire. Le cadre méthodologique est identique à celui choisi par ces rapports, à l'exception du transport international (aérien et maritime) qui a été ajouté. Les données d'émissions de CO2  proviennent quant à elles du centre de ressources .
 
 
-### Sommaire de l'article
+
+## Sommaire illustré
+
+<div class="row mb-4">
+  <div class="col-md-2 text-center">
+    <a href="/assets/img/Sankey/Itese_Sankey_Gradient.png" target="_blank">
+      <img src="/assets/img/Sankey/Itese_Sankey_Gradient.png" alt="Diagramme Sankey" class="img-thumbnail" style="max-width: 100px;">
+    </a>
+  </div>
+  <div class="col-md-10">
+    <h5>1. Le point sur l'utilisation des ressources énergétiques en France</h5>
+    <ul>
+      <li><strong>a.</strong> Présentation du diagramme principal</li>
+      <li><strong>b.</strong> Un système qui repose majoritairement sur les fossiles</li>
+      <li><strong>c.</strong> Une répartition inégale des énergies fossiles entre les secteurs</li>
+    </ul>
+  </div>
+</div>
+
+<div class="row mb-4">
+  <div class="col-md-2 text-center">
+    <a href="/assets/img/Sankey/Itese_Visual(5a).png" target="_blank">
+      <img src="/assets/img/Sankey/Itese_Visual(5a).png" alt="PAC 50%" class="img-thumbnail" style="max-width: 100px;">
+    </a>
+  </div>
+  <div class="col-md-10">
+    <h5>2. Quelles alternatives pour décarboner ?</h5>
+    <ul>
+      <li><strong>a.</strong> Décarboner le besoin de chaleur des secteurs résidentiels et tertiaires : le fort potentiel des pompes à chaleur</li>
+      <li><strong>b.</strong> Décarboner le transport routier : quel potentiel pour les véhicules électriques ?</li>
+      <li><strong>c.</strong> Bilan : effet global de ces scénarios de développement technologique</li>
+      <li><strong>d.</strong> Quels leviers supplémentaires pour décarboner la consommation d'énergie ?</li>
+    </ul>
+  </div>
+</div>
+
+
 ## 1. Le point sur l'utilisation des ressources énergétiques en France
 
 
