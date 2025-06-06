@@ -16,80 +16,67 @@ Nous avons construit une représentation graphique des flux entre la consommatio
 
 ## Figures
 
-<div class="row">
-  <div class="col-sm mt-3 mt-md-0">
+<div class="row justify-content-center">
+  <div class="col-auto">
     <a href="/assets/img/Sankey/Itese_Sankey_Gradient.png" target="_blank">
-      <img src="/assets/img/Sankey/Itese_Sankey_Gradient.png" alt="Flux énergétiques" class="img-fluid img-thumbnail">
+      <img src="/assets/img/Sankey/Itese_Sankey_Gradient.png" alt="Flux énergétiques" class="img-thumbnail" style="max-width: 150px;">
     </a>
-    <div class="caption text-center mt-1">Flux énergétiques</div>
   </div>
-  <div class="col-sm mt-3 mt-md-0">
+  <div class="col-auto">
     <a href="/assets/img/Sankey/Itese_Visual(2).png" target="_blank">
-      <img src="/assets/img/Sankey/Itese_Visual(2).png" alt="Répartition énergie par source" class="img-fluid img-thumbnail">
+      <img src="/assets/img/Sankey/Itese_Visual(2).png" alt="Répartition énergie par source" class="img-thumbnail" style="max-width: 150px;">
     </a>
-    <div class="caption text-center mt-1">Répartition énergie par source</div>
   </div>
-  <div class="col-sm mt-3 mt-md-0">
+  <div class="col-auto">
     <a href="/assets/img/Sankey/Itese_Visual(3).png" target="_blank">
-      <img src="/assets/img/Sankey/Itese_Visual(3).png" alt="Consommation par secteur" class="img-fluid img-thumbnail">
+      <img src="/assets/img/Sankey/Itese_Visual(3).png" alt="Consommation par secteur" class="img-thumbnail" style="max-width: 150px;">
     </a>
-    <div class="caption text-center mt-1">Consommation par secteur</div>
   </div>
 </div>
 
-<div class="caption mt-2">
-  De gauche à droite : diagramme de Sankey des flux énergétiques, répartition des sources d’énergie finale, et consommation par secteur.
+<div class="caption text-center mt-2">
+  Diagramme de Sankey, répartition des sources d’énergie finale, consommation par secteur.
 </div>
 
-<br>
-
-<div class="row">
-  <div class="col-sm mt-3 mt-md-0">
+<div class="row justify-content-center mt-3">
+  <div class="col-auto">
     <a href="/assets/img/Sankey/Itese_Visual(5a).png" target="_blank">
-      <img src="/assets/img/Sankey/Itese_Visual(5a).png" alt="PAC - Scénario 50%" class="img-fluid img-thumbnail">
+      <img src="/assets/img/Sankey/Itese_Visual(5a).png" alt="PAC - Scénario 50%" class="img-thumbnail" style="max-width: 150px;">
     </a>
-    <div class="caption text-center mt-1">PAC - Scénario 50%</div>
   </div>
-  <div class="col-sm mt-3 mt-md-0">
+  <div class="col-auto">
     <a href="/assets/img/Sankey/Itese_Visual(5b).png" target="_blank">
-      <img src="/assets/img/Sankey/Itese_Visual(5b).png" alt="Potentiel de chaleur fatale" class="img-fluid img-thumbnail">
+      <img src="/assets/img/Sankey/Itese_Visual(5b).png" alt="Potentiel de chaleur fatale" class="img-thumbnail" style="max-width: 150px;">
     </a>
-    <div class="caption text-center mt-1">Potentiel de chaleur fatale</div>
   </div>
 </div>
 
-<div class="caption mt-2">
-  Illustration des effets du scénario de déploiement des pompes à chaleur et du potentiel de valorisation de la chaleur fatale.
+<div class="caption text-center mt-2">
+  Scénario de pompes à chaleur et chaleur fatale valorisée.
 </div>
 
-<br>
-
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
+<div class="row justify-content-center mt-3">
+  <div class="col-auto">
     <a href="/assets/img/Sankey/Itese_Visual(6).png" target="_blank">
-      <img src="/assets/img/Sankey/Itese_Visual(6).png" alt="Effets VE sur le transport" class="img-fluid img-thumbnail">
+      <img src="/assets/img/Sankey/Itese_Visual(6).png" alt="Effets VE sur le transport" class="img-thumbnail" style="max-width: 150px;">
     </a>
-    <div class="caption text-center mt-1">Effets VE sur le transport</div>
   </div>
 </div>
 
-<div class="caption mt-2">
-  Effet du déploiement des véhicules électriques sur la consommation énergétique du transport.
+<div class="caption text-center mt-2">
+  Impact du déploiement des véhicules électriques.
 </div>
 
-<br>
-
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
+<div class="row justify-content-center mt-3">
+  <div class="col-auto">
     <a href="/assets/img/Sankey/Itese_Visual(7a).png" target="_blank">
-      <img src="/assets/img/Sankey/Itese_Visual(7a).png" alt="Effet global des scénarios" class="img-fluid img-thumbnail">
+      <img src="/assets/img/Sankey/Itese_Visual(7a).png" alt="Effet global des scénarios" class="img-thumbnail" style="max-width: 150px;">
     </a>
-    <div class="caption text-center mt-1">Effet global des scénarios</div>
   </div>
 </div>
 
-<div class="caption mt-2">
-  Bilan énergétique global de l’effet combiné des pompes à chaleur et des véhicules électriques.
+<div class="caption text-center mt-2">
+  Effet combiné des mesures de décarbonation.
 </div>
 
 # La France dépend encore majoritairement des énergies fossiles. 
