@@ -3,8 +3,8 @@ const ninja = document.querySelector('ninja-keys');
 
 // add the home and posts menu items
 ninja.data = [{
-    id: "nav-bookshelf",
-    title: "bookshelf",
+    id: "nav-about",
+    title: "about",
     section: "Navigation",
     handler: () => {
       window.location.href = "/";
@@ -14,7 +14,7 @@ ninja.data = [{
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/about/";
+            window.location.href = "/";
           },
         },{id: "nav-blog",
           title: "blog",
@@ -439,7 +439,7 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-les-usages-de-l-39-énergie",
           title: 'Les usages de l&amp;#39;énergie',
-          description: "with background image",
+          description: "wAnalyse du système énergétique français et leviers de décarbonation",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-project-2",
