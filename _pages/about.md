@@ -4,7 +4,6 @@ title: about
 permalink: /
 subtitle: Affiliations. Address. Contacts. Motto. Etc.
 nav: true
-nav_order: 1
 
 profile:
   align: right
