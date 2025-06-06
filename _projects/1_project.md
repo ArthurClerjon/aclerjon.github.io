@@ -143,6 +143,7 @@ Par opposition, les vecteurs ‘bas-carbone’ ont un contenu CO2 plus faible,�
 3 Les pertes des centrales électriques proviennent principalement des centrales nucléaires. La fission du combustible nucléaire dégage une forte quantité de chaleur, dont seulement 30 à 40% est convertie en électricité.
 
 4 Sur ce diagramme a été ajoutée la consommation de pétrole imputée au transport aérien et maritime international. Celui-ci s'élève à environ 90 TWh; soit une énergie finale totale consommée de 1840 TWh en 2019.
+
 ### 1.b - Un système qui repose majoritairement sur les fossiles
 
 La répartition de l’énergie finale par source (électricité, pétrole, gaz, etc...) – représentée par la partie gauche du diagramme de Sankey – est agrégée sous un autre format sur le visuel ci-dessous.

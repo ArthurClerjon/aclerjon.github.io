@@ -3,7 +3,6 @@ layout: about
 title: about
 permalink: /
 subtitle: Affiliations. Address. Contacts. Motto. Etc.
-nav: true
 
 profile:
   align: right
