@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 1
+title: Les usages de l'énergie
 description: with background image
-img: assets/img/12.jpg
+img: assets/img/Sankey/Itese_Sankey_Gradient.png
 importance: 1
 category: work
 related_publications: true
