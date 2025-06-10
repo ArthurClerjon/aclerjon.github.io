@@ -6,9 +6,9 @@ nav: true
 nav_order: 7
 icon: fas fa-book
 ---
-🔗 [Google Scholar](https://scholar.google.com/citations?user=...) •  
-🆔 [ORCID](https://orcid.org/0000‑000X‑XXXX‑XXXX) •  
-📚 [ResearchGate](https://www.researchgate.net/profile/Arthur_Clerjon)
+[<i class="ai ai-google-scholar"></i> Google Scholar](https://scholar.google.com/...) •  
+[<i class="ai ai-orcid"></i> ORCID](https://orcid.org/...) •  
+[<i class="ai ai-researchgate"></i> ResearchGate](https://www.researchgate.net/...)
 
 
 ## PhD Thesis
