@@ -36,7 +36,7 @@
       description:
         - Intensive training in physics, mathematics and engineering sciences.
 
-title: Experience
+- title: Experience
   type: time_table
   contents:
     - title: Permanent Researcher
@@ -67,7 +67,7 @@ title: Experience
       year: 2013
       description:
         - Modeled Tibetan Plateau border thickening
-        
+
 - title: Supervision
   type: time_table
   contents:
