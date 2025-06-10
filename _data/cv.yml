@@ -4,7 +4,7 @@
     - name: Full Name
       value: Arthur Clerjon
     - name: Date of Birth
-      value: 18 September 1991
+      value: 
     - name: Languages
       value: French (native), English (fluent), Spanish (intermediate)
 
@@ -119,9 +119,9 @@
     - title: Crossing the Peruvian Andes by bike
       year: 2015
       description:
-        - 8-month solo cycling journey through Cordillera Blanca exploring remote lifestyles.
+        - 8-month cycling journey through Cordillera Blanca.
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Climbing, cparagliding.
+    - <u>Hobbies:</u> Climbing, paragliding.
