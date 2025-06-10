@@ -9,22 +9,15 @@ nav_order: 6
 [<i class="ai ai-orcid"></i> ORCID](https://orcid.org/...) •  
 [<i class="ai ai-researchgate"></i> ResearchGate](https://www.researchgate.net/...)
 
+
+<!-- _pages/publications.md -->
+
+<!-- Bibsearch Feature -->
+
 {% include bib_search.liquid %}
+
+<div class="publications">
 
 {% bibliography %}
 
-## PhD Thesis
-{% bibliography --query @phdthesis %}
-- 📺 [Watch the PhD thesis defense on YouTube](https://theses.hal.science/tel-03230033)
-
-## Peer-reviewed Articles
-{% bibliography --query @article %}
-
-## Under Review
-{% bibliography --query @unpublished %}
-
-## Conference Papers
-{% bibliography --query @inproceedings %}
-
-## Public Presentations
-{% bibliography --query @misc %}
+</div>

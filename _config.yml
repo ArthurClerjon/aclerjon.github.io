@@ -175,6 +175,8 @@ newsletter:
 # -----------------------------------------------------------------------------
 
 collections:
+  bibliography:
+    output: true
   books:
     output: true
   news:
