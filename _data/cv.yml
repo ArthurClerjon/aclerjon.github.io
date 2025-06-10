@@ -3,10 +3,12 @@
   contents:
     - name: Full Name
       value: Arthur Clerjon
-    - name: Date of Birth
-      value: 
+    - name: Position
+      value: Permanent Researcher at CEA
+    - name: Location
+      value: Grenoble, France
     - name: Languages
-      value: French (native), English (fluent), Spanish (intermediate)
+      value: French, English, Spanish
 
 - title: Education
   type: time_table
@@ -34,32 +36,38 @@
       description:
         - Intensive training in physics, mathematics and engineering sciences.
 
-- title: Experience
+title: Experience
   type: time_table
   contents:
     - title: Permanent Researcher
-      institution: CEA I-Tésé, Grenoble, France
-      year: 2021 - present
+      institution: CEA I‑Tésé, Grenoble, France
+      year: 2021–present
       description:
-        - Energy system modeling and optimization.
-        - Power system flexibility and heating decarbonization.
-        - Electrification of mobility and battery market dynamics.
+        - Energy system modeling and optimization
+        - Power system flexibility & heating decarbonization
+        - Battery market & transport decarbonization
+    - title: PhD Candidate
+      institution: CEA Liten, Grenoble, France
+      year: 2018–2021
+      description:
+        - Modeling the impact of intermittent renewables on the French energy system
+        - Studied storage–heat–fuel integration
     - title: Research Intern
-      institution: Jet Propulsion Laboratory, Pasadena, USA
+      institution: Jet Propulsion Laboratory, Pasadena, CA, USA
       year: 2015
       description:
-        - Climate model improvements through shallow convective clouds analysis.
+        - Shallow convective clouds modeling
     - title: Research Intern
       institution: ISTerre, Grenoble, France
       year: 2014
       description:
-        - Geophysical modeling of forests as seismic metamaterials.
+        - Studied forest effects on seismic wave propagation
     - title: Research Intern
       institution: ENS Ulm, Paris, France
       year: 2013
       description:
-        - Modelling the thickening of the Tibetan Plateau’s border.
-
+        - Modeled Tibetan Plateau border thickening
+        
 - title: Supervision
   type: time_table
   contents:
