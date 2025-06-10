@@ -8,6 +8,8 @@ category: Usages de l'énergie en France
 related_publications: true
 ---
 
+# Attention, page en cours de construction.
+
 # La France dépend encore majoritairement des énergies fossiles. 
 ## Quels leviers pour décarboner ?
 
@@ -23,7 +25,6 @@ Cette publication a initialement été publiée sur le site internet du CEA I-t�
       <img src="/assets/img/Sankey/Itese_Sankey_Gradient.png" alt="Flux énergétiques" class="img-thumbnail" style="max-width: 150px;">
     </a>
   </div>
-  <div class
 
   ### Messages principaux
 
