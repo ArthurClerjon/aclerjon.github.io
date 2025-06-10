@@ -18,7 +18,6 @@ Up-to-date publications are also available on
 {% include bib_search.liquid %}
 
 <div class="publications">
-</div>
 
 ## PhD Thesis
 {% bibliography -f papers -q @phdthesis %}
