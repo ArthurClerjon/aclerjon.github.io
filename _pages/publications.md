@@ -6,10 +6,10 @@ nav: true
 nav_order: 7
 icon: fas fa-book
 ---
-## External Profiles
-- [Google Scholar](https://scholar.google.com/citations?user=qc6CJjYAAAAJ)
-- [ORCID](https://orcid.org/0000-0002-9545-988X)
-- [ResearchGate](https://www.researchgate.net/profile/Arthur-Clerjon)
+🔗 [Google Scholar](https://scholar.google.com/citations?user=...) •  
+🆔 [ORCID](https://orcid.org/0000‑000X‑XXXX‑XXXX) •  
+📚 [ResearchGate](https://www.researchgate.net/profile/Arthur_Clerjon)
+
 
 ## PhD Thesis
 {% bibliography --query @phdthesis %}

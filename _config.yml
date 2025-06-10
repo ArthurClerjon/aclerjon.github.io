@@ -298,7 +298,12 @@ scholar:
   last_name: [Clerjon]
   first_name: [Arthur]
 
-  style: apa
+  style: plain  # choose a citation style with full author lists
+  sort: year
+
+  bibtex_show: ["url"]      # Show clickable URLs, hide abstracts
+  bibtex_fields: ["url"]
+  
   locale: en
 
   source: /_bibliography/
