@@ -8,10 +8,60 @@ category: Usages de l'énergie en France
 related_publications: true
 ---
 
+# La France dépend encore majoritairement des énergies fossiles. 
+## Quels leviers pour décarboner ?
+
 ### Résumé
+Nous avons construit une représentation graphique des flux entre la consommation d’énergie finale et les usages à l’échelle du territoire français sous la forme d’un diagramme de Sankey. Ce diagramme permet d’apprécier les volumes en jeu ainsi que leur origine et contenu CO2, et sert de base à une analyse du potentiel des grands leviers de décarbonation.
 
 <div class="alert alert-info" role="alert">
-Nous avons construit une représentation graphique des flux entre la consommation d’énergie finale et les usages à l’échelle du territoire français sous la forme d’un diagramme de Sankey. Ce diagramme permet d’apprécier les volumes en jeu ainsi que leur origine et contenu CO2, et sert de base à une analyse du potentiel des grands leviers de décarbonation.
+Cette publication a initialement été publiée sur le site internet du CEA I-tésé à l'adresse suivante : https://www.cea.fr/energies/i-tese/Pages/Actualites/Focus-Thematiques/usages-energie-france.aspx
+</div>
+
+  <div class="col-auto">
+    <a href="/assets/img/Sankey/Itese_Sankey_Gradient.png" target="_blank">
+      <img src="/assets/img/Sankey/Itese_Sankey_Gradient.png" alt="Flux énergétiques" class="img-thumbnail" style="max-width: 150px;">
+    </a>
+  </div>
+  <div class
+
+  ### Messages principaux
+
+<div class="alert alert-info" role="alert">
+
+**Les chiffres clefs :**
+
+- En 2019, la France a consommé **1840 TWh** d’énergie finale.
+- **65 %** de cette consommation est d’origine fossile.
+- Les usages les plus consommateurs en énergie et les plus dépendants des énergies fossiles sont :
+  - **Transport routier** :
+    - 488 TWh, dont 450 TWh fossile
+    - 30 % des émissions de GES sur le territoire
+  - **Chauffage résidentiel-tertiaire** :
+    - 400 TWh, dont 218 TWh fossile
+    - 15 % des émissions de GES sur le territoire
+
+---
+
+**Les défis à venir :**
+
+- L’électrification massive des usages est un levier indispensable pour réduire fortement la consommation d’énergie fossile.
+- Cette électrification :
+  - Implique de fortes consommations additionnelles
+  - Nécessite de nouvelles capacités de production d’électricité bas-carbone
+- La disponibilité d’électricité bas carbone étant limitée au moins à court terme :
+  - Il faudra privilégier les solutions à **forte efficacité énergétique**
+    - Exemples : pompes à chaleur, véhicules électriques
+- Les autres solutions complémentaires :
+  - Biomasse
+  - Valorisation de la chaleur fatale
+  - Ces solutions **ne sont pas disponibles en quantité suffisante** pour remplacer totalement les fossiles
+- Certaines matières premières minérales seront en tension avec cette électrification
+
+---
+
+Des efforts de **sobriété**, c’est-à-dire une **réduction de la demande en énergie**, sont également **indispensables** pour atteindre les objectifs de la SNBC.
+
 </div>
 
 ## Figures
@@ -79,38 +129,9 @@ Nous avons construit une représentation graphique des flux entre la consommatio
   Effet combiné des mesures de décarbonation.
 </div>
 
-# La France dépend encore majoritairement des énergies fossiles. 
-## Quels leviers pour décarboner ?
-
-### Résumé
-
-Nous avons construit une représentation graphique des flux entre la consommation d’énergie finale et les usages à l’échelle du territoire français sous la forme d’un diagramme de Sankey (voir graphique ci-dessous). Ce diagramme décrit les différents postes de consommation d’énergie et permet d’apprécier les volumes en jeu ainsi que leur origine et contenu CO2. Il est ensuite la base d’une analyse du potentiel des grands leviers de décarbonation du système énergétique.
- 
-
-### Messages principaux
-
-<div class="alert alert-info" role="alert"><strong>Les chiffres clefs :</strong>
-- En 2019, la France a consommé 1840 TWh d’énergie finale.​
-- 65% de cette consommation d’énergie finale est d’origine fossile.​
-- Transport routier et chauffage pour le résidentiel-tertiaire sont les usages les plus consommateurs en énergie et les plus dépendants des énergies fossiles :
-​
-* Transport routier :
-488 TWh, dont 450 TWh de fossile ; soit 30% des émissions de GES sur le territoire.
-​
-​​- Chauffage :
-400 TWh, dont  218 TWh de fossile ; soit 15% des émissions de GES sur le territoire.   
-<br><strong>Les défis à venir :</strong> 
-
-* ​L'électrification massive des usages est un levier indispensable pour réduire fortement la consommation d’énergie fossile.​
-​* Cette électrification implique de fortes consommations additionnelles, et nécessite donc de développer de nouvelles capacités de production d’électricité bas-carbone. 
-*La disponibilité d’électricité bas carbone étant limitée au moins dans un premier temps, il faudra privilégier des solutions à forte efficacité énergétique (e.g. pompes à chaleur, véhicules électriques).​
-* ​Les autres principales solutions envisageables en complément de l’électrification massive (biomasse et valorisation de la chaleur fatale) ne sont pas disponibles en quantité suffisante pour permettre de remplacer complètement les fossiles. De même, certaines matières premières minérales seront en tension avec l’électrification des usages.
-
-De ce fait, des efforts de sobriété, c’est-à-dire une baisse de la demande en énergie, sont également indispensables pour l’atteinte des objectifs de la SNBC.
-</div>
 
 
-<div class="alert alert-success" role="alert">De ce fait, des efforts de sobriété, c’est-à-dire une baisse de la demande en énergie, sont également indispensables pour l’atteinte des objectifs de la SNBC.</div>
+
 
 ### Introduction
 L’objet de ce document est de présenter dans sa globalité le système énergétique français, de l’utilisation des ressources primaires aux usages finaux. Nous rappelons ici les principaux ordres de grandeur de consommation d’énergie, par sources et usages, afin de donner aux lecteurs une intuition des enjeux qu’implique la fin du recours aux énergies fossiles.
