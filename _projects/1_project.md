@@ -16,20 +16,6 @@ related_publications: true
 ### Résumé
 Nous avons construit une représentation graphique des flux entre la consommation d’énergie finale et les usages à l’échelle du territoire français sous la forme d’un diagramme de Sankey. Ce diagramme permet d’apprécier les volumes en jeu ainsi que leur origine et contenu CO2, et sert de base à une analyse du potentiel des grands leviers de décarbonation.
 
-<swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/Sankey/Itese_Sankey_Gradient.png" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/Sankey/Itese_Visual(1).png" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/Sankey/Itese_Visual(2).png" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/Sankey/Itese_Visual(3).png" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/Sankey/Itese_Visual(4).png" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/Sankey/Itese_Visual(5a).png" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/Sankey/Itese_Visual(5b).png" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/Sankey/Itese_Visual(6).png" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/Sankey/Itese_Visual(7a).png" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-</swiper-container>
-
-
-
 <div class="alert alert-info" role="alert">
 Cette publication a initialement été publiée sur le site internet du CEA I-tésé à l'adresse suivante : https://www.cea.fr/energies/i-tese/Pages/Actualites/Focus-Thematiques/usages-energie-france.aspx
 </div>
@@ -88,13 +74,13 @@ Des efforts de **sobriété**, c’est-à-dire une **réduction de la demande en
     </a>
   </div>
   <div class="col-auto">
-    <a href="/assets/img/Sankey/Itese_Visual(2).png" target="_blank">
-      <img src="/assets/img/Sankey/Itese_Visual(2).png" alt="Répartition énergie par source" class="img-thumbnail" style="max-width: 150px;">
+    <a href="/assets/img/Sankey/Itese_Visual_2.png" target="_blank">
+      <img src="/assets/img/Sankey/Itese_Visual_2.png" alt="Répartition énergie par source" class="img-thumbnail" style="max-width: 150px;">
     </a>
   </div>
   <div class="col-auto">
-    <a href="/assets/img/Sankey/Itese_Visual(3).png" target="_blank">
-      <img src="/assets/img/Sankey/Itese_Visual(3).png" alt="Consommation par secteur" class="img-thumbnail" style="max-width: 150px;">
+    <a href="/assets/img/Sankey/Itese_Visual_3.png" target="_blank">
+      <img src="/assets/img/Sankey/Itese_Visual_3.png" alt="Consommation par secteur" class="img-thumbnail" style="max-width: 150px;">
     </a>
   </div>
 </div>
@@ -105,13 +91,13 @@ Des efforts de **sobriété**, c’est-à-dire une **réduction de la demande en
 
 <div class="row justify-content-center mt-3">
   <div class="col-auto">
-    <a href="/assets/img/Sankey/Itese_Visual(5a).png" target="_blank">
-      <img src="/assets/img/Sankey/Itese_Visual(5a).png" alt="PAC - Scénario 50%" class="img-thumbnail" style="max-width: 150px;">
+    <a href="/assets/img/Sankey/Itese_Visual_5a.png" target="_blank">
+      <img src="/assets/img/Sankey/Itese_Visual_5a.png" alt="PAC - Scénario 50%" class="img-thumbnail" style="max-width: 150px;">
     </a>
   </div>
   <div class="col-auto">
-    <a href="/assets/img/Sankey/Itese_Visual(5b).png" target="_blank">
-      <img src="/assets/img/Sankey/Itese_Visual(5b).png" alt="Potentiel de chaleur fatale" class="img-thumbnail" style="max-width: 150px;">
+    <a href="/assets/img/Sankey/Itese_Visual_5b.png" target="_blank">
+      <img src="/assets/img/Sankey/Itese_Visual_5b.png" alt="Potentiel de chaleur fatale" class="img-thumbnail" style="max-width: 150px;">
     </a>
   </div>
 </div>
@@ -122,8 +108,8 @@ Des efforts de **sobriété**, c’est-à-dire une **réduction de la demande en
 
 <div class="row justify-content-center mt-3">
   <div class="col-auto">
-    <a href="/assets/img/Sankey/Itese_Visual(6).png" target="_blank">
-      <img src="/assets/img/Sankey/Itese_Visual(6).png" alt="Effets VE sur le transport" class="img-thumbnail" style="max-width: 150px;">
+    <a href="/assets/img/Sankey/Itese_Visual_6.png" target="_blank">
+      <img src="/assets/img/Sankey/Itese_Visual_6.png" alt="Effets VE sur le transport" class="img-thumbnail" style="max-width: 150px;">
     </a>
   </div>
 </div>
@@ -134,8 +120,8 @@ Des efforts de **sobriété**, c’est-à-dire une **réduction de la demande en
 
 <div class="row justify-content-center mt-3">
   <div class="col-auto">
-    <a href="/assets/img/Sankey/Itese_Visual(7a).png" target="_blank">
-      <img src="/assets/img/Sankey/Itese_Visual(7a).png" alt="Effet global des scénarios" class="img-thumbnail" style="max-width: 150px;">
+    <a href="/assets/img/Sankey/Itese_Visual_7a.png" target="_blank">
+      <img src="/assets/img/Sankey/Itese_Visual_7a.png" alt="Effet global des scénarios" class="img-thumbnail" style="max-width: 150px;">
     </a>
   </div>
 </div>
@@ -177,8 +163,8 @@ Les données énergétiques utilisées pour la réalisation de ce graphique prov
 
 <div class="row mb-4">
   <div class="col-md-2 text-center">
-    <a href="/assets/img/Sankey/Itese_Visual(5a).png" target="_blank">
-      <img src="/assets/img/Sankey/Itese_Visual(5a).png" alt="PAC 50%" class="img-thumbnail" style="max-width: 100px;">
+    <a href="/assets/img/Sankey/Itese_Visual_5a_.png" target="_blank">
+      <img src="/assets/img/Sankey/Itese_Visual_5a_.png" alt="PAC 50%" class="img-thumbnail" style="max-width: 100px;">
     </a>
   </div>
   <div class="col-md-10">
@@ -241,7 +227,7 @@ Par opposition, les vecteurs ‘bas-carbone’ ont un contenu CO2 plus faible, e
 ### 1.b - Un système qui repose majoritairement sur les fossiles
 La répartition de l’énergie finale par source (électricité, pétrole, gaz, etc...) – représentée par la partie gauche du diagramme de Sankey – est agrégée sous un autre format sur le visuel ci-dessous.
 
-![pompes à chaleur](assets/img/Sankey/Itese_Visual(1).png)
+![pompes à chaleur](assets/img/Sankey/Itese_Visual_1.png)
 <div class="caption">pompes à chaleur</div>
 
 Ce graphique montre que près de 65% de l’énergie finale consommée est d’origine fossile – pétrole, gaz naturel et charbon. Le reste de la consommation finale est répartie entre : 
@@ -266,7 +252,7 @@ Usages non-énergétiques des fossiles en tant que matière première.
 Ces données sont agrégées dans le visuel ci-dessous (partie de droite du Sankey) représentant pour chaque secteur sa consommation totale d’énergie en fonction des vecteurs énergétiques finaux.
 
 
-![pompes à chaleur](assets/img/Sankey/Itese_Visual(2).png)
+![pompes à chaleur](assets/img/Sankey/Itese_Visual_2.png)
 <div class="caption">pompes à chaleur</div>
 
 Charbon énergétique et charbon métallurgique, quelles différences ?
@@ -297,7 +283,7 @@ Le secteur du bâtiment est aujourd’hui susceptible de réduire fortement sa c
 
 En effet, les pompes à chaleur, lorsque leur installation est possible, produisent en moyenne 3 unités de chaleur pour une unité d’énergie électrique consommée, comme l’illustre le schéma de principe ci-dessous.
 
-![pompes à chaleur](assets/img/Sankey/Itese_Visual(5a).png)
+![pompes à chaleur](assets/img/Sankey/Itese_Visual_5a.png)
 <div class="caption">pompes à chaleur</div>
 
 
@@ -339,7 +325,7 @@ Pour illustrer le potentiel de report vers les vecteurs 'bas-carbone', nous avon
 
 Le graphique ci-dessous indique la répartition des émissions de GES du transport national. Il est important de remarquer que, au sein du transport national, la partie routière est responsable de plus de 95% des émissions de GES. 
  
-![pompes à chaleur](assets/img/Sankey/Itese_Visual(6).png)
+![pompes à chaleur](assets/img/Sankey/Itese_Visual_6_.png)
 <div class="caption">pompes à chaleur</div>
 
 
@@ -414,7 +400,7 @@ Le choix d’une énergie bas-carbone, afin de réduire le contenu CO2 du vecteu
 L’efficacité énergétique, c'est-à-dire l’énergie consommée pour répondre à un besoin donné. C’est ce par exemple le cas des véhicules électriques, plus efficaces que les véhicules thermiques. 
 La sobriété, c'est-à-dire la réduction des besoins, quels qu’ils soient : besoin de déplacements, d’énergie pour le chauffage d’un foyer, de fabrication de biens de consommation. Par exemple, concernant la mobilité, la sobriété peut se traduire soit par une diminution de l'usage, mais également par un report modal vers des mobilités dites douces ou des transports en commun.a temporalité de choix et actions
 
-![pompes à chaleur](assets/img/Sankey/Itese_Visual(7a).png)
+![pompes à chaleur](assets/img/Sankey/Itese_Visual_7a.png)
 <div class="caption">pompes à chaleur</div>
 
 
