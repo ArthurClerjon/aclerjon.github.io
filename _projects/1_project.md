@@ -325,7 +325,7 @@ Pour illustrer le potentiel de report vers les vecteurs 'bas-carbone', nous avon
 
 Le graphique ci-dessous indique la répartition des émissions de GES du transport national. Il est important de remarquer que, au sein du transport national, la partie routière est responsable de plus de 95% des émissions de GES. 
  
-![pompes à chaleur](assets/img/Sankey/Itese_Visual_6_.png)
+![pompes à chaleur](assets/img/Sankey/Itese_Visual_6.png)
 <div class="caption">pompes à chaleur</div>
 
 
