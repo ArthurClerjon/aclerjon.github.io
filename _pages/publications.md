@@ -10,8 +10,9 @@ nav_order: 6
 
 <!-- External Links with Icons -->
 <p>
-  Up-to-date publications are also available on:<br>
-<div class="social-links" style="display: flex; gap: 1rem; flex-wrap: wrap; align-items: center;">
+  Up-to-date publications are also available on:
+</p>
+<p style="display: flex; gap: 1rem; flex-wrap: wrap; align-items: center; margin-top: 0.5em;">
   <a href="https://scholar.google.fr/citations?user=X0s6r3QAAAAJ&hl=fr" target="_blank">
     <i class="ai ai-google-scholar"></i> Google Scholar
   </a>
@@ -21,7 +22,7 @@ nav_order: 6
   <a href="https://www.researchgate.net/profile/Arthur-Clerjon" target="_blank">
     <i class="ai ai-researchgate"></i> ResearchGate
   </a>
-</div>
+</p>
 
 <!-- Bibsearch Feature -->
 {% include bib_search.liquid %}
