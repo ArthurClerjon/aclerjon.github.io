@@ -25,7 +25,6 @@ nav_order: 6
 <!-- Bibsearch Feature -->
 {% include bib_search.liquid %}
 
-<div class="publications">
 
 ## PhD Thesis
 {% bibliography -f papers -q @phdthesis %}
@@ -42,4 +41,3 @@ nav_order: 6
 {% bibliography -f papers -q @misc{note:Conference presentation} %}
 {% bibliography -f papers -q @misc{note:Workshop presentation} %}
 
-</div>
