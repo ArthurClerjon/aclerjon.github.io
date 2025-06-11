@@ -30,18 +30,18 @@ nav_order: 6
 <div class="publications">
 
 <h2>PhD Thesis</h2>
-{% bibliography -f papers --query "status == 'Thesis'" %}
+{% bibliography -f papers --query "keywords contains 'Thesis'" %}
 
 <h2>Peer-reviewed Articles</h2>
-{% bibliography -f papers --query "status == 'Peer-reviewed'" %}
+{% bibliography -f papers --query "keywords contains 'Peer-reviewed'" %}
 
 <h2>Under Review</h2>
-{% bibliography -f papers --query "status == 'Under review'" %}
+{% bibliography -f papers --query "keywords contains 'Under review'" %}
 
 <h2>Conference Proceedings</h2>
-{% bibliography -f papers --query "status == 'Conference proceedings'" %}
+{% bibliography -f papers --query "keywords contains 'Conference proceedings'" %}
 
 <h2>Presentations</h2>
-{% bibliography -f papers --query "status == 'Presentation'" %}
+{% bibliography -f papers --query "keywords contains 'Presentation'" %}
 
 </div>
