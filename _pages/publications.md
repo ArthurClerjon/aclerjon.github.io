@@ -11,16 +11,17 @@ nav_order: 6
 <!-- External Links with Icons -->
 <p>
   Up-to-date publications are also available on:<br>
+<div class="social-links" style="display: flex; gap: 1rem; flex-wrap: wrap; align-items: center;">
   <a href="https://scholar.google.fr/citations?user=X0s6r3QAAAAJ&hl=fr" target="_blank">
     <i class="ai ai-google-scholar"></i> Google Scholar
-  </a><br>
+  </a>
   <a href="https://orcid.org/0000-0002-9545-988X" target="_blank">
     <i class="ai ai-orcid"></i> ORCID
-  </a><br>
+  </a>
   <a href="https://www.researchgate.net/profile/Arthur-Clerjon" target="_blank">
     <i class="ai ai-researchgate"></i> ResearchGate
   </a>
-</p>
+</div>
 
 <!-- Bibsearch Feature -->
 {% include bib_search.liquid %}

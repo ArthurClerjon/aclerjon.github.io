@@ -16,6 +16,20 @@ related_publications: true
 ### Résumé
 Nous avons construit une représentation graphique des flux entre la consommation d’énergie finale et les usages à l’échelle du territoire français sous la forme d’un diagramme de Sankey. Ce diagramme permet d’apprécier les volumes en jeu ainsi que leur origine et contenu CO2, et sert de base à une analyse du potentiel des grands leviers de décarbonation.
 
+<swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/Sankey/Itese_Sankey_Gradient.png" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/Sankey/Itese_Visual(1).png" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/Sankey/Itese_Visual(2).png" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/Sankey/Itese_Visual(3).png" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/Sankey/Itese_Visual(4).png" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/Sankey/Itese_Visual(5a).png" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/Sankey/Itese_Visual(5b).png" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/Sankey/Itese_Visual(6).png" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/Sankey/Itese_Visual(7a).png" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+</swiper-container>
+
+
+
 <div class="alert alert-info" role="alert">
 Cette publication a initialement été publiée sur le site internet du CEA I-tésé à l'adresse suivante : https://www.cea.fr/energies/i-tese/Pages/Actualites/Focus-Thematiques/usages-energie-france.aspx
 </div>
