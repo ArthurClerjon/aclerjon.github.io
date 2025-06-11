@@ -25,19 +25,21 @@ nav_order: 6
 <!-- Bibsearch Feature -->
 {% include bib_search.liquid %}
 
+<div class="publications">
 
-## PhD Thesis
+<h2>PhD Thesis</h2>
 {% bibliography -f papers -q @phdthesis %}
 
-## Peer-reviewed Articles
+<h2>Peer-reviewed Articles</h2>
 {% bibliography -f papers -q @article{note:Peer-reviewed} %}
 
-## Under Review
+<h2>Under Review</h2>
 {% bibliography -f papers -q @article{note:Under review} %}
 {% bibliography -f papers -q @unpublished %}
 
-## Conference Papers
+<h2>Conference Papers</h2>
 {% bibliography -f papers -q @inproceedings %}
 {% bibliography -f papers -q @misc{note:Conference presentation} %}
 {% bibliography -f papers -q @misc{note:Workshop presentation} %}
 
+</div>
