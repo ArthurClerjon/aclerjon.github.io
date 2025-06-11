@@ -1,6 +1,6 @@
 ---
 layout: post
-title: PhD dehense
+title: PhD defense
 date: 2021-03-05 
 description: this is what included videos could look like
 tags: formatting videos
