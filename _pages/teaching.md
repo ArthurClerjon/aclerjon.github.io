@@ -19,7 +19,7 @@ nav_order: 6
       The lecture is intended for students or professionals with a basic background in energy systems or engineering.
     </p>
     <p>
-      <a href="/assets/slides/flexibility_class_slides.pdf" class="btn btn-sm btn-outline-primary" target="_blank">
+      <a href="https://nuage.gresille.org/index.php/s/kwC8GiJJn3FbmJG" class="btn btn-sm btn-outline-primary" target="_blank">
         📥 Download slides (PDF)
       </a>
     </p>
