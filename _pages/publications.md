@@ -30,17 +30,18 @@ nav_order: 6
 <div class="publications">
 
 <h2>PhD Thesis</h2>
-{% bibliography -f papers --query "@phdthesis" %}
+{% bibliography -f papers -q @phdthesis %}
 
 <h2>Peer-reviewed Articles</h2>
-{% bibliography -f papers --query "@article" %}
+{% bibliography -f papers -q @article %}
 
 <h2>Under Review</h2>
-{% bibliography -f papers --query "@unpublished" %}
+{% bibliography -f papers -q @unpublished %}
 
 <h2>Conference Proceedings</h2>
-{% bibliography -f papers --query "@inproceedings" %}
+{% bibliography -f papers -q @inproceedings %}
 
 <h2>Presentations</h2>
-{% bibliography -f papers --query "@misc" %}
+{% bibliography -f papers -q @misc %}
+
 </div>
