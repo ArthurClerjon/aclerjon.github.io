@@ -29,8 +29,16 @@ latest_posts:
 
 ### This website is under construction.
 
-I am a researcher specializing in energy system modeling and the decarbonization of energy systems.
+---
 
-I am a permanent researcher at CEA, Grenoble.
+I am a researcher at the [CEA](https://www.cea.fr/) in Grenoble, France. My work focuses on how to design and adapt energy systems to support climate goals, with particular attention to **technical**, **economic**, and **environmental** constraints.
 
-My work focuses on the integration of variable renewable energy sources, the flexibility needs of power systems, and the socio-economic dimensions of climate mitigation. I hold a PhD in energy economics and contribute to interdisciplinary projects that combine quantitative modeling with policy-relevant analysis.
+With a background in physics and engineering, and a PhD in energy system modeling, I study the impacts of technological choices—such as **renewable energy**, **energy storage**, or **electrification**—on the structure and performance of energy systems, from national to international scales.
+
+**Overall, my focus is the flexibility of power systems** ([see my teaching courses in the dedicated section](https://nuage.gresille.org/index.php/s/kwC8GiJJn3FbmJG)), that is to say how to balance **electricity supply and demand** in a changing world, with an increasing share of **intermittent renewables** and new energy uses—such as **electric vehicles** and **electric heating systems**.
+
+My research has focused in particular on two key sectors: **heat production** (which accounts for around **30%** of greenhouse gas emissions in France) and **road transport** (around **15%**).
+
+This website presents my publications, current projects, and, over time, broader reflections and outreach materials. I aim to make research results **accessible and useful** beyond academic circles.
+
+I am always enthusiastic to discuss these topics—feel free to reach out at **arthur.clerjon 'at' cea.fr**.
