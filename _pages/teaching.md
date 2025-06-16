@@ -2,13 +2,17 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: This page is currently under construction. I teach and supervise Master’s-level courses and projects on energy systems, economics, and sustainability. Below is an overview of selected contributions.
+description: This page is currently under construction. 
 nav: true
 nav_order: 5
 ---
 
+I teach and supervise Master’s-level courses and projects on energy systems, economics, and sustainability. Below is an overview of selected contributions.
 
-## Nuclear Energy Economics  
+---
+## 📚 Current Teaching Activities
+
+### 🔸 Nuclear Energy Economics  
 <div class="row">
   <div class="col-md-8">
     <p>
@@ -18,16 +22,16 @@ nav_order: 5
       Topics include investment costs, system integration, and low-carbon policy trade-offs.
     </p>
     <p>
-      <a href="#" class="btn btn-sm btn-outline-primary disabled">
-        🔗 Program link (coming soon)
+      <a href="https://gael.univ-grenoble-alpes.fr/en/master-2-eedd-economie-lenergie-et-developpement-durable" class="btn btn-sm btn-outline-primary" target="_blank">
+        🔗 EEDD Master Program
       </a>
     </p>
   </div>
 </div>
 
----
 
-## Project Supervision  
+
+### 🔸 Project Supervision  
 <div class="row">
   <div class="col-md-8">
     <p>
@@ -37,16 +41,19 @@ nav_order: 5
       Current topics include thermal storage under climate stressors, electric vehicle infrastructure, and equity in global resource allocation.
     </p>
     <p>
-      <a href="#" class="btn btn-sm btn-outline-primary disabled">
-        🔗 Program link (coming soon)
+      <a href="https://www.univ-grenoble-alpes.fr/formation/graduate-school/green-grenoble-energy-transition-academy-1539484.kjsp" class="btn btn-sm btn-outline-primary" target="_blank">
+        🌱 PTGreen Graduate School
+      </a>
+      <a href="https://robingirard.github.io/MINES-UE14-miniprojet/" class="btn btn-sm btn-outline-primary" target="_blank">
+        🔧 Mines Paris – UE14 Projects
       </a>
     </p>
   </div>
 </div>
 
----
 
-## Power System Flexibility – 1-hour Lecture  
+
+### 🔸 Power System Flexibility – 1-hour Lecture  
 <div class="row">
   <div class="col-md-8">
     <p>
@@ -60,6 +67,9 @@ nav_order: 5
       <a href="https://nuage.gresille.org/index.php/s/kwC8GiJJn3FbmJG" class="btn btn-sm btn-outline-primary" target="_blank">
         📥 Download slides (PDF)
       </a>
+      <a href="https://lpsc.in2p3.fr/?page_id=1943" class="btn btn-sm btn-outline-primary" target="_blank">
+        🔗 École Énergie Recherche (EER)
+      </a>
     </p>
   </div>
   <div class="col-md-4 text-center">
@@ -69,7 +79,10 @@ nav_order: 5
 
 ---
 
-## Energy Storage (2013–2015)  
+---
+## 📚 Past Teaching Activities
+
+### 🔸 Energy Storage (2018–2020)  
 <div class="row">
   <div class="col-md-8">
     <p>
@@ -83,9 +96,8 @@ nav_order: 5
   </div>
 </div>
 
----
 
-## Assistant in Physics (2013–2015)  
+### 🔸 Assistant in Physics (2013–2015)  
 <div class="row">
   <div class="col-md-8">
     <p>
@@ -93,3 +105,9 @@ nav_order: 5
     </p>
   </div>
 </div>
+
+---
+
+## 🧩 Notes
+- If you are a student or program coordinator looking to collaborate or host a lecture, feel free to [contact me](/#contact).
+- Program links will be added as available.
