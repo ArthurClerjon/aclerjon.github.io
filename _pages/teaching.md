@@ -42,8 +42,7 @@ Designed for students or professionals with basic energy or systems engineering 
 </div>
 
 #### ⚡ <span style="font-size: 0.7em;">Energy Storage (2013–2015 – 4h/year)</span>  
-Lecture on electrochemical and thermal storage in the  
-<strong>MaNuEn</strong> Master's program at Grenoble INP Phelma.  
+Lecture on electrochemical and thermal storage in the <strong>MaNuEn</strong> Master's program at Grenoble INP Phelma.  
 Focused on fundamentals and renewable integration context.
 
 #### 🧪 <span style="font-size: 0.7em;">Assistant in Physics (2013–2020)</span>  
