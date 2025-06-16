@@ -17,7 +17,7 @@ ninja.data = [{
             window.location.href = "/cv/";
           },
         },{id: "nav-publications",
-          title: "publications",
+          title: "Publications",
           description: "",
           section: "Navigation",
           handler: () => {
@@ -32,7 +32,7 @@ ninja.data = [{
           },
         },{id: "nav-teaching",
           title: "Teaching",
-          description: "This page is currently under construction. I teach and supervise Master’s-level courses and projects on energy systems, economics, and sustainability. Below is an overview of selected contributions.",
+          description: "This page is currently under construction.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
