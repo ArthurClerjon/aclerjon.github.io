@@ -72,16 +72,15 @@
   type: time_table
   contents:
     - title: PhD Supervision (Co-supervisor)
-      year: "2022–present"
       description:
-        - <b>Lukas Hofmann</b> (2022–2025)<br><i>Coupling electricity and heating demand for decarbonizing the French power system.</i><br><a href="https://theses.fr/s343655">Subject description</a><br>Related publication: <a href="../publication/#hofmann2025">Energy, 2025</a>
+        - <b>Lukas Hofmann</b> (2022–2025)<br>
+        <i>Coupling electricity and heating demand for decarbonizing the French power system.</i><br><a href="https://theses.fr/s343655">Subject description</a><br>Related publication: <a href="https://www.sciencedirect.com/science/article/pii/S036054422502078X?via%3Dihub">Energy, 2025</a>
         - <b>Héloïse Parmentier</b> (2023–2026)<br><i>Design and optimization of charging infrastructure for electric vehicles under spatial and temporal constraints.</i><br><a href="https://theses.fr/s372174">Subject description</a>
-        - <b>Justine Duval</b> (2024–2027)<br><i>Equitable allocation of global low-carbon electricity sources under climate and geopolitical constraints.</i><br><a href="https://theses.fr/s399297">Subject description</a><br>Related preprint: <a href="../publication/#lemelle2024">SSRN, 2024</a>
+        - <b>Justine Duval</b> (2024–2027)<br><i>Equitable allocation of global low-carbon electricity sources under climate and geopolitical constraints.</i><br><a href="https://theses.fr/s399297">Subject description</a>
 
     - title: Master’s Supervision
-      year: "2023–2024"
       description:
-        - <b>Anne-Geneviève Lemelle</b> (Internship – 2023)<br><i>Thermal storage for renewable integration under future climate conditions.</i><br>Related preprint: <a href="../publication/#lemelle2024">SSRN, 2024</a>
+        - <b>Anne- Geneviève Lemelle </b> (Internship – 2023)<br><i>Thermal storage for renewable integration under future climate conditions.</i><br>Related preprint: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5260828">SSRN, 2024</a>
         - <b>Justine Duval</b> (Internship – 2024)<br><i>Scenario development for global decarbonization under spatial constraints.</i>
 
 - title: Teaching
