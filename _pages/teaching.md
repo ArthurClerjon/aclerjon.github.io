@@ -4,7 +4,7 @@ permalink: /teaching/
 title: teaching
 description: This page is currently under construction.
 nav: true
-nav_order: 6
+nav_order: 5
 ---
 
 ## Power System Flexibility – 1-hour Lecture

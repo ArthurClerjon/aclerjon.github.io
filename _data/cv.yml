@@ -4,104 +4,104 @@
     - name: Full Name
       value: Arthur Clerjon
     - name: Position
-      value: Permanent Researcher at CEA
+      value: Permanent Researcher, CEA
     - name: Location
       value: Grenoble, France
     - name: Languages
-      value: French, English, Spanish
+      value: French (monther tongue), English (fluent), Spanish
 
 - title: Education
   type: time_table
   contents:
     - title: PhD in Energy Systems Modeling
       institution: CEA Liten / Université Grenoble Alpes, France
-      year: 2018 - 2021
+      year: 2018–2021
       description:
-        - Impact of intermittent renewable energies on the French power system.
-        - Focus on electricity storage, heating and fuel complementarities.
+        - Analyzed the impact of variable renewable energy on the French power system.
+        - Focused on electricity storage and sector coupling with heating and fuels.
         - Supervised by Yves Bréchet and Fabien Perdu.
-    - title: Master’s level engineering degree
-      institution: Mines ParisTech (double degree with ENS Cachan)
-      year: 2016 - 2017
+    - title: Engineering Degree (MSc level)
+      institution: Mines ParisTech & ENS Cachan (Double Degree)
+      year: 2016–2017
       description:
-        - Specialization in geoscience and energy.
-    - title: Licence & Master in Theoretical Physics
+        - Specialization in geosciences and energy systems.
+    - title: BSc & MSc in Theoretical Physics
       institution: École Normale Supérieure de Cachan
-      year: 2012 - 2015
+      year: 2012–2015
       description:
-        - Physics, modeling and experiments (PHYTEM).
-    - title: Classe préparatoire aux grandes écoles (PCSI-PSI*)
+        - Physics, modeling, and experimentation (PHYTEM curriculum).
+    - title: Classes préparatoires (PCSI–PSI*)
       institution: Lycée Berthollet
-      year: 2009 - 2012
+      year: 2009–2012
       description:
-        - Intensive training in physics, mathematics and engineering sciences.
+        - Advanced studies in physics, mathematics, and engineering sciences.
 
 - title: Experience
   type: time_table
   contents:
     - title: Permanent Researcher
-      institution: CEA I‑Tésé, Grenoble, France
+      institution: CEA I-Tésé, Grenoble, France
       year: 2021–present
       description:
-        - Energy system modeling and optimization
-        - Power system flexibility & heating decarbonization
-        - Battery market & transport decarbonization
+        - Energy system modeling and optimization.
+        - Flexibility of power systems and heating decarbonization.
+        - Battery integration and transport decarbonization strategies.
     - title: PhD Candidate
       institution: CEA Liten, Grenoble, France
       year: 2018–2021
       description:
-        - Modeling the impact of intermittent renewables on the French energy system
-        - Studied storage–heat–fuel integration
+        - Modeled the integration of intermittent renewables into the French power system.
+        - Analyzed storage–heat–fuel synergies.
     - title: Research Intern
       institution: Jet Propulsion Laboratory, Pasadena, CA, USA
       year: 2015
       description:
-        - Shallow convective clouds modeling
+        - Developed models of shallow convective cloud dynamics.
     - title: Research Intern
       institution: ISTerre, Grenoble, France
       year: 2014
       description:
-        - Studied forest effects on seismic wave propagation
+        - Investigated forest influences on seismic wave propagation.
     - title: Research Intern
       institution: ENS Ulm, Paris, France
       year: 2013
       description:
-        - Modeled Tibetan Plateau border thickening
+        - Modeled lithospheric thickening at the margins of the Tibetan Plateau.
 
 - title: Supervision
   type: time_table
   contents:
-    - title: PhD Supervision
-      year: 2022 - present
+    - title: PhD Students (Co-supervisor)
+      year: 2022–present
       description:
-        - Lukas Hofmann (main supervisor): Electricity-heat coupling in France.
-        - Héloïse Parmentier (co-supervisor): Charging infrastructure for EVs.
-        - Justine Duval (co-supervisor): Global energy equity and resource allocation.
-    - title: Master Students
-      year: 2023 - 2024
+        - Lukas Hofmann: Coupling of electricity and heating in France.
+        - Héloïse Parmentier: Electric vehicle charging infrastructure.
+        - Justine Duval: Global equity in low-carbon resource allocation.
+    - title: Master’s Students
+      year: 2023–2024
       description:
-        - A.-G. Lemelle & J. Duval: Thermal storage and vRES under climate constraints.
+        - A.-G. Lemelle & J. Duval: Thermal storage and renewable integration under climate stressors.
 
 - title: Teaching
   type: time_table
   contents:
-    - title: Nuclear Energy Economy (6h/year)
-      institution: Master 2 EEDD, GAEL, Grenoble
-      year: 2023 - present
+    - title: Nuclear Energy Economics (6h/year)
+      institution: Master 2 EEDD, GAEL, Université Grenoble Alpes
+      year: 2023–present
     - title: Project Supervision (Master level)
       institution: PTGreen Graduate School & Mines Paris
-      year: 2023 - present
-    - title: Flexibility of Power Systems – French Case Study
+      year: 2023–present
+    - title: Power System Flexibility (French Case Study)
       institution: École Énergie Recherche, Roscoff
       year: 2024
     - title: Assistant in Physics
-      institution: French Preparatory School
+      institution: Classes préparatoires
       year: 2016
 
 - title: Technical Skills
   type: list
   contents:
-    - Python, Matlab, Fortran
+    - Python, MATLAB, Fortran
     - LaTeX, SolidWorks
     - Adobe Photoshop, Illustrator
 
@@ -110,7 +110,7 @@
   contents:
     - title: Energy System Modeling
       items:
-        - Variable renewable energy integration.
+        - Integration of variable renewables.
         - Electricity and thermal storage.
     - title: Global Energy Transitions
       items:
@@ -120,14 +120,14 @@
 - title: Projects
   type: time_table
   contents:
-    - title: EQUALS (ANR AAPG2025)
+    - title: EQUALS (ANR AAPG 2025)
       year: 2024
       description:
-        - Global low-carbon resource allocation under climatic, economic, and territorial constraints.
-    - title: Crossing the Peruvian Andes by bike
+        - Optimizing global low-carbon electricity allocation under climate, economic, and spatial constraints.
+    - title: Cycling Expedition – Peruvian Andes
       year: 2015
       description:
-        - 8-month cycling journey through Cordillera Blanca.
+        - 8-month solo cycling journey across the Cordillera Blanca.
 
 - title: Other Interests
   type: list
