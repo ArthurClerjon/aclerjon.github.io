@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Affiliations. Address. Contacts. Motto. Etc.
+subtitle: Welcome to my personal webpage!
 
 profile:
   align: right
@@ -31,7 +31,7 @@ latest_posts:
 
 ---
 
-I am a researcher at the [CEA](https://www.cea.fr/) in Grenoble, France. My work focuses on how to design and adapt energy systems to support climate goals, with particular attention to **technical**, **economic**, and **environmental** constraints.
+I am a permanent researcher at the [CEA](https://www.cea.fr/) in Grenoble, France. My work focuses on how to design and adapt energy systems to support climate goals, with particular attention to **technical**, **economic**, and **environmental** constraints.
 
 With a background in physics and engineering, and a PhD in energy system modeling, I study the impacts of technological choices—such as **renewable energy**, **energy storage**, or **electrification**—on the structure and performance of energy systems, from national to international scales.
 
