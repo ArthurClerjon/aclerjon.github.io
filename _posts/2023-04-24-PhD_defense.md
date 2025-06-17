@@ -9,9 +9,16 @@ categories: sample-posts
 
 
 
-I have defended my PhD a few years ago. Here is the replay.
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="https://www.youtube.com/watch?v=0wpwx5UmCWY" class="img-fluid rounded z-depth-1" %}
-    </div>
+I have defended my PhD in March, 2021. Here is the replay.
+
+
+<div style="text-align:center;">
+  <iframe width="560" height="315" 
+    src="https://www.youtube.com/embed/0wpwx5UmCWY?si=QeW3AAWNXoel4VsV" 
+    title="YouTube video player" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    referrerpolicy="strict-origin-when-cross-origin" 
+    allowfullscreen>
+  </iframe>
 </div>
