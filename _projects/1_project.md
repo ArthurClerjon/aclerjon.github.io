@@ -31,9 +31,9 @@ Nous avons construit une représentation graphique des flux entre la consommatio
 </div>
 
 <div class="p-3 rounded" style="background-color: #0d3b66; color: white;">
-  <h5 class="text-center mb-4" style="font-size: 1.2rem;">Messages principaux</h5>
+  <h5 class="text-center mb-4" style="font-size: 1.2rem; color: white;">Messages principaux</h5>
 
-  <h6 style="font-size: 1rem;"><strong>Les chiffres clefs :</strong></h6>
+  <h6 style="font-size: 1rem; color: white;"><strong>Les chiffres clefs :</strong></h6>
   <ul>
     <li>En 2019, la France a consommé <strong>1840 TWh</strong> d’énergie finale.</li>
     <li><strong>65 %</strong> de cette consommation est d’origine fossile.</li>
@@ -55,7 +55,7 @@ Nous avons construit une représentation graphique des flux entre la consommatio
     </li>
   </ul>
 
-  <h6 style="font-size: 1rem;"><strong>Les défis à venir :</strong></h6>
+  <h6 style="font-size: 1rem; color: white;"><strong>Les défis à venir :</strong></h6>
   <ul>
     <li>L’électrification massive des usages est un levier indispensable pour réduire fortement la consommation d’énergie fossile.</li>
     <li>Cette électrification :
@@ -441,25 +441,26 @@ Pour cette raison, le CEA I-Tésé est l'un des membres fondateurs de Prométhé
 1 Equation de Kaya : Yoichi Kaya et Keiichi Yokobori, Environment, energy, and economy : strategies for sustainability : Tokyo conference on Global Environment, Energy and Economic Development (1993), United Nations Univ. Press, Tokyo, 1997, 381 p. (ISBN 92-808-0911-3).
 2 Au rythme actuel, le parc automobile se renouvelle en 20 ans, le parc immobilier en 50 ans.
 
-
 ### Remerciements
-Ce travail est le fruit d’une réflexion et d’une compréhension qui s’est construite sur le long terme avec de nombreux  experts du domaine. Pour cette raison, l‘auteur principal souhaite remercier l’ensemble des chercheurs du CEA avec qui il a pu collaborer et échanger pour produire ce document.
-En particulier au sein de l’équipe du CEA I-Tésé, merci à , , , ,  et  pour leur collaboration. Merci également à Philippe AZAÏS et Fabien PERDU pour leurs précieux conseils. Pour terminer, l'équipe d'I-Tésé remercie chaleureusement Gabrielle MERITE de nous avoir aidés à illustrer chacun des messages scientifiques que nous avons souhaité partager.
+
+Ce travail est le fruit d’une réflexion et d’une compréhension qui s’est construite sur le long terme avec de nombreux experts du domaine. Pour cette raison, l‘auteur principal souhaite remercier l’ensemble des chercheurs du CEA avec qui il a pu collaborer et échanger pour produire ce document.
+
+En particulier au sein de l’équipe du **CEA I-Tésé**, merci à Clotilde Chagny, Arthur Lynch, Louise Leray, Valérie Seguin, Guillaume Boissonnet et Bertrand Charmaison pour leur collaboration. Merci également à Philippe Azaïs et Fabien Perdu pour leurs précieux conseils. Pour terminer, l'équipe d'I-Tésé remercie chaleureusement **Gabrielle Merite** de nous avoir aidés à illustrer chacun des messages scientifiques que nous avons souhaité partager.
+
+---
 
 ### Notes méthodologiques
+
 Les données utilisées pour réaliser ces graphiques correspondent à une agrégation de plusieurs documents issus du SDES, pour les données 2019. Les valeurs correspondent aux données réelles en 2019, et ne sont pas corrigées des aléas climatiques (par opposition à climat constant donc).
 
+Le champ de l’étude inclut la France métropolitaine ainsi que les DROM.
 
-Le champ de l’étude inclut la France métropolitaine ainsi que le DROM.
+La structure générale des données provient du **Service des Données et Études Statistiques (SDES)** du gouvernement. Les données sont disponibles [ici (Excel)](https://www.statistiques.developpement-durable.gouv.fr/sites/default/files/2020-12/bilan-energetique-2019-donnees-xls.zip) et [là (PDF)](https://www.statistiques.developpement-durable.gouv.fr/sites/default/files/2020-12/bilan-energetique-2019.pdf). Ces données ont été comparées avec la répartition par source et par usage faite par l’**Agence Internationale de l’Énergie (AIE)** sur la base des données du SDES. Ces deux sources sont cohérentes. Nous avons choisi, dans le cadre du transport domestique, d’utiliser la répartition proposée par l’AIE. Pour les autres secteurs, les données utilisées sont celles du SDES.
 
+Il est important de noter également que les consommations énergétiques finales de gaz et combustibles gaz sont données au **PCI** (Pouvoir Calorifique Inférieur) et non au PCS.
 
-La structure générale des données proviennent du Service des Données et Etudes Statistiques (SDES) du gouvernement. Les données sont disponibles (au format Excel) et (en pdf). Ces données ont été comparées avec la répartition par source et par usage faite par l’Agence Internationale de l’Energie (AIE) sur la base des données du SDES. Ces deux sources sont cohérentes, et nous avons choisi, dans le cadre du transport domestique, d’utiliser la répartition proposée par l’AIE. Pour les autres secteurs, les données sont celles du SDES.
+Le contenu CO₂ des vecteurs énergétiques finaux provient de la [Base Carbone - Bilan GES de l’ADEME](https://bilans-ges.ademe.fr/). Celui-ci est exprimé en kgCO₂ équivalent par MWh (au PCI pour les combustibles), c’est-à-dire qu’il s’agit des émissions équivalentes de GES, ramenées au pouvoir de réchauffement du CO₂, par unité d’énergie disponible, avant utilisation et conversion dans un moteur ou un moyen de chauffage.
 
-
-Il est important de noter également que les consommations énergétiques finales de gaz et combustibles gaz sont données au PCI et non pas au PCS.
-
-
-Le contenu CO2 des vecteurs énergétiques finaux provient de la base Carbone  de l’ADEME. Celui-ci est exprimé en kgCO2 équivalent par MWh (PCI pour les combustibles). C’est à dire qu’il s’agit des émissions équivalentes de GES, ramenées au pouvoir de réchauffement du CO2, par unité d’énergie disponible, avant utilisation et conversion, dans un moteur ou un moyen de chauffage par exemple.
 
 ---
 
