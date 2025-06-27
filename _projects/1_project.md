@@ -30,15 +30,11 @@ Nous avons construit une représentation graphique des flux entre la consommatio
   <img src="/assets/img/Sankey/Itese_Sankey_Gradient.png" alt="Diagramme de Sankey" style="max-width: 100%; height: auto;">
 </div>
 
-<<div class="text-center my-4">
-  <img src="/assets/img/Sankey/Itese_Sankey_Gradient.png" alt="Diagramme de Sankey" style="max-width: 100%; height: auto;">
-</div>
+<div class="p-3 rounded" style="background-color: #0d3b66; color: #ffffff !important;">
+  <h5 class="text-center mb-4" style="font-size: 1.2rem; color: #ffffff;">Messages principaux</h5>
 
-<div class="p-3 rounded" style="background-color: #0d3b66; color: white !important;">
-  <h5 class="text-center mb-4" style="font-size: 1.2rem; color: white !important;">Messages principaux</h5>
-
-  <h6 style="font-size: 1rem; color: white !important;"><strong>Les chiffres clefs :</strong></h6>
-  <ul style="color: white !important;">
+  <h6 style="font-size: 1rem;"><strong>Les chiffres clefs :</strong></h6>
+  <ul>
     <li>En 2019, la France a consommé <strong>1840 TWh</strong> d’énergie finale.</li>
     <li><strong>65 %</strong> de cette consommation est d’origine fossile.</li>
     <li>Les usages les plus consommateurs en énergie et les plus dépendants des énergies fossiles sont :
@@ -59,8 +55,8 @@ Nous avons construit une représentation graphique des flux entre la consommatio
     </li>
   </ul>
 
-  <h6 style="font-size: 1rem; color: white !important;"><strong>Les défis à venir :</strong></h6>
-  <ul style="color: white !important;">
+  <h6 style="font-size: 1rem;"><strong>Les défis à venir :</strong></h6>
+  <ul>
     <li>L’électrification massive des usages est un levier indispensable pour réduire fortement la consommation d’énergie fossile.</li>
     <li>Cette électrification :
       <ul>
@@ -87,10 +83,9 @@ Nous avons construit une représentation graphique des flux entre la consommatio
     <li>Certaines matières premières minérales seront en tension avec cette électrification</li>
   </ul>
 
-  <hr style="border-color: rgba(255,255,255,0.2);">
-
-  <p style="color: white !important;"><strong>Des efforts de <em>sobriété</em></strong>, c’est-à-dire une <strong>réduction de la demande en énergie</strong>, sont également <strong>indispensables</strong> pour atteindre les objectifs de la SNBC.</p>
+  <p><strong>Des efforts de <em>sobriété</em></strong>, c’est-à-dire une <strong>réduction de la demande en énergie</strong>, sont également <strong>indispensables</strong> pour atteindre les objectifs de la SNBC.</p>
 </div>
+
 
 
 ### Introduction
