@@ -8,23 +8,26 @@ category: Usages de l'énergie en France
 related_publications: true
 ---
 
-# Attention, page en cours de construction.
 
-# La France dépend encore majoritairement des énergies fossiles. 
-## Quels leviers pour décarboner ?
+<div class="alert alert-warning text-center">
+  <strong>Attention :</strong> Page en cours de construction.
+</div>
 
-### Résumé
-Nous avons construit une représentation graphique des flux entre la consommation d’énergie finale et les usages à l’échelle du territoire français sous la forme d’un diagramme de Sankey. Ce diagramme permet d’apprécier les volumes en jeu ainsi que leur origine et contenu CO2, et sert de base à une analyse du potentiel des grands leviers de décarbonation.
+<div class="alert alert-secondary">
+Ce travail a été réalisé entre 2022 et 2023 pour le CEA I-Tésé. Cette page est une copie du document original publié <a href="https://www.cea.fr/energies/i-tese/Pages/Actualites/Focus-Thematiques/usages-energie-france.aspx" target="_blank">ici</a>.
+</div>
+
+## La France dépend encore majoritairement des énergies fossiles.  
+### Quels leviers pour décarboner ?
+
+#### Résumé  
+Nous avons construit une représentation graphique des flux entre la consommation d’énergie finale et les usages sous forme d’un diagramme de Sankey. Ce diagramme décrit les volumes en jeu, leur origine et leur contenu en CO₂, et sert de base pour analyser les leviers majeurs de décarbonation.
+
 
 <div class="alert alert-info" role="alert">
 Cette publication a initialement été publiée sur le site internet du CEA I-tésé à l'adresse suivante : https://www.cea.fr/energies/i-tese/Pages/Actualites/Focus-Thematiques/usages-energie-france.aspx
 </div>
 
-  <div class="col-auto">
-    <a href="/assets/img/Sankey/Itese_Sankey_Gradient.png" target="_blank">
-      <img src="/assets/img/Sankey/Itese_Sankey_Gradient.png" alt="Flux énergétiques" class="img-thumbnail" style="max-width: 150px;">
-    </a>
-  </div>
 
   ### Messages principaux
 
@@ -404,7 +407,6 @@ La sobriété, c'est-à-dire la réduction des besoins, quels qu’ils soient : 
 <div class="caption">pompes à chaleur</div>
 
 
-
 Après avoir joué sur le choix d’énergies bas-carbone et l'efficacité énergétique, le changement des modes de vie ainsi que les efforts de sobriété auront un rôle crucial – et potentiellement plus rapide – pour atteindre les objectifs climatiques et l’arrêt du recours aux combustibles fossiles. C’est notamment ce qui a été souigné pour la toute première fois par le GIEC dans son dernier rapport (Sixth Assessment Report), indiquant que des efforts de sobriété combinés à l'efficacité énergétique pourraient réduire les émissions de CO2 de 40 à 70% dans certains secteurs de l’économie mondiale (voir figure SPM.7b).
 
 Importance d’une approche interdisciplinaire 
@@ -454,13 +456,6 @@ Données relatives au secteur tertiaire :
 
 
 
-
-
-
-
-
-
-
 ### Définitions
 Bas carbone : Qualifie l’ensemble des vecteurs énergétiques à faible contenu CO2, tel que l’électricité en France, les ‘ENRt et déchets’, ainsi que la chaleur commercialisée (voir haut carbone).
 
@@ -490,25 +485,12 @@ Usages non énergétiques des fossiles : Il s’agit de l’usage des ressources
 COP : Coefficient de Performance.
 ECS : Eau Chaude Sanitaire.
 ENR : ENergie Renouvelable.
-
-
 ENRt : ENergie Renouvelable thermique.
-
-
 GES : Gaz à Effet de Serre.
-
-
 GIEC : Groupe d'experts Intergouvernemental sur l’Evolution du Climat.
-
-
 PAC : Pompe à Chaleur.
-
-
 PCI : Pouvoir Calorifique Inférieur (par opposition au PCS, Pouvoir calorifique supérieur). 
-
-
 SNBC : 
-
 VE : Véhicule électrique.
 
 
