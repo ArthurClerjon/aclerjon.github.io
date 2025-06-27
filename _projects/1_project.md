@@ -14,7 +14,7 @@ related_publications: true
 </div>
 
 <div class="alert alert-secondary">
-Ce travail a été réalisé entre 2022 et 2023 pour le CEA I-Tésé. Cette page est une copie du document original publié <a href="https://www.cea.fr/energies/i-tese/Pages/Actualites/Focus-Thematiques/usages-energie-france.aspx" target="_blank">ici</a>.
+J'ai réalisé ce travail entre 2022 et 2023 au sein du CEA I-Tésé. Dans une dynamique de capitalisation et regroupement de mes production, je le présente sur cette page. Le document original est disponible ici : <a href="https://www.cea.fr/energies/i-tese/Pages/Actualites/Focus-Thematiques/usages-energie-france.aspx" target="_blank">ici</a>.
 </div>
 
 ## La France dépend encore majoritairement des énergies fossiles.  
@@ -24,48 +24,66 @@ Ce travail a été réalisé entre 2022 et 2023 pour le CEA I-Tésé. Cette page
 Nous avons construit une représentation graphique des flux entre la consommation d’énergie finale et les usages sous forme d’un diagramme de Sankey. Ce diagramme décrit les volumes en jeu, leur origine et leur contenu en CO₂, et sert de base pour analyser les leviers majeurs de décarbonation.
 
 
-<div class="alert alert-info" role="alert">
-Cette publication a initialement été publiée sur le site internet du CEA I-tésé à l'adresse suivante : https://www.cea.fr/energies/i-tese/Pages/Actualites/Focus-Thematiques/usages-energie-france.aspx
-</div>
-
-
   ### Messages principaux
 
+<h3>Messages principaux</h3>
+
 <div class="alert alert-info" role="alert">
+  <h4><strong>Les chiffres clefs :</strong></h4>
+  <ul>
+    <li>En 2019, la France a consommé <strong>1840 TWh</strong> d’énergie finale.</li>
+    <li><strong>65 %</strong> de cette consommation est d’origine fossile.</li>
+    <li>Les usages les plus consommateurs en énergie et les plus dépendants des énergies fossiles sont :
+      <ul>
+        <li><strong>Transport routier</strong> :
+          <ul>
+            <li>488 TWh, dont 450 TWh fossile</li>
+            <li>30 % des émissions de GES sur le territoire</li>
+          </ul>
+        </li>
+        <li><strong>Chauffage résidentiel-tertiaire</strong> :
+          <ul>
+            <li>400 TWh, dont 218 TWh fossile</li>
+            <li>15 % des émissions de GES sur le territoire</li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+  </ul>
 
-**Les chiffres clefs :**
+  <hr>
 
-- En 2019, la France a consommé **1840 TWh** d’énergie finale.
-- **65 %** de cette consommation est d’origine fossile.
-- Les usages les plus consommateurs en énergie et les plus dépendants des énergies fossiles sont :
-  - **Transport routier** :
-    - 488 TWh, dont 450 TWh fossile
-    - 30 % des émissions de GES sur le territoire
-  - **Chauffage résidentiel-tertiaire** :
-    - 400 TWh, dont 218 TWh fossile
-    - 15 % des émissions de GES sur le territoire
+  <h4><strong>Les défis à venir :</strong></h4>
+  <ul>
+    <li>L’électrification massive des usages est un levier indispensable pour réduire fortement la consommation d’énergie fossile.</li>
+    <li>Cette électrification :
+      <ul>
+        <li>Implique de fortes consommations additionnelles</li>
+        <li>Nécessite de nouvelles capacités de production d’électricité bas-carbone</li>
+      </ul>
+    </li>
+    <li>La disponibilité d’électricité bas carbone étant limitée au moins à court terme :
+      <ul>
+        <li>Il faudra privilégier les solutions à <strong>forte efficacité énergétique</strong>
+          <ul>
+            <li>Exemples : pompes à chaleur, véhicules électriques</li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+    <li>Les autres solutions complémentaires :
+      <ul>
+        <li>Biomasse</li>
+        <li>Valorisation de la chaleur fatale</li>
+        <li>Ces solutions <strong>ne sont pas disponibles en quantité suffisante</strong> pour remplacer totalement les fossiles</li>
+      </ul>
+    </li>
+    <li>Certaines matières premières minérales seront en tension avec cette électrification</li>
+  </ul>
 
----
+  <hr>
 
-**Les défis à venir :**
-
-- L’électrification massive des usages est un levier indispensable pour réduire fortement la consommation d’énergie fossile.
-- Cette électrification :
-  - Implique de fortes consommations additionnelles
-  - Nécessite de nouvelles capacités de production d’électricité bas-carbone
-- La disponibilité d’électricité bas carbone étant limitée au moins à court terme :
-  - Il faudra privilégier les solutions à **forte efficacité énergétique**
-    - Exemples : pompes à chaleur, véhicules électriques
-- Les autres solutions complémentaires :
-  - Biomasse
-  - Valorisation de la chaleur fatale
-  - Ces solutions **ne sont pas disponibles en quantité suffisante** pour remplacer totalement les fossiles
-- Certaines matières premières minérales seront en tension avec cette électrification
-
----
-
-Des efforts de **sobriété**, c’est-à-dire une **réduction de la demande en énergie**, sont également **indispensables** pour atteindre les objectifs de la SNBC.
-
+  <p><strong>Des efforts de <em>sobriété</em></strong>, c’est-à-dire une <strong>réduction de la demande en énergie</strong>, sont également <strong>indispensables</strong> pour atteindre les objectifs de la SNBC.</p>
 </div>
 
 ## Figures
