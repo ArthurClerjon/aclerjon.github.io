@@ -458,59 +458,65 @@ Il est important de noter également que les consommations énergétiques finale
 
 Le contenu CO2 des vecteurs énergétiques finaux provient de la base Carbone  de l’ADEME. Celui-ci est exprimé en kgCO2 équivalent par MWh (PCI pour les combustibles). C’est à dire qu’il s’agit des émissions équivalentes de GES, ramenées au pouvoir de réchauffement du CO2, par unité d’énergie disponible, avant utilisation et conversion, dans un moteur ou un moyen de chauffage par exemple.
 
+---
 
 ### Ressources supplémentaires – références
-Note : les données peuvent présenter des écarts avec celles diffusées dans le cadre du bilan de l'énergie (au-delà de la correction des variations climatiques réalisée dans le bilan). Ces écarts proviennent d'une différence de méthodologie et de champ notamment, les secteurs de la réparation/installation de machines industrielles, de la distribution d'eau et du traitement des eaux usées/déchets figurent dans le bilan dans le champ du tertiaire et non pas ici.
-Données relatives au transport : 
-Données relatives à la consommation énergétique en France : 
 
+> 📝 **Note** : les données peuvent présenter des écarts avec celles diffusées dans le cadre du bilan de l'énergie (au-delà de la correction des variations climatiques réalisée dans le bilan). Ces écarts proviennent d'une différence de méthodologie et de champ. Par exemple, les secteurs de la réparation/installation de machines industrielles, de la distribution d'eau et du traitement des eaux usées/déchets sont comptabilisés dans le tertiaire dans le bilan, mais pas ici.
 
+- **Données relatives au transport** :  
+  [https://www.statistiques.developpement-durable.gouv.fr/edition-numerique/chiffres-cles-du-climat/11-emissions-de-ges-des-transports](https://www.statistiques.developpement-durable.gouv.fr/edition-numerique/chiffres-cles-du-climat/11-emissions-de-ges-des-transports)
 
-Données relatives au secteur résidentiel :
+- **Données relatives à la consommation énergétique en France** :  
+  [https://www.statistiques.developpement-durable.gouv.fr/edition-numerique/bilan-energetique-2019/pdf/document.pdf](https://www.statistiques.developpement-durable.gouv.fr/edition-numerique/bilan-energetique-2019/pdf/document.pdf)
 
+- **Données relatives au secteur résidentiel** :  
+  [https://www.statistiques.developpement-durable.gouv.fr/consommation-denergie-par-usage-du-residentiel](https://www.statistiques.developpement-durable.gouv.fr/consommation-denergie-par-usage-du-residentiel)
 
+- **Données relatives au secteur tertiaire** :  
+  [https://www.statistiques.developpement-durable.gouv.fr/consommation-denergie-par-usage-du-tertiaire](https://www.statistiques.developpement-durable.gouv.fr/consommation-denergie-par-usage-du-tertiaire)
 
-Données relatives au secteur tertiaire : 
+- **Base Carbone ADEME (bilans GES)** :  
+  [https://bilans-ges.ademe.fr/](https://bilans-ges.ademe.fr/)
 
 
 
 ### Définitions
-Bas carbone : Qualifie l’ensemble des vecteurs énergétiques à faible contenu CO2, tel que l’électricité en France, les ‘ENRt et déchets’, ainsi que la chaleur commercialisée (voir haut carbone).
 
-Chaleur fatale : De manière générale, on qualifie de fatale une énergie qui est perdue si elle n’est pas valorisée au moment où elle est produite/disponible. C’est le cas des émission de chaleur lors de procédés industriels ou de transformations chimiques, lorsque les émissions de chaleur ne sont pas valorisées.
+- **Bas carbone** : Qualifie l’ensemble des vecteurs énergétiques à faible contenu CO₂, tels que l’électricité en France, les ENRt et déchets, ainsi que la chaleur commercialisée (voir haut carbone).
 
+- **Chaleur fatale** : Énergie qui serait perdue si elle n’est pas valorisée au moment de sa production. C’est typiquement le cas de la chaleur générée lors de procédés industriels ou chimiques, lorsqu’elle n’est pas récupérée.
 
-Chaleur commercialisée : Chaleur étant vendue à des tiers, par le biais des réseaux de chaleur et par les installations de cogénération non reliées à ces derniers. Les valeurs données sont nettes des pertes de distribution. 
+- **Chaleur commercialisée** : Chaleur vendue à des tiers via des réseaux de chaleur ou des installations de cogénération non connectées à ces réseaux. Les données sont nettes des pertes de distribution.
 
+- **Énergie finale** : Énergie livrée au consommateur pour sa consommation directe (par exemple : essence à la pompe, électricité à domicile).
 
-Energie finale : L'énergie finale (ou vecteur énergétique final) est l'énergie livrée au consommateur pour sa consommation finale (essence à la pompe, électricité au foyer, etc.). ().
+- **Énergie primaire** : Ressource énergétique brute non transformée, exploitée directement ou importée : pétrole brut, gaz naturel, charbon, biomasse, énergie solaire, hydraulique, éolienne, géothermie, nucléaire. Dans ce document, on parle plutôt de ressource énergétique primaire, car elle doit encore être transformée pour devenir disponible.
 
-Energie primaire : ‘L'énergie primaire est l'ensemble des produits énergétiques non transformés, exploités directement ou importés. Ce sont principalement le pétrole brut, les schistes bitumineux, le gaz naturel, les combustibles minéraux solides, la biomasse, le rayonnement solaire, l'énergie hydraulique, l'énergie du vent, la géothermie et l'énergie tirée de la fission de l'uranium.’ (). On préférera parler dans ce texte de ressource énergétique primaire, puisqu’il ne s’agit pas directement d’énergie disponible, mais bien de ressources primaires pouvant être transformées et convertie en énergie. On parlera alors de de vecteur énergétique final, ou par abus de langage, d’énergie finale.
+- **Énergies renouvelables thermiques et déchets** : Énergies produites sous forme de chaleur, incluant :
+  - Combustion : bois-énergie, biocarburants, biogaz, déchets urbains ou industriels.
+  - Production primaire de chaleur : géothermie, solaire thermique, pompes à chaleur.
 
-Energies renouvelables thermiques et déchets : Définition du (page 32)  : Les énergies renouvelables thermiques (bois, solaire thermique, biocarburants, pompes à chaleur, géothermie etc.) et les déchets regroupent les filières pour lesquelles l’énergie produite l’est sous forme de chaleur, avant d’être éventuellement convertie sous une autre forme (en électricité ou en force motrice notamment). On distingue les filières de production d’énergie par combustion de celles de production primaire de chaleur. Les premières regroupent d’une part la biomasse, qu’elle soit solide (bois-énergie, résidus agricoles et agroalimentaires), liquide (biocarburants) ou gazeuse (biogaz), d’autre part les déchets incinérés (urbains et industriels). Les secondes regroupent la géothermie, le solaire thermique et les pompes à chaleur.
+- **Haut carbone** : Qualifie les vecteurs énergétiques issus de combustibles fossiles comme le charbon, le pétrole et le gaz.
 
+- **Réseau de chaleur** : Système de distribution de chaleur produite de manière centralisée pour alimenter plusieurs utilisateurs. Il peut inclure des unités de production permettant d’utiliser massivement des énergies renouvelables ou de récupération.
 
-Haut carbone : Qualifie l’ensemble des vecteurs énergétiques issus des combustibles fossiles comme le charbon, le pétrole et le gaz (voir bas carbone).
-
-
-Réseau de chaleur : Un  est un système de distribution de chaleur produite de façon centralisée, permettant de desservir plusieurs usagers. Il comprend une ou plusieurs unités de production de chaleur, permettant de mobiliser massivement les énergies renouvelables et de récupération.
-
-
-Usages non énergétiques des fossiles : Il s’agit de l’usage des ressources fossiles ne donnant pas lieu à une combustion. Le pétrole, gaz ou charbon sont alors employés  comme molécule pour la synthèse d’autres molécules, par exemple l'ammoniac ou des polymères (plastique).
+- **Usages non énergétiques des fossiles** : Utilisation des ressources fossiles comme matières premières (et non comme combustibles) pour produire d'autres substances, par exemple : ammoniac, plastiques, solvants, etc.
 
 
 ### Abréviations
-COP : Coefficient de Performance.
-ECS : Eau Chaude Sanitaire.
-ENR : ENergie Renouvelable.
-ENRt : ENergie Renouvelable thermique.
-GES : Gaz à Effet de Serre.
-GIEC : Groupe d'experts Intergouvernemental sur l’Evolution du Climat.
-PAC : Pompe à Chaleur.
-PCI : Pouvoir Calorifique Inférieur (par opposition au PCS, Pouvoir calorifique supérieur). 
-SNBC : 
-VE : Véhicule électrique.
 
+
+- **COP** : Coefficient de Performance  
+- **ECS** : Eau Chaude Sanitaire  
+- **ENR** : Énergie Renouvelable  
+- **ENRt** : Énergie Renouvelable Thermique  
+- **GES** : Gaz à Effet de Serre  
+- **GIEC** : Groupe d'experts Intergouvernemental sur l’Évolution du Climat  
+- **PAC** : Pompe à Chaleur  
+- **PCI** : Pouvoir Calorifique Inférieur (par opposition au PCS, Pouvoir Calorifique Supérieur)  
+- **SNBC** : Stratégie Nationale Bas Carbone  
+- **VE** : Véhicule Électrique  
 
 
 
