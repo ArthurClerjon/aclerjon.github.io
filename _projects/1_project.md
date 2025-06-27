@@ -265,13 +265,14 @@ Pour cela, nous distinguerons les vecteurs énergétiques dits ‘bas carbone’
 ### 1.b - Un système qui repose majoritairement sur les fossiles
 La répartition de l’énergie finale par source (électricité, pétrole, gaz, etc...) – représentée par la partie gauche du diagramme de Sankey – est agrégée sous un autre format sur le visuel ci-dessous.
 
-![pompes à chaleur](assets/img/Sankey/Itese_Visual_1.png)
-<div class="caption">pompes à chaleur</div>
+<div class="text-center my-4">
+  <img src="/assets/img/Sankey/Itese_Visual_2.png" alt="" style="max-width: 100%; height: auto;">
+</div>
 
 Ce graphique montre que près de 65% de l’énergie finale consommée est d’origine fossile – pétrole, gaz naturel et charbon. Le reste de la consommation finale est répartie entre : 
-L’électricité, bas carbone en France. 
-Les énergies renouvelables thermiques (ENRt) et déchets, à savoir les énergies produites directement sous forme de chaleur et non pas d’électricité, notamment le chauffage au bois, les  pompes à chaleur, le solaire thermique et les centrales thermiques à base de combustible ‘renouvelable’.
-La chaleur commercialisée.
+- L’électricité, bas carbone en France. 
+- Les énergies renouvelables thermiques (ENRt) et déchets, à savoir les énergies produites directement sous forme de chaleur et non pas d’électricité, notamment le chauffage au bois, les  pompes à chaleur, le solaire thermique et les centrales thermiques à base de combustible ‘renouvelable’.
+- La chaleur commercialisée.
 
 
 Près de 65% de l'énergie finale consommée en France est d'origine fossile.
@@ -290,8 +291,9 @@ Usages non-énergétiques des fossiles en tant que matière première.
 Ces données sont agrégées dans le visuel ci-dessous (partie de droite du Sankey) représentant pour chaque secteur sa consommation totale d’énergie en fonction des vecteurs énergétiques finaux.
 
 
-![pompes à chaleur](assets/img/Sankey/Itese_Visual_2.png)
-<div class="caption">pompes à chaleur</div>
+<div class="text-center my-4">
+  <img src="/assets/img/Sankey/Itese_Visual_3.png" alt="" style="max-width: 100%; height: auto;">
+</div>
 
 Charbon énergétique et charbon métallurgique, quelles différences ?
 
