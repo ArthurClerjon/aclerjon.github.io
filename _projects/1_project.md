@@ -17,8 +17,10 @@ related_publications: true
 J'ai réalisé ce travail entre 2022 et 2023 au sein du CEA I-Tésé. Dans une dynamique de capitalisation et regroupement de mes production, je le présente sur cette page. Le document original est disponible ici : <a href="https://www.cea.fr/energies/i-tese/Pages/Actualites/Focus-Thematiques/usages-energie-france.aspx" target="_blank">ici</a>.
 </div>
 
-## La France dépend encore majoritairement des énergies fossiles.  
-### Quels leviers pour décarboner ?
+<div style="text-align: center;">
+  <h2>La France dépend encore majoritairement des énergies fossiles.</h2>
+  <h3>Quels leviers pour décarboner ?</h3>
+</div>
 
 #### Résumé  
 Nous avons construit une représentation graphique des flux entre la consommation d’énergie finale et les usages sous forme d’un diagramme de Sankey. Ce diagramme décrit les volumes en jeu, leur origine et leur contenu en CO₂, et sert de base pour analyser les leviers majeurs de décarbonation.
