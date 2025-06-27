@@ -30,11 +30,10 @@ Nous avons construit une représentation graphique des flux entre la consommatio
   <img src="/assets/img/Sankey/Itese_Sankey_Gradient.png" alt="Diagramme de Sankey" style="max-width: 100%; height: auto;">
 </div>
 
+<div class="p-3 rounded" style="background-color: #0d3b66; color: white;">
+  <h5 class="text-center mb-4" style="font-size: 1.2rem;">Messages principaux</h5>
 
-<h3>Messages principaux</h3>
-
-<div class="alert alert-info" role="alert">
-  <h4><strong>Les chiffres clefs :</strong></h4>
+  <h6 style="font-size: 1rem;"><strong>Les chiffres clefs :</strong></h6>
   <ul>
     <li>En 2019, la France a consommé <strong>1840 TWh</strong> d’énergie finale.</li>
     <li><strong>65 %</strong> de cette consommation est d’origine fossile.</li>
@@ -56,9 +55,7 @@ Nous avons construit une représentation graphique des flux entre la consommatio
     </li>
   </ul>
 
-  <hr>
-
-  <h4><strong>Les défis à venir :</strong></h4>
+  <h6 style="font-size: 1rem;"><strong>Les défis à venir :</strong></h6>
   <ul>
     <li>L’électrification massive des usages est un levier indispensable pour réduire fortement la consommation d’énergie fossile.</li>
     <li>Cette électrification :
@@ -86,11 +83,10 @@ Nous avons construit une représentation graphique des flux entre la consommatio
     <li>Certaines matières premières minérales seront en tension avec cette électrification</li>
   </ul>
 
-  <hr>
+  <hr style="border-color: rgba(255,255,255,0.2);">
 
   <p><strong>Des efforts de <em>sobriété</em></strong>, c’est-à-dire une <strong>réduction de la demande en énergie</strong>, sont également <strong>indispensables</strong> pour atteindre les objectifs de la SNBC.</p>
 </div>
-
 
 ### Introduction
 L’objet de ce document est de présenter dans sa globalité le système énergétique français, de l’utilisation des ressources primaires aux usages finaux. Nous rappelons ici les principaux ordres de grandeur de consommation d’énergie, par sources et usages, afin de donner aux lecteurs une intuition des enjeux qu’implique la fin du recours aux énergies fossiles.
