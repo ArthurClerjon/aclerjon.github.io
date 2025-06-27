@@ -30,11 +30,15 @@ Nous avons construit une représentation graphique des flux entre la consommatio
   <img src="/assets/img/Sankey/Itese_Sankey_Gradient.png" alt="Diagramme de Sankey" style="max-width: 100%; height: auto;">
 </div>
 
-<div class="p-3 rounded" style="background-color: #0d3b66; color: white;">
-  <h5 class="text-center mb-4" style="font-size: 1.2rem; color: white;">Messages principaux</h5>
+<<div class="text-center my-4">
+  <img src="/assets/img/Sankey/Itese_Sankey_Gradient.png" alt="Diagramme de Sankey" style="max-width: 100%; height: auto;">
+</div>
 
-  <h6 style="font-size: 1rem; color: white;"><strong>Les chiffres clefs :</strong></h6>
-  <ul>
+<div class="p-3 rounded" style="background-color: #0d3b66; color: white !important;">
+  <h5 class="text-center mb-4" style="font-size: 1.2rem; color: white !important;">Messages principaux</h5>
+
+  <h6 style="font-size: 1rem; color: white !important;"><strong>Les chiffres clefs :</strong></h6>
+  <ul style="color: white !important;">
     <li>En 2019, la France a consommé <strong>1840 TWh</strong> d’énergie finale.</li>
     <li><strong>65 %</strong> de cette consommation est d’origine fossile.</li>
     <li>Les usages les plus consommateurs en énergie et les plus dépendants des énergies fossiles sont :
@@ -55,8 +59,8 @@ Nous avons construit une représentation graphique des flux entre la consommatio
     </li>
   </ul>
 
-  <h6 style="font-size: 1rem; color: white;"><strong>Les défis à venir :</strong></h6>
-  <ul>
+  <h6 style="font-size: 1rem; color: white !important;"><strong>Les défis à venir :</strong></h6>
+  <ul style="color: white !important;">
     <li>L’électrification massive des usages est un levier indispensable pour réduire fortement la consommation d’énergie fossile.</li>
     <li>Cette électrification :
       <ul>
@@ -85,8 +89,9 @@ Nous avons construit une représentation graphique des flux entre la consommatio
 
   <hr style="border-color: rgba(255,255,255,0.2);">
 
-  <p><strong>Des efforts de <em>sobriété</em></strong>, c’est-à-dire une <strong>réduction de la demande en énergie</strong>, sont également <strong>indispensables</strong> pour atteindre les objectifs de la SNBC.</p>
+  <p style="color: white !important;"><strong>Des efforts de <em>sobriété</em></strong>, c’est-à-dire une <strong>réduction de la demande en énergie</strong>, sont également <strong>indispensables</strong> pour atteindre les objectifs de la SNBC.</p>
 </div>
+
 
 ### Introduction
 L’objet de ce document est de présenter dans sa globalité le système énergétique français, de l’utilisation des ressources primaires aux usages finaux. Nous rappelons ici les principaux ordres de grandeur de consommation d’énergie, par sources et usages, afin de donner aux lecteurs une intuition des enjeux qu’implique la fin du recours aux énergies fossiles.
@@ -243,14 +248,15 @@ Les données utilisées pour produire ce graphique proviennent d’une agrégati
 
 Nous allons dans la suite de ce document analyser pas-à-pas ce diagramme pour apporter des éléments de réponses aux questions suivantes :
 
-Comment l’énergie finale est-elle répartie entre les différents secteurs de l’économie ?
-Quels sont les secteurs les plus consommateurs en énergie et émetteurs de gaz à effet de serre (GES)?
-Quels sont les potentiels reports de ressources fossiles vers des sources bas-carbones ? 
-Quels sont les secteurs à décarboner en priorité ?
+- Comment l’énergie finale est-elle répartie entre les différents secteurs de l’économie ?
+- Quels sont les secteurs les plus consommateurs en énergie et émetteurs de gaz à effet de serre (GES)?
+- Quels sont les potentiels reports de ressources fossiles vers des sources bas-carbones ? 
+- Quels sont les secteurs à décarboner en priorité ?
 
 Pour cela, nous distinguerons les vecteurs énergétiques dits ‘bas carbone’ et ‘haut carbone’ : 
-On qualifie de ‘haut carbone’ l’énergie finale issue des combustibles fossiles, comme le charbon, le gaz et le pétrole. A titre indicatif, ces vecteurs énergétiques ont un contenu carbone entre 200 et 400 gCO2/kWh.
-Par opposition, les vecteurs ‘bas-carbone’ ont un contenu CO2 plus faible, entre 50 et 130 gCO2/kWh. C’est le cas de l’électricité en France – grâce au parc électro-nucléaire, à l'hydroélectricité et aux énergies renouvelables – de la chaleur commercialisée et de l’énergie issue des déchets et de la biomasse.
+- On qualifie de ‘haut carbone’ l’énergie finale issue des combustibles fossiles, comme le charbon, le gaz et le pétrole. A titre indicatif, ces vecteurs énergétiques ont un contenu carbone entre 200 et 400 gCO2/kWh.
+- Par opposition, les vecteurs ‘bas-carbone’ ont un contenu CO2 plus faible, entre 50 et 130 gCO2/kWh. C’est le cas de l’électricité en France – grâce au parc électro-nucléaire, à l'hydroélectricité et aux énergies renouvelables – de la chaleur commercialisée et de l’énergie issue des déchets et de la biomasse.
+
 1 Dans ce diagramme de Sankey, les soutes internationales désignent la consommation énergétique (carburants) du transport aérien et maritime international.
 2 Le Mtep (Millions de tonnes équivalent pétrole) est une unité qui permet de quantifier l’énergie, au même titre que le TWh. 1 Mtep = 11.6 TWh.
 3 Les pertes des centrales électriques proviennent principalement des centrales nucléaires. La fission du combustible nucléaire dégage une forte quantité de chaleur, dont seulement 30 à 40% est convertie en électricité.
