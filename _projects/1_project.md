@@ -213,13 +213,17 @@ En France métropolitaine, environ 65% de l’énergie finale consommée est d�
 Afin d’illustrer les étapes principales de la chaîne d’approvisionnement énergétique et définir un vocabulaire commun, nous avons schématisé sur le graphique ci-dessous le processus permettant d’aboutir à une énergie finale, disponible à la consommation.
 
 
- 
+ <div class="text-center my-4">
+  <img src="/assets/img/Sankey/Itese_Visual_1.png" alt="" style="max-width: 100%; height: auto;">
+</div>
 
 De gauche à droite, tout commence par l’extraction de ressources énergétiques primaires, comme le pétrole brut, l’énergie hydraulique ou encore la biomasse. Celles-ci sont ensuite converties et transformées avant d’être disponibles à la consommation comme énergie finale (ou vecteur énergétique final). L’énergie finale, sous la forme d’électricité, de combustible ou de chaleur, sera ensuite consommée pour différents usages, comme ceux de l’industrie ou le transport (rond de droite).
 Le flux entre ressources primaires et énergies finales est régulièrement présenté sous la forme d’un diagramme de Sankey, comme celui ci-dessous1.
 
 FLUX ENERGETIQUES ENTRE RESSOURCES PRIMAIRES ET ÉNERGIES FINALES A L'ECHELLE DU TERRITOIRE FRANÇAIS EN 2019
-
+ <div class="text-center my-4">
+  <img src="/assets/img/Sankey/sankey-SDES.png" alt="" style="max-width: 100%; height: auto;">
+</div>
 
 
 Cette représentation permet de visualiser la répartition des sources d’énergie finale utilisées en France (partie de droite), ainsi que l’ensemble des pertes du système énergétique associées à la conversion des ressources primaires (partie haute). On y lit notamment qu'en 2019 le système énergétique français a consommé 258 Mtep2 d’énergie primaire, pour une énergie finale disponible à la consommation de 153 Mtep. Cette différence s’explique principalement par les pertes lors de la conversion des énergies primaires en énergie électrique3. Le reste de cette différence est imputé aux exportations d’électricité et de pétrole pour le transport international
@@ -229,6 +233,10 @@ Ce graphique ne montre cependant pas quels sont les usages faits de chacun de ce
 Afin de mettre en évidence le potentiel de réduction du recours aux énergies fossiles, et à titre pédagogique, nous avons prolongé ce diagramme pour faire le lien entre les sources d’énergie finale et les usages. Le graphique ci-dessous montre la répartition par usages des 1750 TWh d’énergie finale annuellement consommée sur le territoire4.
 
 
+
+<div class="text-center my-4">
+  <img src="/assets/img/Sankey/Itese_Sankey_Gradient.png" alt="Diagramme de Sankey" style="max-width: 100%; height: auto;">
+</div>
 
 
 Les données utilisées pour produire ce graphique proviennent d’une agrégation de données publiques, notamment du SDES et l’Agence Internationale de l’Energie (AIE) pour l’année 2019, avant la crise sanitaire liée à la COVID. En plus des volumes des énergies en jeu, représentés par l’épaisseur des flux, un code couleur en niveau de gris quantifie le contenu CO2 équivalent de l’ensemble des vecteurs énergétiques finaux.
