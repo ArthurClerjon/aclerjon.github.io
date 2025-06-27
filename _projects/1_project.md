@@ -257,6 +257,16 @@ Pour cela, nous distinguerons les vecteurs énergétiques dits ‘bas carbone’
 3 Les pertes des centrales électriques proviennent principalement des centrales nucléaires. La fission du combustible nucléaire dégage une forte quantité de chaleur, dont seulement 30 à 40% est convertie en électricité.
 4 Sur ce diagramme a été ajoutée la consommation de pétrole imputée au transport aérien et maritime international. Celui-ci s'élève à environ 90 TWh; soit une énergie finale totale consommée de 1840 TWh en 2019.
 
+<hr>
+<p><strong>Notes :</strong></p>
+<ol style="font-size: 0.9rem;">
+  <li>Dans ce diagramme de Sankey, les soutes internationales désignent la consommation énergétique (carburants) du transport aérien et maritime international.</li>
+  <li>Le Mtep (Millions de tonnes équivalent pétrole) est une unité qui permet de quantifier l’énergie, au même titre que le TWh. 1 Mtep = 11.6 TWh.</li>
+  <li>Les pertes des centrales électriques proviennent principalement des centrales nucléaires. La fission du combustible nucléaire dégage une forte quantité de chaleur, dont seulement 30 à 40% est convertie en électricité.</li>
+  <li>Sur ce diagramme a été ajoutée la consommation de pétrole imputée au transport aérien et maritime international. Celui-ci s'élève à environ 90 TWh, soit une énergie finale totale consommée de 1840 TWh en 2019.</li>
+</ol>
+
+
 ### 1.b - Un système qui repose majoritairement sur les fossiles
 La répartition de l’énergie finale par source (électricité, pétrole, gaz, etc...) – représentée par la partie gauche du diagramme de Sankey – est agrégée sous un autre format sur le visuel ci-dessous.
 
@@ -277,11 +287,11 @@ Près de 65% de l'énergie finale consommée en France est d'origine fossile.
 
 
 Demandons-nous maintenant quels sont les postes de consommation de cette énergie finale ? Quels sont les secteurs aujourd’hui les plus demandeurs en énergie fossile ? C’est ce que révèle l’analyse de la partie droite de notre diagramme de Sankey, qui montre la répartition de l’approvisionnement énergétique des différents secteurs de l’économie, organisée comme suit :
-Industrie
-Transport national et international imputé au territoire
-Usages des secteurs résidentiel et tertiaire (chauffage, eau chaude sanitaire (ECS), autres usages et imputés nulle part ailleurs)
-Agriculture et  pêche
-Usages non-énergétiques des fossiles en tant que matière première.
+- Industrie
+- Transport national et international imputé au territoire
+- Usages des secteurs résidentiel et tertiaire (chauffage, eau chaude sanitaire (ECS), autres usages et imputés nulle part ailleurs)
+- Agriculture et  pêche
+- Usages non-énergétiques des fossiles en tant que matière première.
 
 Ces données sont agrégées dans le visuel ci-dessous (partie de droite du Sankey) représentant pour chaque secteur sa consommation totale d’énergie en fonction des vecteurs énergétiques finaux.
 
