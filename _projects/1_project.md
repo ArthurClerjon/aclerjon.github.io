@@ -13,20 +13,23 @@ related_publications: true
   <strong>Attention :</strong> Page en cours de construction.
 </div>
 
-<div class="alert alert-secondary">
-J'ai réalisé ce travail entre 2022 et 2023 au sein du CEA I-Tésé. Dans une dynamique de capitalisation et regroupement de mes production, je le présente sur cette page. Le document original est disponible ici : <a href="https://www.cea.fr/energies/i-tese/Pages/Actualites/Focus-Thematiques/usages-energie-france.aspx" target="_blank">ici</a>.
-</div>
-
 <div style="text-align: center;">
   <h2>La France dépend encore majoritairement des énergies fossiles.</h2>
   <h3>Quels leviers pour décarboner ?</h3>
 </div>
 
+<div class="alert alert-secondary">
+J'ai réalisé ce travail entre 2022 et 2023 au sein du CEA I-Tésé. Dans une dynamique de capitalisation et regroupement de mes production, je le présente sur cette page. Le document original est disponible ici : <a href="https://www.cea.fr/energies/i-tese/Pages/Actualites/Focus-Thematiques/usages-energie-france.aspx" target="_blank">ici</a>.
+</div>
+
+
 #### Résumé  
 Nous avons construit une représentation graphique des flux entre la consommation d’énergie finale et les usages sous forme d’un diagramme de Sankey. Ce diagramme décrit les volumes en jeu, leur origine et leur contenu en CO₂, et sert de base pour analyser les leviers majeurs de décarbonation.
 
+<div class="text-center my-4">
+  <img src="/assets/img/Sankey/Itese_Sankey_Gradient.png" alt="Diagramme de Sankey" style="max-width: 100%; height: auto;">
+</div>
 
-  ### Messages principaux
 
 <h3>Messages principaux</h3>
 
@@ -87,6 +90,16 @@ Nous avons construit une représentation graphique des flux entre la consommatio
 
   <p><strong>Des efforts de <em>sobriété</em></strong>, c’est-à-dire une <strong>réduction de la demande en énergie</strong>, sont également <strong>indispensables</strong> pour atteindre les objectifs de la SNBC.</p>
 </div>
+
+
+### Introduction
+L’objet de ce document est de présenter dans sa globalité le système énergétique français, de l’utilisation des ressources primaires aux usages finaux. Nous rappelons ici les principaux ordres de grandeur de consommation d’énergie, par sources et usages, afin de donner aux lecteurs une intuition des enjeux qu’implique la fin du recours aux énergies fossiles.
+Le système énergétique national étant éminemment complexe, nous ne rentrerons pas dans le détail de l'ensemble des solutions de décarbonation. Nous avons plutôt choisi de montrer, à travers des exemples simples, l’effet que pourrait avoir le développement de différentes technologies sur la consommation d’énergie. Cette approche nous permet de présenter les grands enjeux de la transition énergétique et de prendre la mesure du chemin à parcourir, que ce soit du point de vue des technologies ou de l’évolution des modes de vie.
+Cet article n’a pas vocation à décrire une marche à suivre pour décarboner l’économie. Nous avons au contraire souhaité donner des éléments de contexte pour que le lecteur puisse construire sa propre analyse.
+
+Les données énergétiques utilisées pour la réalisation de ce graphique proviennent de l’agrégation de rapports du (SDES) pour l’année 2019, avant la crise sanitaire. Le cadre méthodologique est identique à celui choisi par ces rapports, à l'exception du transport international (aérien et maritime) qui a été ajouté. Les données d'émissions de CO2  proviennent quant à elles du centre de ressources .
+
+
 
 ## Figures
 
@@ -155,14 +168,6 @@ Nous avons construit une représentation graphique des flux entre la consommatio
 
 
 
-
-
-### Introduction
-L’objet de ce document est de présenter dans sa globalité le système énergétique français, de l’utilisation des ressources primaires aux usages finaux. Nous rappelons ici les principaux ordres de grandeur de consommation d’énergie, par sources et usages, afin de donner aux lecteurs une intuition des enjeux qu’implique la fin du recours aux énergies fossiles.
-Le système énergétique national étant éminemment complexe, nous ne rentrerons pas dans le détail de l'ensemble des solutions de décarbonation. Nous avons plutôt choisi de montrer, à travers des exemples simples, l’effet que pourrait avoir le développement de différentes technologies sur la consommation d’énergie. Cette approche nous permet de présenter les grands enjeux de la transition énergétique et de prendre la mesure du chemin à parcourir, que ce soit du point de vue des technologies ou de l’évolution des modes de vie.
-Cet article n’a pas vocation à décrire une marche à suivre pour décarboner l’économie. Nous avons au contraire souhaité donner des éléments de contexte pour que le lecteur puisse construire sa propre analyse.
-
-Les données énergétiques utilisées pour la réalisation de ce graphique proviennent de l’agrégation de rapports du (SDES) pour l’année 2019, avant la crise sanitaire. Le cadre méthodologique est identique à celui choisi par ces rapports, à l'exception du transport international (aérien et maritime) qui a été ajouté. Les données d'émissions de CO2  proviennent quant à elles du centre de ressources .
 
 
 
