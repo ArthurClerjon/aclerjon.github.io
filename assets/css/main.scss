@@ -75,3 +75,12 @@ $max-content-width: {{ site.max_width }};
   border-radius: 0.25rem;
   clear: both;
 }
+
+.box-green {
+  background-color: #e6f4ea; /* vert clair pâle */
+  color: #1b4332; /* vert foncé lisible */
+  padding: 1.5rem;
+  margin: 2rem 0;
+  border-left: 6px solid #95d5b2;
+  border-radius: 0.4rem;
+}

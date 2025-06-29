@@ -26,14 +26,14 @@ J'ai réalisé ce travail entre 2022 et 2023 au sein du CEA I-Tésé. Dans une d
 #### Résumé  
 Nous avons construit une représentation graphique des flux entre la consommation d’énergie finale et les usages sous forme d’un diagramme de Sankey. Ce diagramme décrit les volumes en jeu, leur origine et leur contenu en CO₂, et sert de base pour analyser les leviers majeurs de décarbonation.
 
-<div class="text-center my-4">
-  <img src="/assets/img/Sankey/Itese_Sankey_Gradient.png" alt="Diagramme de Sankey" style="max-width: 100%; height: auto;">
-</div>
+<div class="box-green">
+  <h5 class="text-center" style="font-weight: bold;">Messages principaux</h5>
 
-<div class="p-3 rounded" style="background-color: #0d3b66; color: #ffffff !important;">
-  <h5 class="text-center mb-4" style="font-size: 1.2rem; color: #ffffff !important;">Messages principaux</h5>
+  <div class="text-center my-4">
+    <img src="/assets/img/Sankey/Itese_Sankey_Gradient.png" alt="Diagramme de Sankey" style="max-width: 100%; height: auto;">
+  </div>
 
-  <h6 style="font-size: 1rem;"><strong>Les chiffres clefs :</strong></h6>
+  <p><strong>Les chiffres clefs :</strong></p>
   <ul>
     <li>En 2019, la France a consommé <strong>1840 TWh</strong> d’énergie finale.</li>
     <li><strong>65 %</strong> de cette consommation est d’origine fossile.</li>
@@ -55,7 +55,7 @@ Nous avons construit une représentation graphique des flux entre la consommatio
     </li>
   </ul>
 
-  <h6 style="font-size: 1rem;"><strong>Les défis à venir :</strong></h6>
+  <p><strong>Les défis à venir :</strong></p>
   <ul>
     <li>L’électrification massive des usages est un levier indispensable pour réduire fortement la consommation d’énergie fossile.</li>
     <li>Cette électrification :
@@ -85,8 +85,6 @@ Nous avons construit une représentation graphique des flux entre la consommatio
 
   <p><strong>Des efforts de <em>sobriété</em></strong>, c’est-à-dire une <strong>réduction de la demande en énergie</strong>, sont également <strong>indispensables</strong> pour atteindre les objectifs de la SNBC.</p>
 </div>
-
-
 
 ### Introduction
 L’objet de ce document est de présenter dans sa globalité le système énergétique français, de l’utilisation des ressources primaires aux usages finaux. Nous rappelons ici les principaux ordres de grandeur de consommation d’énergie, par sources et usages, afin de donner aux lecteurs une intuition des enjeux qu’implique la fin du recours aux énergies fossiles.
