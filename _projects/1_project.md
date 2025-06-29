@@ -372,8 +372,18 @@ Pour illustrer le potentiel de report vers les vecteurs 'bas-carbone', nous avon
 Le graphique ci-dessous indique la répartition des émissions de GES du transport national. Il est important de remarquer que, au sein du transport national, la partie routière est responsable de plus de 95% des émissions de GES. 
  
 <div class="text-center my-4">
-  <img src="/assets/img/Sankey/Itese_Visual_5a.png" alt="" style="max-width: 100%; height: auto;">
+  <img src="/assets/img/Sankey/repartition-transport.png" alt="" style="max-width: 100%; height: auto;">
 </div>
+
+
+<figure>
+  <img src="/assets/img/Sankey/repartition-transport.png" alt="Diagramme de Sankey des flux énergétiques français" class="img-fluid">
+  <figcaption class="figure-caption">
+    Source : <a href="https://www.statistiques.developpement-durable.gouv.fr/chiffres-cles-du-climat-france-europe-et-monde-edition-2024" target="_blank">Chiffres clés du climat France, Europe et Monde ÉDITION 2021</a>
+  </figcaption>
+</figure>
+
+Source : Chiffres clés du climat France, Europe et Monde ÉDITION 2021
 
 Ce graphique montre également que les véhicules particulier sont responsables de plus de 50% des émissions de GES du transport, suivi par les utilitaires (16%) et les poids lourds (23%).
 Le potentiel des Véhicules Électriques (VE)
