@@ -328,8 +328,9 @@ Le secteur du bâtiment est aujourd’hui susceptible de réduire fortement sa c
 
 En effet, les pompes à chaleur, lorsque leur installation est possible, produisent en moyenne 3 unités de chaleur pour une unité d’énergie électrique consommée, comme l’illustre le schéma de principe ci-dessous.
 
-![pompes à chaleur](assets/img/Sankey/Itese_Visual_5a.png)
-<div class="caption">pompes à chaleur</div>
+<div class="text-center my-4">
+  <img src="/assets/img/Sankey/Itese_Visual_4.png" alt="" style="max-width: 100%; height: auto;">
+</div>
 
 
 Dans un rapport du faisant état de l’efficacité des différentes mesures de rénovation du parc immobilier français réalisées de 2016 à 2019, celui-ci indique que la rénovation, d’une part de la toiture, des murs et du plancher, d’autre part le remplacement des moyens de chauffage et de l’Eau Chaude Sanitaire (ECS)  sont les actions les plus efficaces pour réduire la consommation énergétique. En 2019, ces deux leviers représentaient respectivement 57% et 39% des économies d’énergie générales.
@@ -370,9 +371,9 @@ Pour illustrer le potentiel de report vers les vecteurs 'bas-carbone', nous avon
 
 Le graphique ci-dessous indique la répartition des émissions de GES du transport national. Il est important de remarquer que, au sein du transport national, la partie routière est responsable de plus de 95% des émissions de GES. 
  
-![pompes à chaleur](assets/img/Sankey/Itese_Visual_6.png)
-<div class="caption">pompes à chaleur</div>
-
+<div class="text-center my-4">
+  <img src="/assets/img/Sankey/Itese_Visual_5a.png" alt="" style="max-width: 100%; height: auto;">
+</div>
 
 Ce graphique montre également que les véhicules particulier sont responsables de plus de 50% des émissions de GES du transport, suivi par les utilitaires (16%) et les poids lourds (23%).
 Le potentiel des Véhicules Électriques (VE)
@@ -433,7 +434,7 @@ Dans un contexte futur contraint en ressources carbonées non-fossiles (biomasse
 
 A la vue de l’ensemble des contraintes évoquées – et sans compter les limitations qui pourraient apparaître sur l’accès aux matières premières, la disponibilité des sols, etc. – nous comprenons désormais que l’arrêt du recours aux énergies fossiles ne pourra se faire uniquement grâce au développement technologique.  Ce ne sont en effet pas les seuls leviers d’action. Une baisse de la demande énergétique globale, via la modification des usages – c’est à dire un effort de sobriété – sera également nécessaire.
 
-La temporalité de choix et d'actions 
+### La temporalité de choix et d'actions 
 
 L’industrialisation et le déploiement de nouvelles technologies, telles que le développement massif des véhicules électriques ou la rénovation du parc immobilier, sont des transformations qui s’opèrent sur les temps longs2 – plusieurs décennies. En revanche, l'évolution des modes de vie peut être stimulée par des décisions politiques et individuelles prises à des échelles de temps beaucoup plus courtes. C’est par exemple le cas du report modal dans les transports (de la voiture vers les transports en commun ou le vélo) ou encore les effets que pourraient avoir des décisions politiques telles que la réglementation du trafic aérien ou des véhicules polluants.
 
@@ -443,20 +444,21 @@ Les moyens technologiques ne sont pas les seuls leviers d’action qui permettro
 
 Le choix d’une énergie bas-carbone, afin de réduire le contenu CO2 du vecteur énergétique choisi. C’est notamment le cas de l’électrification en France.
 L’efficacité énergétique, c'est-à-dire l’énergie consommée pour répondre à un besoin donné. C’est ce par exemple le cas des véhicules électriques, plus efficaces que les véhicules thermiques. 
-La sobriété, c'est-à-dire la réduction des besoins, quels qu’ils soient : besoin de déplacements, d’énergie pour le chauffage d’un foyer, de fabrication de biens de consommation. Par exemple, concernant la mobilité, la sobriété peut se traduire soit par une diminution de l'usage, mais également par un report modal vers des mobilités dites douces ou des transports en commun.a temporalité de choix et actions
+La sobriété, c'est-à-dire la réduction des besoins, quels qu’ils soient : besoin de déplacements, d’énergie pour le chauffage d’un foyer, de fabrication de biens de consommation. Par exemple, concernant la mobilité, la sobriété peut se traduire soit par une diminution de l'usage, mais également par un report modal vers des mobilités dites douces ou des transports en commun.
 
-![pompes à chaleur](assets/img/Sankey/Itese_Visual_7a.png)
-<div class="caption">pompes à chaleur</div>
+
+<div class="text-center my-4">
+  <img src="/assets/img/Sankey/Itese_Visual_7a.png" alt="" style="max-width: 100%; height: auto;">
+</div>
 
 
 Après avoir joué sur le choix d’énergies bas-carbone et l'efficacité énergétique, le changement des modes de vie ainsi que les efforts de sobriété auront un rôle crucial – et potentiellement plus rapide – pour atteindre les objectifs climatiques et l’arrêt du recours aux combustibles fossiles. C’est notamment ce qui a été souigné pour la toute première fois par le GIEC dans son dernier rapport (Sixth Assessment Report), indiquant que des efforts de sobriété combinés à l'efficacité énergétique pourraient réduire les émissions de CO2 de 40 à 70% dans certains secteurs de l’économie mondiale (voir figure SPM.7b).
 
-Importance d’une approche interdisciplinaire 
+### Importance d’une approche interdisciplinaire 
 
 La transition vers la neutralité carbone impose une forte réduction de la consommation d’énergie, grâce à plus d’efficacité énergétique et à un recours accru à des pratiques de sobriété. Ces dernières doivent être appliquées partout où elles sont possibles, en interrogeant les usages. Ainsi, les auteurs du dernier rapport du GIEC soulignent que les évolutions des usages sont indispensables pour atteindre la neutralité carbone.
 Un travail en interdisciplinarité tenant compte également des aspects sociaux et humains ainsi que de la problématiques des ressources et de leurs flux est essentiel . 
 
-Pour cette raison, le CEA I-Tésé est l'un des membres fondateurs de Prométhée, un avec l’Université Caen/MRSH, les Mines Paris-PSL, le Dôme de Caen et l'IRTS Normandie-Caen. Les chercheurs de Prométhée associent leurs compétences en économie, en technologie et en sociologie, mais aussi en recherche participative, afin d’analyser en situation les stratégies d’adaptation des acteurs aux crises énergétiques.
 
 
 1 Equation de Kaya : Yoichi Kaya et Keiichi Yokobori, Environment, energy, and economy : strategies for sustainability : Tokyo conference on Global Environment, Energy and Economic Development (1993), United Nations Univ. Press, Tokyo, 1997, 381 p. (ISBN 92-808-0911-3).
