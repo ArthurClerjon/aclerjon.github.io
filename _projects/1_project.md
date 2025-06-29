@@ -434,11 +434,19 @@ Dans un contexte futur contraint en ressources carbonées non-fossiles (biomasse
 
 A la vue de l’ensemble des contraintes évoquées – et sans compter les limitations qui pourraient apparaître sur l’accès aux matières premières, la disponibilité des sols, etc. – nous comprenons désormais que l’arrêt du recours aux énergies fossiles ne pourra se faire uniquement grâce au développement technologique.  Ce ne sont en effet pas les seuls leviers d’action. Une baisse de la demande énergétique globale, via la modification des usages – c’est à dire un effort de sobriété – sera également nécessaire.
 
-### La temporalité de choix et d'actions 
+<div class="p-3 my-3 rounded" style="background-color: #1a1a1a; color: white; width: 25%; float: right; margin-left: 2rem; border-left: 4px solid #117a8b;">
+  <h5 class="text-center" style="font-size: 1rem; margin-top: 0;">La temporalité de choix et d'actions</h5>
+  <p style="font-size: 0.9rem;">
+    L’industrialisation et le déploiement de nouvelles technologies, telles que le développement massif des véhicules électriques ou la rénovation du parc immobilier, sont des transformations qui s’opèrent sur les temps longs<sup>2</sup> – plusieurs décennies.
+  </p>
+  <p style="font-size: 0.9rem;">
+    En revanche, l'évolution des modes de vie peut être stimulée par des décisions politiques et individuelles prises à des échelles de temps beaucoup plus courtes (ex. report modal, réglementation du trafic aérien ou des véhicules polluants).
+  </p>
+  <p style="font-size: 0.9rem;">
+    Ainsi, à court terme et dans un contexte d’urgence climatique, les actions de sobriété présentent le meilleur potentiel de limitation de nos émissions, ce qui les rend d’autant plus nécessaires.
+  </p>
+</div>
 
-L’industrialisation et le déploiement de nouvelles technologies, telles que le développement massif des véhicules électriques ou la rénovation du parc immobilier, sont des transformations qui s’opèrent sur les temps longs2 – plusieurs décennies. En revanche, l'évolution des modes de vie peut être stimulée par des décisions politiques et individuelles prises à des échelles de temps beaucoup plus courtes. C’est par exemple le cas du report modal dans les transports (de la voiture vers les transports en commun ou le vélo) ou encore les effets que pourraient avoir des décisions politiques telles que la réglementation du trafic aérien ou des véhicules polluants.
-
-Ainsi, à court terme et dans un contexte d’urgence climatique, les actions de sobriété présentent le meilleur potentiel de limitation de nos émissions, ce qui les rend d’autant plus nécessaires.
 
 Les moyens technologiques ne sont pas les seuls leviers d’action qui permettront de réduire la consommation d’énergie fossile. L'équation de Kaya1 présentée ci-dessous illustre, de manière simplifiée, comment se répartissent des émissions (quelles qu’elles soient, GES, CO2, particules fines, etc.), en fonction de trois leviers : 
 
@@ -454,11 +462,19 @@ La sobriété, c'est-à-dire la réduction des besoins, quels qu’ils soient : 
 
 Après avoir joué sur le choix d’énergies bas-carbone et l'efficacité énergétique, le changement des modes de vie ainsi que les efforts de sobriété auront un rôle crucial – et potentiellement plus rapide – pour atteindre les objectifs climatiques et l’arrêt du recours aux combustibles fossiles. C’est notamment ce qui a été souigné pour la toute première fois par le GIEC dans son dernier rapport (Sixth Assessment Report), indiquant que des efforts de sobriété combinés à l'efficacité énergétique pourraient réduire les émissions de CO2 de 40 à 70% dans certains secteurs de l’économie mondiale (voir figure SPM.7b).
 
-### Importance d’une approche interdisciplinaire 
-
-La transition vers la neutralité carbone impose une forte réduction de la consommation d’énergie, grâce à plus d’efficacité énergétique et à un recours accru à des pratiques de sobriété. Ces dernières doivent être appliquées partout où elles sont possibles, en interrogeant les usages. Ainsi, les auteurs du dernier rapport du GIEC soulignent que les évolutions des usages sont indispensables pour atteindre la neutralité carbone.
-Un travail en interdisciplinarité tenant compte également des aspects sociaux et humains ainsi que de la problématiques des ressources et de leurs flux est essentiel . 
-
+<div class="p-4 my-4 rounded border-start border-4" style="background-color: #1a1a1a; color: white; border-left: 6px solid #117a8b;">
+  <h3 class="text-center mb-3" style="margin-top: 0;">
+    <span style="font-size: 1.2em;">⚙️</span> Importance d’une approche interdisciplinaire
+  </h3>
+  <p>
+    La transition vers la neutralité carbone impose une forte réduction de la consommation d’énergie, grâce à plus d’efficacité énergétique et à un recours accru à des pratiques de sobriété.
+    Ces dernières doivent être appliquées partout où elles sont possibles, en interrogeant les usages.
+    Ainsi, les auteurs du dernier rapport du GIEC soulignent que les évolutions des usages sont indispensables pour atteindre la neutralité carbone.
+  </p>
+  <p>
+    Un travail en interdisciplinarité tenant compte également des aspects sociaux et humains ainsi que de la problématique des ressources et de leurs flux est essentiel.
+  </p>
+</div>
 
 
 1 Equation de Kaya : Yoichi Kaya et Keiichi Yokobori, Environment, energy, and economy : strategies for sustainability : Tokyo conference on Global Environment, Energy and Economic Development (1993), United Nations Univ. Press, Tokyo, 1997, 381 p. (ISBN 92-808-0911-3).
