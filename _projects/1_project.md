@@ -388,9 +388,9 @@ Pour apprécier l’effet que pourrait avoir une électrification massive du tra
 
 Les résultats de cette analyse sont présentés sur la figure ci-dessous.
 
-
-
-
+<div class="text-center my-4">
+  <img src="/assets/img/Sankey/Itese_Visual_6.png" alt="" style="max-width: 100%; height: auto;">
+</div>  
 
 On y observe de fait une baisse de la consommation de carburant fossile de 70% (- 315 TWh), accompagnée d'une hausse de la demande en électricité de 90 TWh. Le tout s’équilibre autour d’une consommation totale d’énergie qui serait presque divisée par deux.
 Dans le cas du scénario ou la quasi totalité des véhicules particuliers et utilitaires sont remplacés par des véhicules électriques,  la consommation de produits pétroliers pour le transport routier diminuerait de 70% et la consommation énergétique totale diminuerait de 225 TWh.
@@ -403,14 +403,18 @@ Dans le cas du scénario ou la quasi totalité des véhicules particuliers et ut
 
 Évaluons maintenant l’effet cumulé que pourrait avoir le déploiement de ces deux  technologies – pompes à chaleur et véhicules électriques – sur la consommation globale d’énergie finale (hors transport international et consommations à usages non-énergétiques). Les résultats sont présentés sur la figure ci-dessous. Rappelons toutefois qu’il ne s’agit là que de scénarios d’électrification choisis arbitrairement et non pas de potentiels maximum.
 
-
+<div class="text-center my-4">
+  <img src="/assets/img/Sankey/Itese_Visual_7a.png" alt="" style="max-width: 100%; height: auto;">
+</div>  
 
 
 Ce graphique montre que l'électrification massive des usages permettrait effectivement de réduire à la fois la consommation totale d'énergie et la part des énergies fossiles dans le mix  d’énergie finale. Toutefois, en dépit des hypothèses fortes d’électrification choisies, il resterait une dépendance aux fossiles de 530 TWh (hors usages non-énergétiques et transport international), soit plus de 40% de la consommation totale, contre 60% aujourd’hui.
 A ces gains, nous pouvons ajouter le potentiel de deux sources d’énergie bas-carbone, celle issue de la récupération de chaleur fatale et celle provenant de la biomasse.  Nous avons vu que : 
 
-A condition de développer des infrastructures adaptées, une partie du potentiel de la chaleur fatale, évaluée par l’ à 110 TWh, pourrait être valorisée.
-En complément, un potentiel de 300 TWh de combustible issu de la biomasse (résidu de déchets agricoles, bois-énergie, boues d’épuration et déchets) est estimé à l’horizon 2050 par divers rapports (, , ).
+- À condition de développer des infrastructures adaptées, une partie du potentiel de la chaleur fatale, évaluée par l’[ADEME](https://librairie.ademe.fr/changement-climatique-et-energie/3276-le-potentiel-de-la-chaleur-fatale-en-france.html) à **110 TWh**, pourrait être valorisée.
+
+- En complément, un potentiel de **300 TWh** de combustible issu de la biomasse (résidus de déchets agricoles, bois-énergie, boues d’épuration et déchets) est estimé à l’horizon 2050 par divers rapports :
+  [France Stratégie](https://www.strategie.gouv.fr), [WWF France](https://www.wwf.fr), et [The Shift Project](https://theshiftproject.org).
 
 L'accès à l’ensemble de ce potentiel est bien entendu soumis à de fortes incertitudes. Au-delà des nombreuses hypothèses formulées pour évaluer un potentiel prospectif, la valorisation des 410 TWh (110 chaleur + 300 combustibles) nécessiterait le développement d'infrastructures lourdes comme des réseaux de chaleur. L’accès à la ressource biomasse pour la transformation en combustible, pourrait de son côté susciter des compétitions d’usages avec l'alimentation, le retour au sol ou son utilisation comme matériaux de construction.
 
@@ -420,12 +424,17 @@ L'accès à l’ensemble de ce potentiel est bien entendu soumis à de fortes in
 Mis bout à bout, nous avons vu que, malgré un déploiement massif des pompes à chaleur et des véhicules électriques, la valorisation de la chaleur fatale et une utilisation intensive de la biomasse, ces technologies ne permettraient pas à elles seules de s’affranchir des énergies fossiles. Quelles sont alors les alternatives restantes ?
 
 
-Pour que l’électrification des usages demeure vertueuse
-
-Le développement des pompes à chaleur et véhicules électriques présenté plus haut implique une électrification massive des usages, et de fait une croissance de la consommation d’électricité. Pour que ce report de source d’énergies soit réellement vertueux, il faut s’assurer que les deux conditions ci-dessous soient remplies :
-
-1. La production d’électricité doit tout d'abord rester décarbonée. C’est aujourd’hui le cas en France, mais ces solutions ne seraient pas vraies pour tous les autres pays européen. 
-2. Pour assurer la hausse globale de la consommation d’électricité, la France devra augmenter ses capacités de production en développant des moyens bas-carbone - le nucléaire et les ENR – en évitant le recours au gaz et au charbon.
+<div class="p-3 my-3 rounded" style="background-color: #1a1a1a; color: white; width: 25%; float: right; margin-left: 2rem; border-left: 4px solid #117a8b;">
+  <h5 class="text-center" style="font-size: 1rem; margin-top: 0;">Pour que l’électrification des usages demeure vertueuse</h5>
+  <p style="font-size: 0.9rem;">
+    Le développement des pompes à chaleur et véhicules électriques présenté plus haut implique une électrification massive des usages, et de fait une croissance de la consommation d’électricité.
+    Pour que ce report de source d’énergies soit réellement vertueux, il faut s’assurer que les deux conditions ci-dessous soient remplies :
+  </p>
+  <ol style="font-size: 0.9rem; padding-left: 1.2em;">
+    <li>La production d’électricité doit tout d'abord rester décarbonée. C’est aujourd’hui le cas en France, mais ces solutions ne seraient pas vraies pour tous les autres pays européens.</li>
+    <li>Pour assurer la hausse globale de la consommation d’électricité, la France devra augmenter ses capacités de production en développant des moyens bas-carbone – le nucléaire et les ENR – en évitant le recours au gaz et au charbon.</li>
+  </ol>
+</div>
 
 
 Dans un contexte d’approvisionnement contraint en énergie, les solutions à forte efficacité, comme les PAC et les VE, seront priorisées dans un premier temps. Pour d’autres usages, notamment dans l’industrie ou le transport aérien, des solutions de production  de vecteurs énergétiques à partir d’électricité (Power-To-X), pourront – pour une petite partie – se substituer aux combustibles fossiles. C’est en particulier le cas des procédés à faible rendement, comme la production d’hydrogène par électrolyse de l’eau, ou la synthèse de carburants. A titre indicatif, la production de 100 TWh de carburant de synthèse consommerait, en ordre de grandeur 220 TWh d’électricité. C’est plus de la moitié de la production de l’ensemble du parc nucléaire français sur une année. Un développement à grande échelle de ces solutions demanderait donc de construire des moyens de production d’électricité additionnels.
@@ -445,18 +454,21 @@ A la vue de l’ensemble des contraintes évoquées – et sans compter les limi
   <p style="font-size: 0.9rem;">
     Ainsi, à court terme et dans un contexte d’urgence climatique, les actions de sobriété présentent le meilleur potentiel de limitation de nos émissions, ce qui les rend d’autant plus nécessaires.
   </p>
-</div>
+</div>s
 
 
 Les moyens technologiques ne sont pas les seuls leviers d’action qui permettront de réduire la consommation d’énergie fossile. L'équation de Kaya1 présentée ci-dessous illustre, de manière simplifiée, comment se répartissent des émissions (quelles qu’elles soient, GES, CO2, particules fines, etc.), en fonction de trois leviers : 
 
-Le choix d’une énergie bas-carbone, afin de réduire le contenu CO2 du vecteur énergétique choisi. C’est notamment le cas de l’électrification en France.
-L’efficacité énergétique, c'est-à-dire l’énergie consommée pour répondre à un besoin donné. C’est ce par exemple le cas des véhicules électriques, plus efficaces que les véhicules thermiques. 
-La sobriété, c'est-à-dire la réduction des besoins, quels qu’ils soient : besoin de déplacements, d’énergie pour le chauffage d’un foyer, de fabrication de biens de consommation. Par exemple, concernant la mobilité, la sobriété peut se traduire soit par une diminution de l'usage, mais également par un report modal vers des mobilités dites douces ou des transports en commun.
+1. **Le choix d’une énergie bas-carbone**, afin de réduire le contenu CO₂ du vecteur énergétique choisi. C’est notamment le cas de l’électrification en France.
+
+2. **L’efficacité énergétique**, c'est-à-dire l’énergie consommée pour répondre à un besoin donné. C’est par exemple le cas des véhicules électriques, plus efficaces que les véhicules thermiques.
+
+3. **La sobriété**, c'est-à-dire la réduction des besoins, quels qu’ils soient : besoin de déplacements, d’énergie pour le chauffage d’un foyer, de fabrication de biens de consommation. Par exemple, concernant la mobilité, la sobriété peut se traduire soit par une diminution de l’usage, mais également par un report modal vers des mobilités dites douces ou des transports en commun.
+
 
 
 <div class="text-center my-4">
-  <img src="/assets/img/Sankey/Itese_Visual_7a.png" alt="" style="max-width: 100%; height: auto;">
+  <img src="/assets/img/Sankey/Itese_Equation.png" alt="" style="max-width: 100%; height: auto;">
 </div>
 
 
