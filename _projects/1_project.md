@@ -31,7 +31,7 @@ Nous avons construit une représentation graphique des flux entre la consommatio
 </div>
 
 <div class="p-3 rounded" style="background-color: #0d3b66; color: #ffffff !important;">
-  <h5 class="text-center mb-4" style="font-size: 1.2rem; color: #ffffff;">Messages principaux</h5>
+  <h5 class="text-center mb-4" style="font-size: 1.2rem; color: #ffffff !important;">Messages principaux</h5>
 
   <h6 style="font-size: 1rem;"><strong>Les chiffres clefs :</strong></h6>
   <ul>
@@ -443,7 +443,7 @@ Dans un contexte futur contraint en ressources carbonées non-fossiles (biomasse
 
 A la vue de l’ensemble des contraintes évoquées – et sans compter les limitations qui pourraient apparaître sur l’accès aux matières premières, la disponibilité des sols, etc. – nous comprenons désormais que l’arrêt du recours aux énergies fossiles ne pourra se faire uniquement grâce au développement technologique.  Ce ne sont en effet pas les seuls leviers d’action. Une baisse de la demande énergétique globale, via la modification des usages – c’est à dire un effort de sobriété – sera également nécessaire.
 
-<div class="p-3 my-3 rounded" style="background-color: #1a1a1a; color: white; width: 25%; float: right; margin-left: 2rem; border-left: 4px solid #117a8b;">
+<div class="p-3 my-3 rounded" style="background-color: #1a1a1a; color: white !important; width: 25%; float: right; margin-left: 2rem; border-left: 4px solid #117a8b;">
   <h5 class="text-center" style="font-size: 1rem; margin-top: 0;">La temporalité de choix et d'actions</h5>
   <p style="font-size: 0.9rem;">
     L’industrialisation et le déploiement de nouvelles technologies, telles que le développement massif des véhicules électriques ou la rénovation du parc immobilier, sont des transformations qui s’opèrent sur les temps longs<sup>2</sup> – plusieurs décennies.
@@ -474,7 +474,7 @@ Les moyens technologiques ne sont pas les seuls leviers d’action qui permettro
 
 Après avoir joué sur le choix d’énergies bas-carbone et l'efficacité énergétique, le changement des modes de vie ainsi que les efforts de sobriété auront un rôle crucial – et potentiellement plus rapide – pour atteindre les objectifs climatiques et l’arrêt du recours aux combustibles fossiles. C’est notamment ce qui a été souigné pour la toute première fois par le GIEC dans son dernier rapport (Sixth Assessment Report), indiquant que des efforts de sobriété combinés à l'efficacité énergétique pourraient réduire les émissions de CO2 de 40 à 70% dans certains secteurs de l’économie mondiale (voir figure SPM.7b).
 
-<div class="p-4 my-4 rounded border-start border-4" style="background-color: #1a1a1a; color: white; border-left: 6px solid #117a8b;">
+<div class="p-4 my-4 rounded border-start border-4" style="background-color: #1a1a1a; color: white !important ; border-left: 6px solid #117a8b;">
   <h3 class="text-center mb-3" style="margin-top: 0;">
     <span style="font-size: 1.2em;">⚙️</span> Importance d’une approche interdisciplinaire
   </h3>
