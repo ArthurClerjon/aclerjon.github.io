@@ -391,9 +391,6 @@ Le couple batterie - moteur électrique  : un fort gain d'efficacité énergéti
 
 Les moteurs électriques ont un rendement mécanique de 90%, contre 40% pour les moteurs thermiques1. En ajoutant à cela les diverses pertes de transmission, la consommation des auxiliaires et la possibilité de récupérer de l’énergie au freinage pour les véhicules électriques, on observe un rendement dit du réservoir à la roue  (tank-to-wheel)  d’environ  20% pour les véhicules thermiques, contre 70% pour les véhicules électriques.
 
-
-
-
 Pour apprécier l’effet que pourrait avoir une électrification massive du transport routier, faisons l’hypothèse – optimiste à court terme – que la quasi-totalité des véhicules particuliers et utilitaires est remplacée par des véhicules électriques. Nous supposons pour cela que la consommation de produits pétroliers pour le transport routier diminuerait de 70%. Attention, il s’agit une fois de plus d’un choix de scénario arbitraire, ne reflétant pas nécessairement une limite maximale ou un objectif à un horizon lointain. Cet exercice de pensée a pour unique ambition de souligner l’effet du développement des VE.
 
 Les résultats de cette analyse sont présentés sur la figure ci-dessous.
@@ -403,7 +400,8 @@ Les résultats de cette analyse sont présentés sur la figure ci-dessous.
 </div>  
 
 On y observe de fait une baisse de la consommation de carburant fossile de 70% (- 315 TWh), accompagnée d'une hausse de la demande en électricité de 90 TWh. Le tout s’équilibre autour d’une consommation totale d’énergie qui serait presque divisée par deux.
-Dans le cas du scénario ou la quasi totalité des véhicules particuliers et utilitaires sont remplacés par des véhicules électriques,  la consommation de produits pétroliers pour le transport routier diminuerait de 70% et la consommation énergétique totale diminuerait de 225 TWh.
+
+> Dans le cas où la quasi-totalité des véhicules particuliers et utilitaires sont remplacés par des véhicules électriques, la consommation de produits pétroliers pour le transport routier diminuerait de 70 % et la consommation énergétique totale diminuerait de 225 TWh.
 
 1 Pour un moteur, le rendement désigne le rapport entre l’énergie utile (mécanique) et l’énergie totale consommée (électricité ou combustible ici). Pour un moteur électrique de rendement 90%, cela signifie que 10 % de l’électricité consommée par le moteur électrique n’a pas été consacrée à sa propulsion.
 
@@ -424,6 +422,7 @@ A ces gains, nous pouvons ajouter le potentiel de deux sources d’énergie bas-
 - À condition de développer des infrastructures adaptées, une partie du potentiel de la chaleur fatale, évaluée par l’[ADEME](https://librairie.ademe.fr/changement-climatique-et-energie/3276-le-potentiel-de-la-chaleur-fatale-en-france.html) à **110 TWh**, pourrait être valorisée.
 
 - En complément, un potentiel de **300 TWh** de combustible issu de la biomasse (résidus de déchets agricoles, bois-énergie, boues d’épuration et déchets) est estimé à l’horizon 2050 par divers rapports :
+
   [France Stratégie](https://www.strategie.gouv.fr), [WWF France](https://www.wwf.fr), et [The Shift Project](https://theshiftproject.org).
 
 L'accès à l’ensemble de ce potentiel est bien entendu soumis à de fortes incertitudes. Au-delà des nombreuses hypothèses formulées pour évaluer un potentiel prospectif, la valorisation des 410 TWh (110 chaleur + 300 combustibles) nécessiterait le développement d'infrastructures lourdes comme des réseaux de chaleur. L’accès à la ressource biomasse pour la transformation en combustible, pourrait de son côté susciter des compétitions d’usages avec l'alimentation, le retour au sol ou son utilisation comme matériaux de construction.
@@ -496,6 +495,11 @@ Après avoir joué sur le choix d’énergies bas-carbone et l'efficacité éner
   <p>
     Un travail en interdisciplinarité tenant compte également des aspects sociaux et humains ainsi que de la problématique des ressources et de leurs flux est essentiel.
   </p>
+</div>
+
+<div class="box-dark">
+  <h3 class="text-center">⚙️ Importance d’une approche interdisciplinaire</h3>
+  <p>La transition vers la neutralité carbone impose une forte réduction de la consommation d’énergie, grâce à plus d’efficacité énergétique et à un recours accru à des pratiques de sobriété...</p>
 </div>
 
 
