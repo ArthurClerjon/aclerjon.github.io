@@ -62,3 +62,16 @@ $max-content-width: {{ site.max_width }};
   margin-left: 2rem;
   margin-bottom: 1rem;
 }
+
+.box-left {
+  float: left;
+  width: 40%;
+  margin-right: 2rem;
+  margin-bottom: 1.5rem;
+  background-color: #0d3b66;
+  color: white;
+  padding: 1rem;
+  border-left: 6px solid #00a6a6;
+  border-radius: 0.25rem;
+  clear: both;
+}

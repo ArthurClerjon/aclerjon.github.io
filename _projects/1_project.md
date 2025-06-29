@@ -392,10 +392,16 @@ Le graphique ci-dessous indique la répartition des émissions de GES du transpo
 </figure>
 
 Ce graphique montre également que les véhicules particulier sont responsables de plus de 50% des émissions de GES du transport, suivi par les utilitaires (16%) et les poids lourds (23%).
-Le potentiel des Véhicules Électriques (VE)
-Le couple batterie - moteur électrique  : un fort gain d'efficacité énergétique
 
-Les moteurs électriques ont un rendement mécanique de 90%, contre 40% pour les moteurs thermiques1. En ajoutant à cela les diverses pertes de transmission, la consommation des auxiliaires et la possibilité de récupérer de l’énergie au freinage pour les véhicules électriques, on observe un rendement dit du réservoir à la roue  (tank-to-wheel)  d’environ  20% pour les véhicules thermiques, contre 70% pour les véhicules électriques.
+
+<div class="box-accent box-left">
+  <p><strong>Le potentiel des Véhicules Électriques (VE)</strong></p>
+  <p><strong>Le couple batterie - moteur électrique  : un fort gain d'efficacité énergétique
+</strong></p>
+  <p>
+    Les moteurs électriques ont un rendement mécanique de 90%, contre 40% pour les moteurs thermiques1. En ajoutant à cela les diverses pertes de transmission, la consommation des auxiliaires et la possibilité de récupérer de l’énergie au freinage pour les véhicules électriques, on observe un rendement dit du réservoir à la roue  (tank-to-wheel)  d’environ  20% pour les véhicules thermiques, contre 70% pour les véhicules électriques.
+  </p>
+</div>
 
 Pour apprécier l’effet que pourrait avoir une électrification massive du transport routier, faisons l’hypothèse – optimiste à court terme – que la quasi-totalité des véhicules particuliers et utilitaires est remplacée par des véhicules électriques. Nous supposons pour cela que la consommation de produits pétroliers pour le transport routier diminuerait de 70%. Attention, il s’agit une fois de plus d’un choix de scénario arbitraire, ne reflétant pas nécessairement une limite maximale ou un objectif à un horizon lointain. Cet exercice de pensée a pour unique ambition de souligner l’effet du développement des VE.
 
@@ -427,9 +433,7 @@ A ces gains, nous pouvons ajouter le potentiel de deux sources d’énergie bas-
 
 - À condition de développer des infrastructures adaptées, une partie du potentiel de la chaleur fatale, évaluée par l’[ADEME](https://librairie.ademe.fr/changement-climatique-et-energie/3276-le-potentiel-de-la-chaleur-fatale-en-france.html) à **110 TWh**, pourrait être valorisée.
 
-- En complément, un potentiel de **300 TWh** de combustible issu de la biomasse (résidus de déchets agricoles, bois-énergie, boues d’épuration et déchets) est estimé à l’horizon 2050 par divers rapports :
-
-  [France Stratégie](https://www.strategie.gouv.fr), [WWF France](https://www.wwf.fr), et [The Shift Project](https://theshiftproject.org).
+- En complément, un potentiel de **300 TWh** de combustible issu de la biomasse (résidus de déchets agricoles, bois-énergie, boues d’épuration et déchets) est estimé à l’horizon 2050 par divers rapports : [France Stratégie](https://www.strategie.gouv.fr), [WWF France](https://www.wwf.fr), et [The Shift Project](https://theshiftproject.org).
 
 L'accès à l’ensemble de ce potentiel est bien entendu soumis à de fortes incertitudes. Au-delà des nombreuses hypothèses formulées pour évaluer un potentiel prospectif, la valorisation des 410 TWh (110 chaleur + 300 combustibles) nécessiterait le développement d'infrastructures lourdes comme des réseaux de chaleur. L’accès à la ressource biomasse pour la transformation en combustible, pourrait de son côté susciter des compétitions d’usages avec l'alimentation, le retour au sol ou son utilisation comme matériaux de construction.
 
@@ -437,7 +441,6 @@ L'accès à l’ensemble de ce potentiel est bien entendu soumis à de fortes in
 
 
 Mis bout à bout, nous avons vu que, malgré un déploiement massif des pompes à chaleur et des véhicules électriques, la valorisation de la chaleur fatale et une utilisation intensive de la biomasse, ces technologies ne permettraient pas à elles seules de s’affranchir des énergies fossiles. Quelles sont alors les alternatives restantes ?
-
 
 <div class="box-accent box-right">
   <p><strong>Pour que l’électrification des usages demeure vertueuse</strong></p>
@@ -450,8 +453,6 @@ Mis bout à bout, nous avons vu que, malgré un déploiement massif des pompes �
     <li>Pour assurer la hausse globale de la consommation d’électricité, la France devra augmenter ses capacités de production en développant des moyens bas-carbone – le nucléaire et les ENR – en évitant le recours au gaz et au charbon.</li>
   </ol>
 </div>
-
-
 
 Dans un contexte d’approvisionnement contraint en énergie, les solutions à forte efficacité, comme les PAC et les VE, seront priorisées dans un premier temps. Pour d’autres usages, notamment dans l’industrie ou le transport aérien, des solutions de production  de vecteurs énergétiques à partir d’électricité (Power-To-X), pourront – pour une petite partie – se substituer aux combustibles fossiles. C’est en particulier le cas des procédés à faible rendement, comme la production d’hydrogène par électrolyse de l’eau, ou la synthèse de carburants. A titre indicatif, la production de 100 TWh de carburant de synthèse consommerait, en ordre de grandeur 220 TWh d’électricité. C’est plus de la moitié de la production de l’ensemble du parc nucléaire français sur une année. Un développement à grande échelle de ces solutions demanderait donc de construire des moyens de production d’électricité additionnels.
 
@@ -472,8 +473,6 @@ A la vue de l’ensemble des contraintes évoquées – et sans compter les limi
   </p>
 </div>
 
-
-
 Les moyens technologiques ne sont pas les seuls leviers d’action qui permettront de réduire la consommation d’énergie fossile. L'équation de Kaya1 présentée ci-dessous illustre, de manière simplifiée, comment se répartissent des émissions (quelles qu’elles soient, GES, CO2, particules fines, etc.), en fonction de trois leviers : 
 
 1. **Le choix d’une énergie bas-carbone**, afin de réduire le contenu CO₂ du vecteur énergétique choisi. C’est notamment le cas de l’électrification en France.
@@ -482,12 +481,9 @@ Les moyens technologiques ne sont pas les seuls leviers d’action qui permettro
 
 3. **La sobriété**, c'est-à-dire la réduction des besoins, quels qu’ils soient : besoin de déplacements, d’énergie pour le chauffage d’un foyer, de fabrication de biens de consommation. Par exemple, concernant la mobilité, la sobriété peut se traduire soit par une diminution de l’usage, mais également par un report modal vers des mobilités dites douces ou des transports en commun.
 
-
-
 <div class="text-center my-4">
   <img src="/assets/img/Sankey/Itese_Equation.png" alt="" style="max-width: 100%; height: auto;">
 </div>
-
 
 Après avoir joué sur le choix d’énergies bas-carbone et l'efficacité énergétique, le changement des modes de vie ainsi que les efforts de sobriété auront un rôle crucial – et potentiellement plus rapide – pour atteindre les objectifs climatiques et l’arrêt du recours aux combustibles fossiles. C’est notamment ce qui a été souigné pour la toute première fois par le GIEC dans son dernier rapport (Sixth Assessment Report), indiquant que des efforts de sobriété combinés à l'efficacité énergétique pourraient réduire les émissions de CO2 de 40 à 70% dans certains secteurs de l’économie mondiale (voir figure SPM.7b).
 
@@ -502,7 +498,6 @@ Après avoir joué sur le choix d’énergies bas-carbone et l'efficacité éner
     Un travail en interdisciplinarité tenant compte également des aspects sociaux et humains ainsi que de la problématique des ressources et de leurs flux est essentiel.
   </p>
 </div>
-
 
 1 Equation de Kaya : Yoichi Kaya et Keiichi Yokobori, Environment, energy, and economy : strategies for sustainability : Tokyo conference on Global Environment, Energy and Economic Development (1993), United Nations Univ. Press, Tokyo, 1997, 381 p. (ISBN 92-808-0911-3).
 2 Au rythme actuel, le parc automobile se renouvelle en 20 ans, le parc immobilier en 50 ans.
