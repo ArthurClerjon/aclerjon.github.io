@@ -319,8 +319,20 @@ Le transport et les usages du résidentiel-tertiaire sont les deux secteurs les 
 
 ### 2.a - Décarboner  le besoin de chaleur des secteurs résidentiels et tertiaires, le fort potentiel des pompes à chaleur
 
-La baisse de consommation des énergies fossiles passera - en partie - par le report vers les vecteurs ‘bas-carbone’. C’est aujourd’hui le cas de l’électricité en France, et pour des quantités plus faibles des biocarburants (tant qu’ils sont produits de manière durable) et de la récupération de chaleur fatale.
-Pour illustrer le potentiel de ce report, nous avons choisi les exemples du transport routier et du besoin de chauffage du résidentiel et tertiaire. Rappelons avant tout que ces deux secteurs sont responsables de respectivement  et  des émissions de GES sur le territoire.
+<p style="font-style: italic; font-size: 1.05rem; text-align: justify;">
+  La baisse de consommation des énergies fossiles passera – en partie – par le report vers les vecteurs 
+  <em>‘bas-carbone’</em>. C’est aujourd’hui le cas de 
+  <a href="https://www.rte-france.com/eco2mix/les-donnees-de-la-production-par-filiere" target="_blank" style="color: #0d3b66; text-decoration: underline;">l’électricité en France</a>,
+  et pour des quantités plus faibles des biocarburants (tant qu’ils sont produits de manière durable) et de la récupération de chaleur fatale.
+</p>
+
+<p style="font-style: italic; font-size: 1.05rem; text-align: justify;">
+  Pour illustrer le potentiel de ce report, nous avons choisi les exemples du transport routier et du besoin de chauffage du résidentiel et tertiaire.
+  Rappelons avant tout que ces deux secteurs sont responsables de respectivement <strong>30 %</strong> et <strong>15 %</strong> des émissions de GES sur le territoire.
+</p>
+
+<hr style="width: 60px; border: none; border-top: 2px solid #ccc; margin: 1rem auto;">
+
 
 Le secteur du bâtiment est aujourd’hui susceptible de réduire fortement sa consommation d’énergie, notamment par des gains d’efficacité énergétique réalisés à la fois en rénovant les bâtiment les moins bien isolés () ; et en remplaçant les chaudières au gaz et au fioul par des pompes à chaleur (PAC).
 
@@ -337,8 +349,10 @@ Afin de comprendre dans quelle mesure le développement massif des pompes à cha
 
 Le résultat de cette expérience de pensée est présenté sur le visuel ci-dessous. 
 
+<div class="text-center my-4">
+  <img src="/assets/img/Sankey/Itese_Visual_5a.png" alt="" style="max-width: 100%; height: auto;">
+</div>
 
- 
 
 On lit sur la barre de gauche la répartition par source  du besoin de chauffage en 2019  (400 TWh), à droite la répartition de ce même besoin dans le scénario d’électrification ‘50% PAC’ décrit précédemment. Voici les principaux messages de ce graphique : 
 On observe une baisse de 50% des énergies fossiles pour atteindre 110 TWh. 
@@ -346,16 +360,29 @@ Les pompes à chaleur produisant plus d’énergie thermique que d’électricit
 
 Loin de s’affranchir des énergies fossiles, le développement des pompes à chaleur dans ce scénario '50% PAC' permettrait toutefois d’en réduire l’usage. Pour se décarboner davantage (en dehors d'une électrification plus importante), il est aussi possible de récupérer la chaleur dite ‘fatale’ , majoritairement produite lors de procédés industriels et qui serait perdue si elle n’était pas valorisée. En France,  évalue le potentiel de chaleur fatale qui pourrait être récupérée à 109.5 TWh thermique (dont 53 TWh à plus de 100°C3), sous réserve de développer des infrastructures adaptées, comme des . Il s’agit donc d’un potentiel hypothétique.
 
-La valorisation de cette chaleur fatale pourrait subvenir au besoin de chauffage et ce potentiel est comparé au besoin 2019 et celui  du scénario ‘50% PAC’ sur le visuel suivant.
+La valorisation de cette chaleur fatale pourrait subvenir au besoin de chauffage et ce potentiel est comparé au besoin 2019 et celui  du scénario *50% PAC* sur le visuel suivant.
 
+<div class="text-center my-4">
+  <img src="/assets/img/Sankey/Itese_Visual_5b.png" alt="" style="max-width: 100%; height: auto;">
+</div>
 
 
 Ce graphique montre que le potentiel total de récupération de chaleur fatale est du même ordre de grandeur que la consommation de fossiles pour répondre au besoin de chauffage dans le cas du scénario ‘50% PAC’. Attention cependant, cette chaleur fatale ne peut être valorisable qu’en développant des infrastructures de transport de chaleur entre les sites industriels et les sites  où elle sera utilisée. Les réseaux de chaleur urbains fonctionnant pour la majorité en France à plus de 100°C, la chaleur fatale produite à moins de 100°C (plus de la moitié) ne pourra pas être valorisée directement.
 
 
-Dans le scénario d’électrification ‘50% PAC’, on observe une baisse de 50% de la consommation des énergies fossiles. Les pompes à chaleur produisant plus d’énergie thermique que d’électricité consommée, la consommation énergétique totale baisse de 70 TWh. 
+<div class="box-accent" style="max-width: 800px; margin: 2rem auto;">
+  <p>
+    <strong>Dans le scénario d’électrification ‘50 % PAC’</strong>, on observe une baisse de <strong>50 %</strong> de la consommation des énergies fossiles.
+    Les pompes à chaleur produisant plus d’énergie thermique que d’électricité consommée, la consommation énergétique totale baisse de <strong>70 TWh</strong>.
+  </p>
+  <p>
+    La consommation de fossiles — gaz, pétrole, charbon — est alors d’un peu plus de <strong>100 TWh</strong>.
+    C’est du même ordre de grandeur que le potentiel maximum de récupération de chaleur fatale en France.
+    Même s’il ne s’agit là que d’un potentiel, la valorisation de la chaleur fatale permettrait de <strong>décarboner en partie la production de chaleur</strong>,
+    si des réseaux de chaleur urbains sont disponibles pour la transporter.
+  </p>
+</div>
 
-La consommation de fossiles — gaz, pétrole, charbon — est alors d’un peu plus de 100 TWh. C’est du même ordre de grandeur que le potentiel maximum de récupération de chaleur fatale en France. Même s’il ne s’agit là que d’un potentiel, la valorisation de la chaleur fatale permettrait de décarboner en partie la production de chaleur, si des réseaux de chaleur urbains sont disponibles pour la transporter.
 
 1 Aucun horizon temporel n’est visé, cet exemple est simplement choisi à titre indicatif.
 2 Dans le cadre de la méthodologie comptable employée par le SDES et l’AIE, l’énergie thermique ‘gratuite’, prélevée dans l’environnement par les pompes à chaleur doit être imputée au secteur Energie renouvelables thermiques et déchets. Dans le cas de l’analyse de sensibilité ‘50 % PAC’, nous avons délibérément choisi de ne pas le faire, afin de garder visible le gain d'efficacité énergétique sur le graphique.
