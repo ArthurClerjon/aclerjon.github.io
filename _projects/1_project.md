@@ -280,9 +280,9 @@ Ce graphique montre que près de 65% de l’énergie finale consommée est d’o
 
 Près de 65% de l'énergie finale consommée en France est d'origine fossile.
 
-### 1.c - Une répartition inégale des énergies fossiles entre les secteurs
-
-
+<div style="background-color: #eef4f7; border-left: 4px solid #0d3b66; padding: 1rem; margin-top: 2rem;">
+  <h3>1.c - Une répartition inégale des énergies fossiles entre les secteurs</h3>
+</div>
 
 Demandons-nous maintenant quels sont les postes de consommation de cette énergie finale ? Quels sont les secteurs aujourd’hui les plus demandeurs en énergie fossile ? C’est ce que révèle l’analyse de la partie droite de notre diagramme de Sankey, qui montre la répartition de l’approvisionnement énergétique des différents secteurs de l’économie, organisée comme suit :
 - Industrie
@@ -403,11 +403,6 @@ Ce graphique montre que le potentiel total de récupération de chaleur fatale e
 
 Le graphique ci-dessous indique la répartition des émissions de GES du transport national. Il est important de remarquer que, au sein du transport national, la partie routière est responsable de plus de 95% des émissions de GES. 
  
-<div class="text-center my-4">
-  <img src="/assets/img/Sankey/repartition-transports.png" alt="" style="max-width: 100%; height: auto;">
-</div>
-
-
 <figure>
   <img src="/assets/img/Sankey/repartition-transports.png" alt="" class="img-fluid">
   <figcaption class="figure-caption">
