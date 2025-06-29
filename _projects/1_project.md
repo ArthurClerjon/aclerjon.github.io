@@ -367,7 +367,15 @@ La consommation de fossiles — gaz, pétrole, charbon — est alors d’un peu 
 
 ### 2.b - Décarboner le transport routier : quel potentiel pour les véhicules électriques ?
 
-Pour illustrer le potentiel de report vers les vecteurs 'bas-carbone', nous avons traité dans le paragraphe précédent l'exemple du chauffage du résidentiel et du tertiaire. Dans ce paragraphe, nous analysons le transport routier. En effet, nous avons vu précédemment, que le transport est le secteur le plus consommateur d’énergies fossiles en France. Le transport routier (véhicules particuliers, utilitaires et poids lourds), est à lui seul responsable de près de.
+P
+<p style="font-style: italic; font-size: 1.05rem; text-align: justify;">
+  Pour illustrer le potentiel de report vers les vecteurs 'bas-carbone', nous avons traité dans le paragraphe précédent l'exemple du chauffage du résidentiel et du tertiaire. Dans ce paragraphe, nous analysons le transport routier. En effet, nous avons vu précédemment, que le transport est le secteur le plus consommateur d’énergies fossiles en France. Le transport routier (véhicules particuliers, utilitaires et poids lourds), est à lui seul responsable de près de 
+  <a href="https://www.notre-environnement.gouv.fr/themes/climat/les-emissions-de-gaz-a-effet-de-serre-et-l-empreinte-carbone-ressources/article/les-emissions-de-gaz-a-effet-de-serre-du-secteur-des-transports#:~:text=En%202019%2c%20le%20transport%20est%2crepr%C3%A9sentait%2022%20%25%20du%20total%20national." target="_blank" style="font-style: italic;">
+    30% des émissions de GES sur territoire
+  </a>.
+</p>
+
+<hr style="width: 60px; border: none; border-top: 2px solid #ccc; margin: 1rem auto;">
 
 Le graphique ci-dessous indique la répartition des émissions de GES du transport national. Il est important de remarquer que, au sein du transport national, la partie routière est responsable de plus de 95% des émissions de GES. 
  
@@ -377,13 +385,11 @@ Le graphique ci-dessous indique la répartition des émissions de GES du transpo
 
 
 <figure>
-  <img src="/assets/img/Sankey/repartition-transport.png" alt="Diagramme de Sankey des flux énergétiques français" class="img-fluid">
+  <img src="/assets/img/Sankey/repartition-transports.png" alt="" class="img-fluid">
   <figcaption class="figure-caption">
     Source : <a href="https://www.statistiques.developpement-durable.gouv.fr/chiffres-cles-du-climat-france-europe-et-monde-edition-2024" target="_blank">Chiffres clés du climat France, Europe et Monde ÉDITION 2021</a>
   </figcaption>
 </figure>
-
-Source : Chiffres clés du climat France, Europe et Monde ÉDITION 2021
 
 Ce graphique montre également que les véhicules particulier sont responsables de plus de 50% des émissions de GES du transport, suivi par les utilitaires (16%) et les poids lourds (23%).
 Le potentiel des Véhicules Électriques (VE)
@@ -496,9 +502,6 @@ Après avoir joué sur le choix d’énergies bas-carbone et l'efficacité éner
     Un travail en interdisciplinarité tenant compte également des aspects sociaux et humains ainsi que de la problématique des ressources et de leurs flux est essentiel.
   </p>
 </div>
-
-
-
 
 
 1 Equation de Kaya : Yoichi Kaya et Keiichi Yokobori, Environment, energy, and economy : strategies for sustainability : Tokyo conference on Global Environment, Energy and Economic Development (1993), United Nations Univ. Press, Tokyo, 1997, 381 p. (ISBN 92-808-0911-3).
