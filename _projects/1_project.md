@@ -93,78 +93,6 @@ Cet article n’a pas vocation à décrire une marche à suivre pour décarboner
 
 Les données énergétiques utilisées pour la réalisation de ce graphique proviennent de l’agrégation de rapports du (SDES) pour l’année 2019, avant la crise sanitaire. Le cadre méthodologique est identique à celui choisi par ces rapports, à l'exception du transport international (aérien et maritime) qui a été ajouté. Les données d'émissions de CO2  proviennent quant à elles du centre de ressources .
 
-
-
-## Figures
-
-<div class="row justify-content-center">
-  <div class="col-auto">
-    <a href="/assets/img/Sankey/Itese_Sankey_Gradient.png" target="_blank">
-      <img src="/assets/img/Sankey/Itese_Sankey_Gradient.png" alt="Flux énergétiques" class="img-thumbnail" style="max-width: 150px;">
-    </a>
-  </div>
-  <div class="col-auto">
-    <a href="/assets/img/Sankey/Itese_Visual_2.png" target="_blank">
-      <img src="/assets/img/Sankey/Itese_Visual_2.png" alt="Répartition énergie par source" class="img-thumbnail" style="max-width: 150px;">
-    </a>
-  </div>
-  <div class="col-auto">
-    <a href="/assets/img/Sankey/Itese_Visual_3.png" target="_blank">
-      <img src="/assets/img/Sankey/Itese_Visual_3.png" alt="Consommation par secteur" class="img-thumbnail" style="max-width: 150px;">
-    </a>
-  </div>
-</div>
-
-<div class="caption text-center mt-2">
-  Diagramme de Sankey, répartition des sources d’énergie finale, consommation par secteur.
-</div>
-
-<div class="row justify-content-center mt-3">
-  <div class="col-auto">
-    <a href="/assets/img/Sankey/Itese_Visual_5a.png" target="_blank">
-      <img src="/assets/img/Sankey/Itese_Visual_5a.png" alt="PAC - Scénario 50%" class="img-thumbnail" style="max-width: 150px;">
-    </a>
-  </div>
-  <div class="col-auto">
-    <a href="/assets/img/Sankey/Itese_Visual_5b.png" target="_blank">
-      <img src="/assets/img/Sankey/Itese_Visual_5b.png" alt="Potentiel de chaleur fatale" class="img-thumbnail" style="max-width: 150px;">
-    </a>
-  </div>
-</div>
-
-<div class="caption text-center mt-2">
-  Scénario de pompes à chaleur et chaleur fatale valorisée.
-</div>
-
-<div class="row justify-content-center mt-3">
-  <div class="col-auto">
-    <a href="/assets/img/Sankey/Itese_Visual_6.png" target="_blank">
-      <img src="/assets/img/Sankey/Itese_Visual_6.png" alt="Effets VE sur le transport" class="img-thumbnail" style="max-width: 150px;">
-    </a>
-  </div>
-</div>
-
-<div class="caption text-center mt-2">
-  Impact du déploiement des véhicules électriques.
-</div>
-
-<div class="row justify-content-center mt-3">
-  <div class="col-auto">
-    <a href="/assets/img/Sankey/Itese_Visual_7a.png" target="_blank">
-      <img src="/assets/img/Sankey/Itese_Visual_7a.png" alt="Effet global des scénarios" class="img-thumbnail" style="max-width: 150px;">
-    </a>
-  </div>
-</div>
-
-<div class="caption text-center mt-2">
-  Effet combiné des mesures de décarbonation.
-</div>
-
-
-
-
-
-
 ## Sommaire illustré
 
 <div class="row mb-4">
@@ -279,6 +207,19 @@ Ce graphique montre que près de 65% de l’énergie finale consommée est d’o
 
 
 Près de 65% de l'énergie finale consommée en France est d'origine fossile.
+
+
+<h2 style="font-size: 1.6rem; font-weight: bold; color: #0d3b66; margin-bottom: 0.5rem;">
+  1 - Le point sur l'utilisation des ressources énergétiques en France
+</h2>
+<hr style="width: 80px; border: 3px solid #117a8b; margin-left: auto; margin-bottom: 2rem;">
+
+
+<div style="background-color: #eef4f7; border-left: 4px solid #0d3b66; padding: 1rem; margin-top: 2rem;">
+  <h3>1.c - Une répartition inégale des énergies fossiles entre les secteurs</h3>
+</div>
+
+blzbabla 
 
 <div style="background-color: #eef4f7; border-left: 4px solid #0d3b66; padding: 1rem; margin-top: 2rem;">
   <h3>1.c - Une répartition inégale des énergies fossiles entre les secteurs</h3>
