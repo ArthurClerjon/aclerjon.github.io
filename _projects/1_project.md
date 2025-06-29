@@ -424,7 +424,7 @@ L'accès à l’ensemble de ce potentiel est bien entendu soumis à de fortes in
 Mis bout à bout, nous avons vu que, malgré un déploiement massif des pompes à chaleur et des véhicules électriques, la valorisation de la chaleur fatale et une utilisation intensive de la biomasse, ces technologies ne permettraient pas à elles seules de s’affranchir des énergies fossiles. Quelles sont alors les alternatives restantes ?
 
 
-<div class="p-3 my-3 rounded" style="background-color: #1a1a1a; color: white; width: 25%; float: right; margin-left: 2rem; border-left: 4px solid #117a8b;">
+<div class="p-3 my-3 rounded" style="background-color: #1a1a1a; color: white; width: 40%; float: right; margin-left: 2rem; border-left: 4px solid #117a8b;">
   <h5 class="text-center" style="font-size: 1rem; margin-top: 0;">Pour que l’électrification des usages demeure vertueuse</h5>
   <p style="font-size: 0.9rem;">
     Le développement des pompes à chaleur et véhicules électriques présenté plus haut implique une électrification massive des usages, et de fait une croissance de la consommation d’électricité.
@@ -443,7 +443,7 @@ Dans un contexte futur contraint en ressources carbonées non-fossiles (biomasse
 
 A la vue de l’ensemble des contraintes évoquées – et sans compter les limitations qui pourraient apparaître sur l’accès aux matières premières, la disponibilité des sols, etc. – nous comprenons désormais que l’arrêt du recours aux énergies fossiles ne pourra se faire uniquement grâce au développement technologique.  Ce ne sont en effet pas les seuls leviers d’action. Une baisse de la demande énergétique globale, via la modification des usages – c’est à dire un effort de sobriété – sera également nécessaire.
 
-<div class="p-3 my-3 rounded" style="background-color: #1a1a1a; color: white !important; width: 25%; float: right; margin-left: 2rem; border-left: 4px solid #117a8b;">
+<div class="p-3 my-3 rounded" style="background-color: #1a1a1a; color: white !important; width: 40%; float: right; margin-left: 2rem; border-left: 4px solid #117a8b;">
   <h5 class="text-center" style="font-size: 1rem; margin-top: 0;">La temporalité de choix et d'actions</h5>
   <p style="font-size: 0.9rem;">
     L’industrialisation et le déploiement de nouvelles technologies, telles que le développement massif des véhicules électriques ou la rénovation du parc immobilier, sont des transformations qui s’opèrent sur les temps longs<sup>2</sup> – plusieurs décennies.
