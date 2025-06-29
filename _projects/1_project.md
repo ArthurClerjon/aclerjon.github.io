@@ -367,7 +367,6 @@ La consommation de fossiles — gaz, pétrole, charbon — est alors d’un peu 
 
 ### 2.b - Décarboner le transport routier : quel potentiel pour les véhicules électriques ?
 
-P
 <p style="font-style: italic; font-size: 1.05rem; text-align: justify;">
   Pour illustrer le potentiel de report vers les vecteurs 'bas-carbone', nous avons traité dans le paragraphe précédent l'exemple du chauffage du résidentiel et du tertiaire. Dans ce paragraphe, nous analysons le transport routier. En effet, nous avons vu précédemment, que le transport est le secteur le plus consommateur d’énergies fossiles en France. Le transport routier (véhicules particuliers, utilitaires et poids lourds), est à lui seul responsable de près de 
   <a href="https://www.notre-environnement.gouv.fr/themes/climat/les-emissions-de-gaz-a-effet-de-serre-et-l-empreinte-carbone-ressources/article/les-emissions-de-gaz-a-effet-de-serre-du-secteur-des-transports#:~:text=En%202019%2c%20le%20transport%20est%2crepr%C3%A9sentait%2022%20%25%20du%20total%20national." target="_blank" style="font-style: italic;">
@@ -380,7 +379,7 @@ P
 Le graphique ci-dessous indique la répartition des émissions de GES du transport national. Il est important de remarquer que, au sein du transport national, la partie routière est responsable de plus de 95% des émissions de GES. 
  
 <div class="text-center my-4">
-  <img src="/assets/img/Sankey/repartition-transport.png" alt="" style="max-width: 100%; height: auto;">
+  <img src="/assets/img/Sankey/repartition-transports.png" alt="" style="max-width: 100%; height: auto;">
 </div>
 
 
