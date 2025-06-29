@@ -26,13 +26,13 @@ J'ai réalisé ce travail entre 2022 et 2023 au sein du CEA I-Tésé. Dans une d
 #### Résumé  
 Nous avons construit une représentation graphique des flux entre la consommation d’énergie finale et les usages sous forme d’un diagramme de Sankey. Ce diagramme décrit les volumes en jeu, leur origine et leur contenu en CO₂, et sert de base pour analyser les leviers majeurs de décarbonation.
 
-<div class="box-green">
-  <h5 class="text-center" style="font-weight: bold;">Messages principaux</h5>
-
   <div class="text-center my-4">
     <img src="/assets/img/Sankey/Itese_Sankey_Gradient.png" alt="Diagramme de Sankey" style="max-width: 100%; height: auto;">
   </div>
 
+
+<div class="box-green">
+  <h5 class="text-center" style="font-weight: bold;">Messages principaux</h5>
   <p><strong>Les chiffres clefs :</strong></p>
   <ul>
     <li>En 2019, la France a consommé <strong>1840 TWh</strong> d’énergie finale.</li>
