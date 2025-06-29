@@ -433,17 +433,18 @@ L'accès à l’ensemble de ce potentiel est bien entendu soumis à de fortes in
 Mis bout à bout, nous avons vu que, malgré un déploiement massif des pompes à chaleur et des véhicules électriques, la valorisation de la chaleur fatale et une utilisation intensive de la biomasse, ces technologies ne permettraient pas à elles seules de s’affranchir des énergies fossiles. Quelles sont alors les alternatives restantes ?
 
 
-<div class="p-3 my-3 rounded" style="background-color: #1a1a1a; color: white; width: 40%; float: right; margin-left: 2rem; border-left: 4px solid #117a8b;">
-  <h5 class="text-center" style="font-size: 1rem; margin-top: 0;">Pour que l’électrification des usages demeure vertueuse</h5>
-  <p style="font-size: 0.9rem;">
-    Le développement des pompes à chaleur et véhicules électriques présenté plus haut implique une électrification massive des usages, et de fait une croissance de la consommation d’électricité.
-    Pour que ce report de source d’énergies soit réellement vertueux, il faut s’assurer que les deux conditions ci-dessous soient remplies :
+<div class="box-accent box-right">
+  <p><strong>Pour que l’électrification des usages demeure vertueuse</strong></p>
+  <p>
+    Le développement des pompes à chaleur et véhicules électriques présenté plus haut implique une électrification massive des usages,
+    et de fait une croissance de la consommation d’électricité. Pour que ce report de source d’énergies soit réellement vertueux, il faut s’assurer que les deux conditions ci-dessous soient remplies :
   </p>
-  <ol style="font-size: 0.9rem; padding-left: 1.2em;">
+  <ol>
     <li>La production d’électricité doit tout d'abord rester décarbonée. C’est aujourd’hui le cas en France, mais ces solutions ne seraient pas vraies pour tous les autres pays européens.</li>
     <li>Pour assurer la hausse globale de la consommation d’électricité, la France devra augmenter ses capacités de production en développant des moyens bas-carbone – le nucléaire et les ENR – en évitant le recours au gaz et au charbon.</li>
   </ol>
 </div>
+
 
 
 Dans un contexte d’approvisionnement contraint en énergie, les solutions à forte efficacité, comme les PAC et les VE, seront priorisées dans un premier temps. Pour d’autres usages, notamment dans l’industrie ou le transport aérien, des solutions de production  de vecteurs énergétiques à partir d’électricité (Power-To-X), pourront – pour une petite partie – se substituer aux combustibles fossiles. C’est en particulier le cas des procédés à faible rendement, comme la production d’hydrogène par électrolyse de l’eau, ou la synthèse de carburants. A titre indicatif, la production de 100 TWh de carburant de synthèse consommerait, en ordre de grandeur 220 TWh d’électricité. C’est plus de la moitié de la production de l’ensemble du parc nucléaire français sur une année. Un développement à grande échelle de ces solutions demanderait donc de construire des moyens de production d’électricité additionnels.
@@ -452,18 +453,19 @@ Dans un contexte futur contraint en ressources carbonées non-fossiles (biomasse
 
 A la vue de l’ensemble des contraintes évoquées – et sans compter les limitations qui pourraient apparaître sur l’accès aux matières premières, la disponibilité des sols, etc. – nous comprenons désormais que l’arrêt du recours aux énergies fossiles ne pourra se faire uniquement grâce au développement technologique.  Ce ne sont en effet pas les seuls leviers d’action. Une baisse de la demande énergétique globale, via la modification des usages – c’est à dire un effort de sobriété – sera également nécessaire.
 
-<div class="p-3 my-3 rounded" style="background-color: #1a1a1a; color: white !important; width: 40%; float: right; margin-left: 2rem; border-left: 4px solid #117a8b;">
-  <h5 class="text-center" style="font-size: 1rem; margin-top: 0;">La temporalité de choix et d'actions</h5>
-  <p style="font-size: 0.9rem;">
+<div class="box-accent box-right">
+  <p><strong>La temporalité de choix et d'actions</strong></p>
+  <p>
     L’industrialisation et le déploiement de nouvelles technologies, telles que le développement massif des véhicules électriques ou la rénovation du parc immobilier, sont des transformations qui s’opèrent sur les temps longs<sup>2</sup> – plusieurs décennies.
   </p>
-  <p style="font-size: 0.9rem;">
+  <p>
     En revanche, l'évolution des modes de vie peut être stimulée par des décisions politiques et individuelles prises à des échelles de temps beaucoup plus courtes (ex. report modal, réglementation du trafic aérien ou des véhicules polluants).
   </p>
-  <p style="font-size: 0.9rem;">
+  <p>
     Ainsi, à court terme et dans un contexte d’urgence climatique, les actions de sobriété présentent le meilleur potentiel de limitation de nos émissions, ce qui les rend d’autant plus nécessaires.
   </p>
-</div>s
+</div>
+
 
 
 Les moyens technologiques ne sont pas les seuls leviers d’action qui permettront de réduire la consommation d’énergie fossile. L'équation de Kaya1 présentée ci-dessous illustre, de manière simplifiée, comment se répartissent des émissions (quelles qu’elles soient, GES, CO2, particules fines, etc.), en fonction de trois leviers : 
@@ -483,10 +485,8 @@ Les moyens technologiques ne sont pas les seuls leviers d’action qui permettro
 
 Après avoir joué sur le choix d’énergies bas-carbone et l'efficacité énergétique, le changement des modes de vie ainsi que les efforts de sobriété auront un rôle crucial – et potentiellement plus rapide – pour atteindre les objectifs climatiques et l’arrêt du recours aux combustibles fossiles. C’est notamment ce qui a été souigné pour la toute première fois par le GIEC dans son dernier rapport (Sixth Assessment Report), indiquant que des efforts de sobriété combinés à l'efficacité énergétique pourraient réduire les émissions de CO2 de 40 à 70% dans certains secteurs de l’économie mondiale (voir figure SPM.7b).
 
-<div class="p-4 my-4 rounded border-start border-4" style="background-color: #1a1a1a; color: white !important ; border-left: 6px solid #117a8b;">
-  <h3 class="text-center mb-3" style="margin-top: 0;">
-    <span style="font-size: 1.2em;">⚙️</span> Importance d’une approche interdisciplinaire
-  </h3>
+<div class="box-accent">
+  <p class="text-center"><strong>Importance d’une approche interdisciplinaire</strong></p>
   <p>
     La transition vers la neutralité carbone impose une forte réduction de la consommation d’énergie, grâce à plus d’efficacité énergétique et à un recours accru à des pratiques de sobriété.
     Ces dernières doivent être appliquées partout où elles sont possibles, en interrogeant les usages.
@@ -497,10 +497,8 @@ Après avoir joué sur le choix d’énergies bas-carbone et l'efficacité éner
   </p>
 </div>
 
-<div class="box-dark">
-  <h3 class="text-center">⚙️ Importance d’une approche interdisciplinaire</h3>
-  <p>La transition vers la neutralité carbone impose une forte réduction de la consommation d’énergie, grâce à plus d’efficacité énergétique et à un recours accru à des pratiques de sobriété...</p>
-</div>
+
+
 
 
 1 Equation de Kaya : Yoichi Kaya et Keiichi Yokobori, Environment, energy, and economy : strategies for sustainability : Tokyo conference on Global Environment, Energy and Economic Development (1993), United Nations Univ. Press, Tokyo, 1997, 381 p. (ISBN 92-808-0911-3).
