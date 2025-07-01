@@ -19,7 +19,7 @@ related_publications: true
 </div>
 
 <div class="alert alert-secondary">
-J'ai réalisé ce travail entre 2022 et 2023 au sein du CEA I-Tésé. Dans une dynamique de capitalisation et regroupement de mes production, je le présente sur cette page. Le document original est disponible ici : <a href="https://www.cea.fr/energies/i-tese/Pages/Actualites/Focus-Thematiques/usages-energie-france.aspx" target="_blank">ici</a>.
+J'ai réalisé ce travail entre 2022 et 2023 au sein du CEA I-Tésé. Dans une dynamique de capitalisation et regroupement de mes production, je le présente sur cette page. Le document original est disponible <a href="https://www.cea.fr/energies/i-tese/Pages/Actualites/Focus-Thematiques/usages-energie-france.aspx" target="_blank">ici.</a>.
 </div>
 
 
@@ -129,10 +129,16 @@ Les données énergétiques utilisées pour la réalisation de ce graphique prov
 </div>
 
 
-## 1. Le point sur l'utilisation des ressources énergétiques en France
+<h2 style="font-size: 1.6rem; font-weight: bold; color: #0d3b66; margin-bottom: 0.5rem;">
+  1 - Le point sur l'utilisation des ressources énergétiques en France
+</h2>
+<hr style="width: 80px; border: 3px solid #117a8b; margin-left: auto; margin-bottom: 2rem;">
 
 
-### 1.a - Présentation du diagramme principal
+<div style="background-color: #eef4f7; border-left: 4px solid #0d3b66; padding: 1rem; margin-top: 2rem;">
+  <h3>1.a - Présentation du diagramme principal</h3>
+</div>
+
 
 En France métropolitaine, environ 65% de l’énergie finale consommée est d’origine fossile (pétrole, gaz, charbon). C’est ce qu’illustre le , une publication annuelle du Service des Données et Études Statistiques  (SDES). Ces rapports font notamment l’état de la consommation des ressources énergétiques primaires en France, comme le pétrole brut, le gaz ou les ressources fissiles ; ainsi que de leur transformation en énergie dite  finale, disponible à la consommation.
 
@@ -192,8 +198,11 @@ Pour cela, nous distinguerons les vecteurs énergétiques dits ‘bas carbone’
   <li>Sur ce diagramme a été ajoutée la consommation de pétrole imputée au transport aérien et maritime international. Celui-ci s'élève à environ 90 TWh, soit une énergie finale totale consommée de 1840 TWh en 2019.</li>
 </ol>
 
+<div style="background-color: #eef4f7; border-left: 4px solid #0d3b66; padding: 1rem; margin-top: 2rem;">
+  <h3>1.b - Un système qui repose majoritairement sur les fossiles</h3>
+</div>
 
-### 1.b - Un système qui repose majoritairement sur les fossiles
+
 La répartition de l’énergie finale par source (électricité, pétrole, gaz, etc...) – représentée par la partie gauche du diagramme de Sankey – est agrégée sous un autre format sur le visuel ci-dessous.
 
 <div class="text-center my-4">
@@ -209,21 +218,11 @@ Ce graphique montre que près de 65% de l’énergie finale consommée est d’o
 Près de 65% de l'énergie finale consommée en France est d'origine fossile.
 
 
-<h2 style="font-size: 1.6rem; font-weight: bold; color: #0d3b66; margin-bottom: 0.5rem;">
-  1 - Le point sur l'utilisation des ressources énergétiques en France
-</h2>
-<hr style="width: 80px; border: 3px solid #117a8b; margin-left: auto; margin-bottom: 2rem;">
-
-
 <div style="background-color: #eef4f7; border-left: 4px solid #0d3b66; padding: 1rem; margin-top: 2rem;">
   <h3>1.c - Une répartition inégale des énergies fossiles entre les secteurs</h3>
 </div>
 
-blzbabla 
 
-<div style="background-color: #eef4f7; border-left: 4px solid #0d3b66; padding: 1rem; margin-top: 2rem;">
-  <h3>1.c - Une répartition inégale des énergies fossiles entre les secteurs</h3>
-</div>
 
 Demandons-nous maintenant quels sont les postes de consommation de cette énergie finale ? Quels sont les secteurs aujourd’hui les plus demandeurs en énergie fossile ? C’est ce que révèle l’analyse de la partie droite de notre diagramme de Sankey, qui montre la répartition de l’approvisionnement énergétique des différents secteurs de l’économie, organisée comme suit :
 - Industrie
@@ -258,7 +257,16 @@ Ces deux postes de consommation vont faire l’objet d’une analyse détaillée
 
 Le transport et les usages du résidentiel-tertiaire sont les deux secteurs les plus intensifs en énergie, représentant à eux deux la majeure partie de la consommation des énergies fossiles.
 
-### 2.a - Décarboner  le besoin de chaleur des secteurs résidentiels et tertiaires, le fort potentiel des pompes à chaleur
+<h2 style="font-size: 1.6rem; font-weight: bold; color: #0d3b66; margin-bottom: 0.5rem;">
+  2. Quelles alternatives pour décarboner ?
+</h2>
+<hr style="width: 80px; border: 3px solid #117a8b; margin-left: auto; margin-bottom: 2rem;">
+
+
+<div style="background-color: #eef4f7; border-left: 4px solid #0d3b66; padding: 1rem; margin-top: 2rem;">
+  <h3>2.a - Décarboner  le besoin de chaleur des secteurs résidentiels et tertiaires, le fort potentiel des pompes à chaleur</h3>
+</div>
+
 
 <p style="font-style: italic; font-size: 1.05rem; text-align: justify;">
   La baisse de consommation des énergies fossiles passera – en partie – par le report vers les vecteurs 
@@ -330,8 +338,9 @@ Ce graphique montre que le potentiel total de récupération de chaleur fatale e
 2 Dans le cadre de la méthodologie comptable employée par le SDES et l’AIE, l’énergie thermique ‘gratuite’, prélevée dans l’environnement par les pompes à chaleur doit être imputée au secteur Energie renouvelables thermiques et déchets. Dans le cas de l’analyse de sensibilité ‘50 % PAC’, nous avons délibérément choisi de ne pas le faire, afin de garder visible le gain d'efficacité énergétique sur le graphique.
 3 Le niveau de température de la chaleur fatale a une importance primordiale. A haute température (plusieurs centaines de degrés) elle pourra être facilement valorisée, dans des procédés industriels par exemple. A basse température (~80-90°C), les usages pouvant valoriser la chaleur sont moindre. Derrière cette question de température se cache en fait la notion d’exergie, c'est-à dire l’énergie ‘utile’ qui peut être extraite du flux de chaleur fatale.
 
-
-### 2.b - Décarboner le transport routier : quel potentiel pour les véhicules électriques ?
+<div style="background-color: #eef4f7; border-left: 4px solid #0d3b66; padding: 1rem; margin-top: 2rem;">
+  <h3>2.b - Décarboner le transport routier : quel potentiel pour les véhicules électriques ?</h3>
+</div>
 
 <p style="font-style: italic; font-size: 1.05rem; text-align: justify;">
   Pour illustrer le potentiel de report vers les vecteurs 'bas-carbone', nous avons traité dans le paragraphe précédent l'exemple du chauffage du résidentiel et du tertiaire. Dans ce paragraphe, nous analysons le transport routier. En effet, nous avons vu précédemment, que le transport est le secteur le plus consommateur d’énergies fossiles en France. Le transport routier (véhicules particuliers, utilitaires et poids lourds), est à lui seul responsable de près de 
@@ -377,8 +386,11 @@ On y observe de fait une baisse de la consommation de carburant fossile de 70% (
 
 1 Pour un moteur, le rendement désigne le rapport entre l’énergie utile (mécanique) et l’énergie totale consommée (électricité ou combustible ici). Pour un moteur électrique de rendement 90%, cela signifie que 10 % de l’électricité consommée par le moteur électrique n’a pas été consacrée à sa propulsion.
 
+<div style="background-color: #eef4f7; border-left: 4px solid #0d3b66; padding: 1rem; margin-top: 2rem;">
+  <h3>2.c - Bilan : effet global de ces scénarios de développement technologique</h3>
+</div>
 
-### 2.c - Bilan : effet global de ces scénarios de développement technologique
+
 
 
 Évaluons maintenant l’effet cumulé que pourrait avoir le déploiement de ces deux  technologies – pompes à chaleur et véhicules électriques – sur la consommation globale d’énergie finale (hors transport international et consommations à usages non-énergétiques). Les résultats sont présentés sur la figure ci-dessous. Rappelons toutefois qu’il ne s’agit là que de scénarios d’électrification choisis arbitrairement et non pas de potentiels maximum.
@@ -397,7 +409,11 @@ A ces gains, nous pouvons ajouter le potentiel de deux sources d’énergie bas-
 
 L'accès à l’ensemble de ce potentiel est bien entendu soumis à de fortes incertitudes. Au-delà des nombreuses hypothèses formulées pour évaluer un potentiel prospectif, la valorisation des 410 TWh (110 chaleur + 300 combustibles) nécessiterait le développement d'infrastructures lourdes comme des réseaux de chaleur. L’accès à la ressource biomasse pour la transformation en combustible, pourrait de son côté susciter des compétitions d’usages avec l'alimentation, le retour au sol ou son utilisation comme matériaux de construction.
 
-### 2.d - Quels leviers supplémentaires pour décarboner la consommation d'énergie ? 
+
+<div style="background-color: #eef4f7; border-left: 4px solid #0d3b66; padding: 1rem; margin-top: 2rem;">
+  <h3>2.d - Quels leviers supplémentaires pour décarboner la consommation d'énergie ? </h3>
+</div>
+
 
 
 Mis bout à bout, nous avons vu que, malgré un déploiement massif des pompes à chaleur et des véhicules électriques, la valorisation de la chaleur fatale et une utilisation intensive de la biomasse, ces technologies ne permettraient pas à elles seules de s’affranchir des énergies fossiles. Quelles sont alors les alternatives restantes ?
