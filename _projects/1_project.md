@@ -238,13 +238,17 @@ Ces données sont agrégées dans le visuel ci-dessous (partie de droite du Sank
   <img src="/assets/img/Sankey/Itese_Visual_3.png" alt="" style="max-width: 100%; height: auto;">
 </div>
 
-Charbon énergétique et charbon métallurgique, quelles différences ?
 
+<div class="box-accent box-right">
+  <p><strong>Charbon énergétique et charbon métallurgique, quelles différences ?</strong></p>
+</strong></p>
+  <p>
 Il faut distinguer le charbon dit thermique (14 TWh en 2019) du , utilisé dans les hauts fourneaux pour la production d’acier. Ce dernier, après transformation en coke par pyrolyse,  est utilisé comme source de carbone pour transformer de l’oxyde de fer en acier. 
 
 La consommation de charbon métallurgique en France représente annuellement environ 50 TWh. N’étant pas utilisé pour la production d’énergie, mais nécessitant tout de même des étapes de transformation avant usage, sa consommation n’apparaît dans aucun secteur sur les graphiques présentés ici.
 
-Plus de détails sur la transformation du charbon en France sont disponibles .
+Plus de détails sur la transformation du charbon en France sont disponibles .  </p>
+</div>
 
 
 Ce graphique indique clairement que le transport et les usages du résidentiel-tertiaire sont les deux secteurs les plus intensifs en énergie, représentant à eux deux la majeure partie de la consommation des fossiles. Pour compléter ce graphique, rappelons que , tandis que . 
