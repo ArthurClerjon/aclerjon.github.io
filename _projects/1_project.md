@@ -295,7 +295,7 @@ Dans un [**rapport du SDES**](https://www.statistiques.developpement-durable.gou
 
 Afin de comprendre dans quelle mesure **le développement massif des pompes à chaleur** sur le territoire pourrait affecter la production de chauffage, plaçons-nous dans le scénario suivant :  
 **« Demain, 50 % des chaudières à gaz et au fioul seront remplacées par des pompes à chaleur avec un coefficient de performance (COP) de 3 »**.  
-*Attention, il s’agit là d’un choix arbitraire, le curseur pourrait être poussé dans un sens comme dans l’autre. C’est un scénario caricatural à des échéances courtes¹ mais qui permet de souligner le potentiel et les limites d’une telle solution technologique.*
+*Attention, il s’agit là d’un choix arbitraire, le curseur pourrait être poussé dans un sens comme dans l’autre. C’est un scénario caricatural à des échéances courtes[^1] mais qui permet de souligner le potentiel et les limites d’une telle solution technologique.*^/
 
 
 Le résultat de cette expérience de pensée est présenté sur le visuel ci-dessous. 
@@ -306,10 +306,10 @@ Le résultat de cette expérience de pensée est présenté sur le visuel ci-des
 
 
 On lit sur la barre de gauche la répartition par source  du besoin de chauffage en 2019  (400 TWh), à droite la répartition de ce même besoin dans le scénario d’électrification **‘50% PAC’** décrit précédemment. Voici les principaux messages de ce graphique : 
-On observe une baisse de 50% des énergies fossiles pour atteindre 110 TWh. 
-Les pompes à chaleur produisant plus d’énergie thermique que d’électricité consommée2, la consommation totale d'énergie baisse de 70 TWh.
+- On observe une baisse de 50% des énergies fossiles pour atteindre 110 TWh. 
+- Les pompes à chaleur produisant plus d’énergie thermique que d’électricité consommée[^2], la consommation totale d'énergie baisse de 70 TWh.
 
-Loin de s’affranchir des énergies fossiles, le développement des pompes à chaleur dans ce scénario '50% PAC' permettrait toutefois d’en réduire l’usage. Pour se décarboner davantage (en dehors d'une électrification plus importante), il est aussi possible de récupérer la chaleur dite ‘fatale’ , majoritairement produite lors de procédés industriels et qui serait perdue si elle n’était pas valorisée. En France,  évalue le potentiel de chaleur fatale qui pourrait être récupérée à 109.5 TWh thermique (dont 53 TWh à plus de 100°C3), sous réserve de développer des infrastructures adaptées, comme des . Il s’agit donc d’un potentiel hypothétique.
+Loin de s’affranchir des énergies fossiles, le développement des pompes à chaleur dans ce scénario '50% PAC' permettrait toutefois d’en réduire l’usage. Pour se décarboner davantage (en dehors d'une électrification plus importante), il est aussi possible de récupérer la chaleur dite ‘fatale’ , majoritairement produite lors de procédés industriels et qui serait perdue si elle n’était pas valorisée. En France,  évalue le potentiel de chaleur fatale qui pourrait être récupérée à 109.5 TWh thermique (dont 53 TWh à plus de 100°C[^3]), sous réserve de développer des infrastructures adaptées, comme des . Il s’agit donc d’un potentiel hypothétique.
 
 La valorisation de cette chaleur fatale pourrait subvenir au besoin de chauffage et ce potentiel est comparé au besoin 2019 et celui  du scénario **‘50% PAC’** sur le visuel suivant.
 
@@ -334,9 +334,9 @@ Ce graphique montre que le potentiel total de récupération de chaleur fatale e
 </div>
 
 
-1 Aucun horizon temporel n’est visé, cet exemple est simplement choisi à titre indicatif.
-2 Dans le cadre de la méthodologie comptable employée par le SDES et l’AIE, l’énergie thermique ‘gratuite’, prélevée dans l’environnement par les pompes à chaleur doit être imputée au secteur Energie renouvelables thermiques et déchets. Dans le cas de l’analyse de sensibilité ‘50 % PAC’, nous avons délibérément choisi de ne pas le faire, afin de garder visible le gain d'efficacité énergétique sur le graphique.
-3 Le niveau de température de la chaleur fatale a une importance primordiale. A haute température (plusieurs centaines de degrés) elle pourra être facilement valorisée, dans des procédés industriels par exemple. A basse température (~80-90°C), les usages pouvant valoriser la chaleur sont moindre. Derrière cette question de température se cache en fait la notion d’exergie, c'est-à dire l’énergie ‘utile’ qui peut être extraite du flux de chaleur fatale.
+[^1]: Aucun horizon temporel n’est visé, cet exemple est simplement choisi à titre indicatif.  
+[^2]: Dans le cadre de la méthodologie comptable employée par le SDES et l’AIE, l’énergie thermique ‘gratuite’, prélevée dans l’environnement par les pompes à chaleur doit être imputée au secteur Énergies renouvelables thermiques et déchets. Dans le cas de l’analyse de sensibilité ‘50 % PAC’, nous avons délibérément choisi de ne pas le faire, afin de garder visible le gain d'efficacité énergétique sur le graphique.  
+[^3]: Le niveau de température de la chaleur fatale a une importance primordiale. À haute température (plusieurs centaines de degrés) elle pourra être facilement valorisée, dans des procédés industriels par exemple. À basse température (~80–90 °C), les usages pouvant valoriser la chaleur sont moindres. Derrière cette question de température se cache la notion d’exergie, c’est-à-dire l’énergie ‘utile’ qui peut être extraite du flux de chaleur fatale.
 
 <div style="background-color: #eef4f7; border-left: 4px solid #0d3b66; padding: 1rem; margin-top: 2rem;">
   <h3>2.b - Décarboner le transport routier : quel potentiel pour les véhicules électriques ?</h3>
