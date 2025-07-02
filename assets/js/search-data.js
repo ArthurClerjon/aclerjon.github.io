@@ -93,12 +93,7 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-les-usages-de-l-39-énergie",
-          title: 'Les usages de l&amp;#39;énergie',
-          description: "Analyse du système énergétique français et leviers de décarbonation",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
+          section: "News",},{id: "projects-project-2",
           title: 'project 2',
           description: "a project with a background image and giscus comments",
           section: "Projects",handler: () => {
@@ -138,6 +133,11 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-les-usages-de-l-39-énergie-en-france",
+          title: 'Les usages de l&amp;#39;énergie en France',
+          description: "Analyse du système énergétique français et leviers de décarbonation",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/Sankey/";
             },},{
         id: 'social-email',
         title: 'email',
