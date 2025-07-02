@@ -95,40 +95,51 @@ Les données énergétiques utilisées pour la réalisation de ce graphique prov
 
 ---
 
-## Sommaire illustré
+## Sommaire 
+
+<div id="sommaire"></div>
 
 <div class="row mb-4">
-  <div class="col-md-2 text-center">
-    <a href="/assets/img/Sankey/Itese_Sankey_Gradient.png" target="_blank">
-      <img src="/assets/img/Sankey/Itese_Sankey_Gradient.png" alt="Diagramme Sankey" class="img-thumbnail" style="max-width: 100px;">
-    </a>
-  </div>
-  <div class="col-md-10">
-    <h5>1. Le point sur l'utilisation des ressources énergétiques en France</h5>
+  <div class="col-md-12">
+    <h5>1 – Le point sur l'utilisation des ressources énergétiques en France</h5>
     <ul>
-      <li><strong>a.</strong> Présentation du diagramme principal</li>
-      <li><strong>b.</strong> Un système qui repose majoritairement sur les fossiles</li>
-      <li><strong>c.</strong> Une répartition inégale des énergies fossiles entre les secteurs</li>
+      <li>
+        <strong><a href="#section-1a">📎 1.a – Présentation du diagramme principal</a></strong><br>
+        <img src="/assets/img/Sankey/Itese_Visual_1.png" alt="Diagramme principal" class="img-thumbnail" style="max-width: 100px; margin-top: 0.3rem;">
+      </li>
+      <li>
+        <strong><a href="#section-1b">📎 1.b – Un système qui repose majoritairement sur les fossiles</a></strong><br>
+        <img src="/assets/img/Sankey/Itese_Visual_2.png" alt="Diagramme fossiles" class="img-thumbnail" style="max-width: 100px; margin-top: 0.3rem;">
+      </li>
+      <li>
+        <strong><a href="#section-1c">📎 1.c – Une répartition inégale des énergies fossiles entre les secteurs</a></strong><br>
+        <img src="/assets/img/Sankey/Itese_Visual_3.png" alt="Diagramme secteurs" class="img-thumbnail" style="max-width: 100px; margin-top: 0.3rem;">
+      </li>
+    </ul>
+
+    <h5 class="mt-4">2 – Quelles alternatives pour décarboner ?</h5>
+    <ul>
+      <li>
+        <strong><a href="#section-2a">📎 2.a – Le fort potentiel des pompes à chaleur</a></strong><br>
+        <img src="/assets/img/Sankey/Itese_Visual_5a.png" alt="PAC" class="img-thumbnail" style="max-width: 100px; margin-top: 0.3rem;">
+      </li>
+      <li>
+        <strong><a href="#section-2b">📎 2.b – Le potentiel des véhicules électriques</a></strong><br>
+        <img src="/assets/img/Sankey/Itese_Visual_6.png" alt="VE" class="img-thumbnail" style="max-width: 100px; margin-top: 0.3rem;">
+      </li>
+      <li>
+        <strong><a href="#section-2c">📎 2.c – Effet global des scénarios technologiques</a></strong><br>
+        <img src="/assets/img/Sankey/Itese_Visual_7a.png" alt="Scénarios globaux" class="img-thumbnail" style="max-width: 100px; margin-top: 0.3rem;">
+      </li>
+      <li>
+        <strong><a href="#section-2d">📎 2.d – Quels leviers supplémentaires pour décarboner ?</a></strong><br>
+        <img src="/assets/img/Sankey/Itese_Equation.png" alt="Équation Kaya" class="img-thumbnail" style="max-width: 100px; margin-top: 0.3rem;">
+      </li>
     </ul>
   </div>
 </div>
 
-<div class="row mb-4">
-  <div class="col-md-2 text-center">
-    <a href="/assets/img/Sankey/Itese_Visual_5a_.png" target="_blank">
-      <img src="/assets/img/Sankey/Itese_Visual_5a_.png" alt="PAC 50%" class="img-thumbnail" style="max-width: 100px;">
-    </a>
-  </div>
-  <div class="col-md-10">
-    <h5>2. Quelles alternatives pour décarboner ?</h5>
-    <ul>
-      <li><strong>a.</strong> Décarboner le besoin de chaleur des secteurs résidentiels et tertiaires : le fort potentiel des pompes à chaleur</li>
-      <li><strong>b.</strong> Décarboner le transport routier : quel potentiel pour les véhicules électriques ?</li>
-      <li><strong>c.</strong> Bilan : effet global de ces scénarios de développement technologique</li>
-      <li><strong>d.</strong> Quels leviers supplémentaires pour décarboner la consommation d'énergie ?</li>
-    </ul>
-  </div>
-</div>
+
 
 ---
 <div style="background-color: #eef4f7; border-left: 4px solid #0d3b66; padding: 1rem; margin-top: 2rem;">
