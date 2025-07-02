@@ -189,6 +189,21 @@ Pour cela, nous distinguerons les vecteurs énergétiques dits ‘bas carbone’
 3 Les pertes des centrales électriques proviennent principalement des centrales nucléaires. La fission du combustible nucléaire dégage une forte quantité de chaleur, dont seulement 30 à 40% est convertie en électricité.
 4 Sur ce diagramme a été ajoutée la consommation de pétrole imputée au transport aérien et maritime international. Celui-ci s'élève à environ 90 TWh; soit une énergie finale totale consommée de 1840 TWh en 2019.
 
+Ci-dessous une version interactive du diagramme : elle permet de donner accès aux données utilisées, à la fois pour l’énergie et le contenu CO2.
+
+<div class="text-center my-4">
+  <h5 style="font-weight: bold;">Diagramme interactif – Flux d’énergie finale par usage</h5>
+  <iframe 
+    src="https://plotly.com/~ArthurClerjon/15.embed" 
+    width="100%" 
+    height="600" 
+    frameborder="0" 
+    scrolling="no"
+    style="max-width: 900px; border: none;">
+  </iframe>
+</div>
+
+
 <hr>
 <p><strong>Notes :</strong></p>
 <ol style="font-size: 0.9rem;">
