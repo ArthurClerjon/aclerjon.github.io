@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Les usages de l'énergie
+title: Les usages de l'énergie en France
 description: Analyse du système énergétique français et leviers de décarbonation
 img: assets/img/Sankey/Itese_Sankey_Gradient.png
 importance: 1
-category: Usages de l'énergie en France
+category: Energy uses
 related_publications: true
 ---
 
@@ -301,6 +301,12 @@ Demandons-nous maintenant quels sont les postes de consommation de cette énergi
 
 Ces données sont agrégées dans le visuel ci-dessous (partie de droite du Sankey) représentant pour chaque secteur sa consommation totale d’énergie en fonction des vecteurs énergétiques finaux.
 
+
+
+<div class="text-center my-4">
+  <img src="/assets/img/Sankey/Itese_Visual_3.png" alt="" style="max-width: 100%; height: auto;">
+</div>
+
 <div class="box-accent box-right">
   <p><strong>Charbon énergétique et charbon métallurgique, quelles différences ?</strong></p>
   <p>
@@ -317,12 +323,8 @@ Ces données sont agrégées dans le visuel ci-dessous (partie de droite du Sank
   </p>
 </div>
 
-<div class="text-center my-4">
-  <img src="/assets/img/Sankey/Itese_Visual_3.png" alt="" style="max-width: 100%; height: auto;">
-</div>
-
-
 Ce graphique indique clairement que le transport et les usages du résidentiel-tertiaire sont les deux secteurs les plus intensifs en énergie, représentant à eux deux la majeure partie de la consommation des fossiles. Pour compléter ce graphique, rappelons que le transport représente environ 30 % des émissions de GES sur le territoire, tandis que le chauffage résidentiel et tertiaire en représente environ 15 %.
+
 
 Ces deux postes de consommation vont faire l’objet d’une analyse détaillée dans la suite du texte. Nous montrerons notamment quel peut être l’effet de certaines mesures de décarbonation, comme le développement des véhicules électriques ou des  pompes à chaleur.
 
