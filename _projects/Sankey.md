@@ -94,63 +94,112 @@ Cet article n’a pas vocation à décrire une marche à suivre pour décarboner
 Les données énergétiques utilisées pour la réalisation de ce graphique proviennent de l’agrégation de rapports du (SDES) pour l’année 2019, avant la crise sanitaire. Le cadre méthodologique est identique à celui choisi par ces rapports, à l'exception du transport international (aérien et maritime) qui a été ajouté. Les données d'émissions de CO2 proviennent quant à elles du <a href="https://bilans-ges.ademe.fr/" target="_blank">centre de ressources Base Carbone de l’ADEME</a>.
 
 ---
+<div id="sommaire">
+  <h2>Sommaire</h2>
 
-## Sommaire 
+  <div class="row mb-4" style="align-items: center;">
+    <div class="col-md-2 text-center">
+      <a href="#section-1a">
+        <img src="/assets/img/Sankey/Itese_Visual_1.png" class="img-thumbnail" style="max-width: 120px; object-fit: cover; object-position: center; clip-path: inset(0 10%);">
+      </a>
+    </div>
+    <div class="col-md-10">
+      <a href="#section-1a" style="text-decoration: none; color: inherit;">
+        <h5>➤ 1.a – Présentation du diagramme principal</h5>
+      </a>
+    </div>
+  </div>
 
-<div id="sommaire"></div>
+  <div class="row mb-4" style="align-items: center;">
+    <div class="col-md-2 text-center">
+      <a href="#section-1b">
+        <img src="/assets/img/Sankey/Itese_Visual_2.png" class="img-thumbnail" style="max-width: 120px; object-fit: cover; object-position: center; clip-path: inset(0 10%);">
+      </a>
+    </div>
+    <div class="col-md-10">
+      <a href="#section-1b" style="text-decoration: none; color: inherit;">
+        <h5>➤ 1.b – Un système qui repose majoritairement sur les fossiles</h5>
+      </a>
+    </div>
+  </div>
 
-<div class="row mb-4">
-  <div class="col-md-12">
-    <h5>1 – Le point sur l'utilisation des ressources énergétiques en France</h5>
-    <ul>
-      <li>
-        <strong><a href="#section-1a">📎 1.a – Présentation du diagramme principal</a></strong><br>
-        <img src="/assets/img/Sankey/Itese_Visual_1.png" alt="Diagramme principal" class="img-thumbnail" style="max-width: 100px; margin-top: 0.3rem;">
-      </li>
-      <li>
-        <strong><a href="#section-1b">📎 1.b – Un système qui repose majoritairement sur les fossiles</a></strong><br>
-        <img src="/assets/img/Sankey/Itese_Visual_2.png" alt="Diagramme fossiles" class="img-thumbnail" style="max-width: 100px; margin-top: 0.3rem;">
-      </li>
-      <li>
-        <strong><a href="#section-1c">📎 1.c – Une répartition inégale des énergies fossiles entre les secteurs</a></strong><br>
-        <img src="/assets/img/Sankey/Itese_Visual_3.png" alt="Diagramme secteurs" class="img-thumbnail" style="max-width: 100px; margin-top: 0.3rem;">
-      </li>
-    </ul>
+  <div class="row mb-4" style="align-items: center;">
+    <div class="col-md-2 text-center">
+      <a href="#section-1c">
+        <img src="/assets/img/Sankey/Itese_Visual_3.png" class="img-thumbnail" style="max-width: 120px; object-fit: cover; object-position: center; clip-path: inset(0 10%);">
+      </a>
+    </div>
+    <div class="col-md-10">
+      <a href="#section-1c" style="text-decoration: none; color: inherit;">
+        <h5>➤ 1.c – Une répartition inégale des énergies fossiles entre les secteurs</h5>
+      </a>
+    </div>
+  </div>
 
-    <h5 class="mt-4">2 – Quelles alternatives pour décarboner ?</h5>
-    <ul>
-      <li>
-        <strong><a href="#section-2a">📎 2.a – Le fort potentiel des pompes à chaleur</a></strong><br>
-        <img src="/assets/img/Sankey/Itese_Visual_5a.png" alt="PAC" class="img-thumbnail" style="max-width: 100px; margin-top: 0.3rem;">
-      </li>
-      <li>
-        <strong><a href="#section-2b">📎 2.b – Le potentiel des véhicules électriques</a></strong><br>
-        <img src="/assets/img/Sankey/Itese_Visual_6.png" alt="VE" class="img-thumbnail" style="max-width: 100px; margin-top: 0.3rem;">
-      </li>
-      <li>
-        <strong><a href="#section-2c">📎 2.c – Effet global des scénarios technologiques</a></strong><br>
-        <img src="/assets/img/Sankey/Itese_Visual_7a.png" alt="Scénarios globaux" class="img-thumbnail" style="max-width: 100px; margin-top: 0.3rem;">
-      </li>
-      <li>
-        <strong><a href="#section-2d">📎 2.d – Quels leviers supplémentaires pour décarboner ?</a></strong><br>
-        <img src="/assets/img/Sankey/Itese_Equation.png" alt="Équation Kaya" class="img-thumbnail" style="max-width: 100px; margin-top: 0.3rem;">
-      </li>
-    </ul>
+  <div class="row mb-4" style="align-items: center;">
+    <div class="col-md-2 text-center">
+      <a href="#section-2a">
+        <img src="/assets/img/Sankey/Itese_Visual_5a.png" class="img-thumbnail" style="max-width: 120px; object-fit: cover; object-position: center; clip-path: inset(0 10%);">
+      </a>
+    </div>
+    <div class="col-md-10">
+      <a href="#section-2a" style="text-decoration: none; color: inherit;">
+        <h5>➤ 2.a – Le fort potentiel des pompes à chaleur</h5>
+      </a>
+    </div>
+  </div>
+
+  <div class="row mb-4" style="align-items: center;">
+    <div class="col-md-2 text-center">
+      <a href="#section-2b">
+        <img src="/assets/img/Sankey/Itese_Visual_6.png" class="img-thumbnail" style="max-width: 120px; object-fit: cover; object-position: center; clip-path: inset(0 10%);">
+      </a>
+    </div>
+    <div class="col-md-10">
+      <a href="#section-2b" style="text-decoration: none; color: inherit;">
+        <h5>➤ 2.b – Quel potentiel pour les véhicules électriques ?</h5>
+      </a>
+    </div>
+  </div>
+
+  <div class="row mb-4" style="align-items: center;">
+    <div class="col-md-2 text-center">
+      <a href="#section-2c">
+        <img src="/assets/img/Sankey/Itese_Visual_7a.png" class="img-thumbnail" style="max-width: 120px; object-fit: cover; object-position: center; clip-path: inset(0 10%);">
+      </a>
+    </div>
+    <div class="col-md-10">
+      <a href="#section-2c" style="text-decoration: none; color: inherit;">
+        <h5>➤ 2.c – Effet global de ces scénarios de développement technologique</h5>
+      </a>
+    </div>
+  </div>
+
+  <div class="row mb-4" style="align-items: center;">
+    <div class="col-md-2 text-center">
+      <a href="#section-2d">
+        <img src="/assets/img/Sankey/Itese_Equation.png" class="img-thumbnail" style="max-width: 120px; object-fit: cover; object-position: center; clip-path: inset(0 10%);">
+      </a>
+    </div>
+    <div class="col-md-10">
+      <a href="#section-2d" style="text-decoration: none; color: inherit;">
+        <h5>➤ 2.d – Quels leviers supplémentaires pour décarboner la consommation d'énergie ?</h5>
+      </a>
+    </div>
   </div>
 </div>
 
-
-
 ---
+
+<h2 style="font-size: 1.6rem; font-weight: bold; color: #0d3b66; margin-bottom: 0.5rem;">
+1. Le point sur l'utilisation des ressources énergétiques en France
+</h2>
+<hr style="width: 80px; border: 3px solid #117a8b; margin-left: auto; margin-bottom: 2rem;">
 
 <!-- Section 1.a -->
 <div id="section-1a" style="background-color: #eef4f7; border-left: 4px solid #0d3b66; padding: 1rem; margin-top: 2rem;">
-  <h3>
-    1.a – Présentation du diagramme principal
-    <a href="#sommaire" title="Retour au sommaire" style="font-size: 0.8rem; margin-left: 1rem;">🔝</a>
-  </h3>
+  <h3>1.a – Présentation du diagramme principal <a href="#sommaire" title="Retour au sommaire" style="font-size: 1rem; margin-left: 1rem;">▲</a></h3>
 </div>
-
 
 <p>
   En France métropolitaine, environ 65 % de l’énergie finale consommée est d’origine fossile (pétrole, gaz, charbon). 
@@ -265,8 +314,9 @@ Les données énergétiques utilisées pour la réalisation de ce graphique prov
 
 ---
 
-<div style="background-color: #eef4f7; border-left: 4px solid #0d3b66; padding: 1rem; margin-top: 2rem;">
-  <h3>1.b - Un système qui repose majoritairement sur les fossiles</h3>
+<!-- Section 1b -->
+<div id="section-1b" style="background-color: #eef4f7; border-left: 4px solid #0d3b66; padding: 1rem; margin-top: 2rem;">
+  <h3>1.b – Un système qui repose majoritairement sur les fossiles <a href="#sommaire" title="Retour au sommaire" style="font-size: 1rem; margin-left: 1rem;">▲</a></h3>
 </div>
 
 
