@@ -284,29 +284,28 @@ Demandons-nous maintenant quels sont les postes de consommation de cette énergi
 
 Ces données sont agrégées dans le visuel ci-dessous (partie de droite du Sankey) représentant pour chaque secteur sa consommation totale d’énergie en fonction des vecteurs énergétiques finaux.
 
+<div class="box-accent box-right">
+  <p><strong>Charbon énergétique et charbon métallurgique, quelles différences ?</strong></p>
+  <p>
+    Il faut distinguer le charbon dit thermique (14 TWh en 2019) du <strong>charbon métallurgique</strong>, utilisé dans les hauts fourneaux pour la production d’acier. Ce dernier, après transformation en coke par pyrolyse, est utilisé comme source de carbone pour transformer de l’oxyde de fer en acier.
+  </p>
+  <p>
+    La consommation de charbon métallurgique en France représente annuellement environ 50 TWh. N’étant pas utilisé pour la production d’énergie, mais nécessitant tout de même des étapes de transformation avant usage, sa consommation n’apparaît dans aucun secteur sur les graphiques présentés ici.
+  </p>
+  <p>
+    Plus de détails sur la transformation du charbon en France sont disponibles
+    <a href="https://www.statistiques.developpement-durable.gouv.fr/sites/default/files/2021-12/repere-energies-charbon-septembre2021.pdf" target="_blank">
+      dans cette publication du SDES
+    </a>.
+  </p>
+</div>
+
 <div class="text-center my-4">
   <img src="/assets/img/Sankey/Itese_Visual_3.png" alt="" style="max-width: 100%; height: auto;">
 </div>
 
 
-<div class="box-accent box-right">
-  <p><strong>Charbon énergétique et charbon métallurgique, quelles différences ?</strong></p>
-  <p>
-<p>
-Il faut distinguer le charbon dit thermique (14 TWh en 2019) du <strong>charbon métallurgique</strong>, utilisé dans les hauts fourneaux pour la production d’acier. Ce dernier, après transformation en coke par pyrolyse, est utilisé comme source de carbone pour transformer de l’oxyde de fer en acier.
-</p>
- , utilisé dans les hauts fourneaux pour la production d’acier. Ce dernier, après transformation en coke par pyrolyse,  est utilisé comme source de carbone pour transformer de l’oxyde de fer en acier. 
-
-La consommation de charbon métallurgique en France représente annuellement environ 50 TWh. N’étant pas utilisé pour la production d’énergie, mais nécessitant tout de même des étapes de transformation avant usage, sa consommation n’apparaît dans aucun secteur sur les graphiques présentés ici.
-
-Plus de détails sur la transformation du charbon en France sont disponibles [dans cette publication du SDES](https://www.statistiques.developpement-durable.gouv.fr/sites/default/files/2021-12/repere-energies-charbon-septembre2021.pdf).
-  </p>
-</div>
-
-
 Ce graphique indique clairement que le transport et les usages du résidentiel-tertiaire sont les deux secteurs les plus intensifs en énergie, représentant à eux deux la majeure partie de la consommation des fossiles. Pour compléter ce graphique, rappelons que le transport représente environ 30 % des émissions de GES sur le territoire, tandis que le chauffage résidentiel et tertiaire en représente environ 15 %.
-
- 
 
 Ces deux postes de consommation vont faire l’objet d’une analyse détaillée dans la suite du texte. Nous montrerons notamment quel peut être l’effet de certaines mesures de décarbonation, comme le développement des véhicules électriques ou des  pompes à chaleur.
 
@@ -411,54 +410,77 @@ Le transport et les usages du résidentiel-tertiaire sont les deux secteurs les 
 </ol>
 
 ---
-
 <div style="background-color: #eef4f7; border-left: 4px solid #0d3b66; padding: 1rem; margin-top: 2rem;">
   <h3>2.b - Décarboner le transport routier : quel potentiel pour les véhicules électriques ?</h3>
 </div>
 
 <p style="font-style: italic; font-size: 1.05rem; text-align: justify;">
-  Pour illustrer le potentiel de report vers les vecteurs 'bas-carbone', nous avons traité dans le paragraphe précédent l'exemple du chauffage du résidentiel et du tertiaire. Dans ce paragraphe, nous analysons le transport routier. En effet, nous avons vu précédemment, que le transport est le secteur le plus consommateur d’énergies fossiles en France. Le transport routier (véhicules particuliers, utilitaires et poids lourds), est à lui seul responsable de près de 
-  <a href="https://www.notre-environnement.gouv.fr/themes/climat/les-emissions-de-gaz-a-effet-de-serre-et-l-empreinte-carbone-ressources/article/les-emissions-de-gaz-a-effet-de-serre-du-secteur-des-transports#:~:text=En%202019%2c%20le%20transport%20est%2crepr%C3%A9sentait%2022%20%25%20du%20total%20national." target="_blank" style="font-style: italic;">
+  Pour illustrer le potentiel de report vers les vecteurs 'bas-carbone', nous avons traité dans le paragraphe précédent l'exemple du chauffage du résidentiel et du tertiaire. 
+  Dans ce paragraphe, nous analysons le transport routier. En effet, nous avons vu précédemment, que le transport est le secteur le plus consommateur d’énergies fossiles en France. 
+  Le transport routier (véhicules particuliers, utilitaires et poids lourds), est à lui seul responsable de près de 
+  <a href="https://www.notre-environnement.gouv.fr/themes/climat/les-emissions-de-gaz-a-effet-de-serre-et-l-empreinte-carbone-ressources/article/les-emissions-de-gaz-a-effet-de-serre-du-secteur-des-transports#:~:text=En%202019%2c%20le%20transport%20est%2crepr%C3%A9sentait%2022%20%25%20du%20total%20national." 
+     target="_blank" 
+     style="font-style: italic;">
     30% des émissions de GES sur territoire
   </a>.
 </p>
 
 <hr style="width: 60px; border: none; border-top: 2px solid #ccc; margin: 1rem auto;">
 
-Le graphique ci-dessous indique la répartition des émissions de GES du transport national. Il est important de remarquer que, au sein du transport national, la partie routière est responsable de plus de 95% des émissions de GES. 
- 
+<p>Le graphique ci-dessous indique la répartition des émissions de GES du transport national. Il est important de remarquer que, au sein du transport national, la partie routière est responsable de plus de 95% des émissions de GES.</p>
+
 <figure>
   <img src="/assets/img/Sankey/repartition-transports.png" alt="" class="img-fluid">
   <figcaption class="figure-caption">
-    Source : <a href="https://www.statistiques.developpement-durable.gouv.fr/chiffres-cles-du-climat-france-europe-et-monde-edition-2024" target="_blank">Chiffres clés du climat France, Europe et Monde ÉDITION 2021</a>
+    Source : 
+    <a href="https://www.statistiques.developpement-durable.gouv.fr/chiffres-cles-du-climat-france-europe-et-monde-edition-2024" target="_blank">
+      Chiffres clés du climat France, Europe et Monde ÉDITION 2021
+    </a>
   </figcaption>
 </figure>
 
-Ce graphique montre également que les véhicules particulier sont responsables de plus de 50% des émissions de GES du transport, suivi par les utilitaires (16%) et les poids lourds (23%).
-
+<p>Ce graphique montre également que les véhicules particuliers sont responsables de plus de 50% des émissions de GES du transport, suivis par les utilitaires (16%) et les poids lourds (23%).</p>
 
 <div class="box-accent box-left">
   <p><strong>Le potentiel des Véhicules Électriques (VE)</strong></p>
-  <p><strong>Le couple batterie - moteur électrique  : un fort gain d'efficacité énergétique
-</strong></p>
+  <p><strong>Le couple batterie - moteur électrique : un fort gain d'efficacité énergétique</strong></p>
   <p>
-    Les moteurs électriques ont un rendement mécanique de 90%, contre 40% pour les moteurs thermiques1. En ajoutant à cela les diverses pertes de transmission, la consommation des auxiliaires et la possibilité de récupérer de l’énergie au freinage pour les véhicules électriques, on observe un rendement dit du réservoir à la roue  (tank-to-wheel)  d’environ  20% pour les véhicules thermiques, contre 70% pour les véhicules électriques.
+    Les moteurs électriques ont un rendement mécanique de 90 %, contre 40 % pour les moteurs thermiques<sup><a href="#note-2b-1">1</a></sup>. 
+    En ajoutant à cela les diverses pertes de transmission, la consommation des auxiliaires et la possibilité de récupérer de l’énergie au freinage pour les véhicules électriques, 
+    on observe un rendement dit du réservoir à la roue (tank-to-wheel) d’environ 20 % pour les véhicules thermiques, contre 70 % pour les véhicules électriques.
   </p>
 </div>
 
-Pour apprécier l’effet que pourrait avoir une électrification massive du transport routier, faisons l’hypothèse – optimiste à court terme – que la quasi-totalité des véhicules particuliers et utilitaires est remplacée par des véhicules électriques. Nous supposons pour cela que la consommation de produits pétroliers pour le transport routier diminuerait de 70%. Attention, il s’agit une fois de plus d’un choix de scénario arbitraire, ne reflétant pas nécessairement une limite maximale ou un objectif à un horizon lointain. Cet exercice de pensée a pour unique ambition de souligner l’effet du développement des VE.
+<p>
+  Pour apprécier l’effet que pourrait avoir une électrification massive du transport routier, faisons l’hypothèse – optimiste à court terme – 
+  que la quasi-totalité des véhicules particuliers et utilitaires est remplacée par des véhicules électriques. 
+  Nous supposons pour cela que la consommation de produits pétroliers pour le transport routier diminuerait de 70 %. 
+  Attention, il s’agit une fois de plus d’un choix de scénario arbitraire, ne reflétant pas nécessairement une limite maximale ou un objectif à un horizon lointain. 
+  Cet exercice de pensée a pour unique ambition de souligner l’effet du développement des VE.
+</p>
 
-Les résultats de cette analyse sont présentés sur la figure ci-dessous.
+<p>Les résultats de cette analyse sont présentés sur la figure ci-dessous.</p>
 
 <div class="text-center my-4">
   <img src="/assets/img/Sankey/Itese_Visual_6.png" alt="" style="max-width: 100%; height: auto;">
-</div>  
+</div>
 
-On y observe de fait une baisse de la consommation de carburant fossile de 70% (- 315 TWh), accompagnée d'une hausse de la demande en électricité de 90 TWh. Le tout s’équilibre autour d’une consommation totale d’énergie qui serait presque divisée par deux.
+<p>
+  On y observe de fait une baisse de la consommation de carburant fossile de 70 % (-315 TWh), accompagnée d'une hausse de la demande en électricité de 90 TWh. 
+  Le tout s’équilibre autour d’une consommation totale d’énergie qui serait presque divisée par deux.
+</p>
 
-> Dans le cas où la quasi-totalité des véhicules particuliers et utilitaires sont remplacés par des véhicules électriques, la consommation de produits pétroliers pour le transport routier diminuerait de 70 % et la consommation énergétique totale diminuerait de 225 TWh.
+<blockquote style="font-style: italic; font-size: 1.05rem; margin: 2rem 0;">
+  Dans le cas où la quasi-totalité des véhicules particuliers et utilitaires sont remplacés par des véhicules électriques, 
+  la consommation de produits pétroliers pour le transport routier diminuerait de 70 % 
+  et la consommation énergétique totale diminuerait de 225 TWh.
+</blockquote>
 
-1 Pour un moteur, le rendement désigne le rapport entre l’énergie utile (mécanique) et l’énergie totale consommée (électricité ou combustible ici). Pour un moteur électrique de rendement 90%, cela signifie que 10 % de l’électricité consommée par le moteur électrique n’a pas été consacrée à sa propulsion.
+<hr>
+<p><strong>Notes</strong></p>
+<ol style="font-size: 0.9rem;">
+  <li id="note-2b-1">Pour un moteur, le rendement désigne le rapport entre l’énergie utile (mécanique) et l’énergie totale consommée (électricité ou combustible ici). Pour un moteur électrique de rendement 90 %, cela signifie que 10 % de l’électricité consommée par le moteur électrique n’a pas été consacrée à sa propulsion.</li>
+</ol>
 
 ---
 
@@ -485,10 +507,12 @@ L'accès à l’ensemble de ce potentiel est bien entendu soumis à de fortes in
 ---
 
 <div style="background-color: #eef4f7; border-left: 4px solid #0d3b66; padding: 1rem; margin-top: 2rem;">
-  <h3>2.d - Quels leviers supplémentaires pour décarboner la consommation d'énergie ? </h3>
+  <h3>2.d - Quels leviers supplémentaires pour décarboner la consommation d'énergie ?</h3>
 </div>
 
-Mis bout à bout, nous avons vu que, malgré un déploiement massif des pompes à chaleur et des véhicules électriques, la valorisation de la chaleur fatale et une utilisation intensive de la biomasse, ces technologies ne permettraient pas à elles seules de s’affranchir des énergies fossiles. Quelles sont alors les alternatives restantes ?
+<p>
+  Mis bout à bout, nous avons vu que, malgré un déploiement massif des pompes à chaleur et des véhicules électriques, la valorisation de la chaleur fatale et une utilisation intensive de la biomasse, ces technologies ne permettraient pas à elles seules de s’affranchir des énergies fossiles. Quelles sont alors les alternatives restantes ?
+</p>
 
 <div class="box-accent box-right">
   <p><strong>Pour que l’électrification des usages demeure vertueuse</strong></p>
@@ -502,16 +526,22 @@ Mis bout à bout, nous avons vu que, malgré un déploiement massif des pompes �
   </ol>
 </div>
 
-Dans un contexte d’approvisionnement contraint en énergie, les solutions à forte efficacité, comme les PAC et les VE, seront priorisées dans un premier temps. Pour d’autres usages, notamment dans l’industrie ou le transport aérien, des solutions de production  de vecteurs énergétiques à partir d’électricité (Power-To-X), pourront – pour une petite partie – se substituer aux combustibles fossiles. C’est en particulier le cas des procédés à faible rendement, comme la production d’hydrogène par électrolyse de l’eau, ou la synthèse de carburants. A titre indicatif, la production de 100 TWh de carburant de synthèse consommerait, en ordre de grandeur 220 TWh d’électricité. C’est plus de la moitié de la production de l’ensemble du parc nucléaire français sur une année. Un développement à grande échelle de ces solutions demanderait donc de construire des moyens de production d’électricité additionnels.
+<p>
+  Dans un contexte d’approvisionnement contraint en énergie, les solutions à forte efficacité, comme les PAC et les VE, seront priorisées dans un premier temps. Pour d’autres usages, notamment dans l’industrie ou le transport aérien, des solutions de production de vecteurs énergétiques à partir d’électricité (Power-To-X), pourront – pour une petite partie – se substituer aux combustibles fossiles. C’est en particulier le cas des procédés à faible rendement, comme la production d’hydrogène par électrolyse de l’eau, ou la synthèse de carburants. À titre indicatif, la production de 100 TWh de carburant de synthèse consommerait, en ordre de grandeur 220 TWh d’électricité. C’est plus de la moitié de la production de l’ensemble du parc nucléaire français sur une année. Un développement à grande échelle de ces solutions demanderait donc de construire des moyens de production d’électricité additionnels.
+</p>
 
-Dans un contexte futur contraint en ressources carbonées non-fossiles (biomasse, CO2), il faudra cependant veiller à utiliser ces ressources pour des usages où les vecteurs carbonés (i.e. les combustibles)  ne sont pas ou peu substituables, comme l’aviation ou l’industrie.
+<p>
+  Dans un contexte futur contraint en ressources carbonées non-fossiles (biomasse, CO₂), il faudra cependant veiller à utiliser ces ressources pour des usages où les vecteurs carbonés (i.e. les combustibles) ne sont pas ou peu substituables, comme l’aviation ou l’industrie.
+</p>
 
-A la vue de l’ensemble des contraintes évoquées – et sans compter les limitations qui pourraient apparaître sur l’accès aux matières premières, la disponibilité des sols, etc. – nous comprenons désormais que l’arrêt du recours aux énergies fossiles ne pourra se faire uniquement grâce au développement technologique.  Ce ne sont en effet pas les seuls leviers d’action. Une baisse de la demande énergétique globale, via la modification des usages – c’est à dire un effort de sobriété – sera également nécessaire.
+<p>
+  À la vue de l’ensemble des contraintes évoquées – et sans compter les limitations qui pourraient apparaître sur l’accès aux matières premières, la disponibilité des sols, etc. – nous comprenons désormais que l’arrêt du recours aux énergies fossiles ne pourra se faire uniquement grâce au développement technologique. Ce ne sont en effet pas les seuls leviers d’action. Une baisse de la demande énergétique globale, via la modification des usages – c’est-à-dire un effort de sobriété – sera également nécessaire.
+</p>
 
 <div class="box-accent box-right">
   <p><strong>La temporalité de choix et d'actions</strong></p>
   <p>
-    L’industrialisation et le déploiement de nouvelles technologies, telles que le développement massif des véhicules électriques ou la rénovation du parc immobilier, sont des transformations qui s’opèrent sur les temps longs<sup>2</sup> – plusieurs décennies.
+    L’industrialisation et le déploiement de nouvelles technologies, telles que le développement massif des véhicules électriques ou la rénovation du parc immobilier, sont des transformations qui s’opèrent sur les temps longs<sup><a href="#note-2d-2">2</a></sup> – plusieurs décennies.
   </p>
   <p>
     En revanche, l'évolution des modes de vie peut être stimulée par des décisions politiques et individuelles prises à des échelles de temps beaucoup plus courtes (ex. report modal, réglementation du trafic aérien ou des véhicules polluants).
@@ -521,19 +551,25 @@ A la vue de l’ensemble des contraintes évoquées – et sans compter les limi
   </p>
 </div>
 
-Les moyens technologiques ne sont pas les seuls leviers d’action qui permettront de réduire la consommation d’énergie fossile. L'équation de Kaya1 présentée ci-dessous illustre, de manière simplifiée, comment se répartissent des émissions (quelles qu’elles soient, GES, CO2, particules fines, etc.), en fonction de trois leviers : 
+<p>
+  Les moyens technologiques ne sont pas les seuls leviers d’action qui permettront de réduire la consommation d’énergie fossile. 
+  L'équation de Kaya<sup><a href="#note-2d-1">1</a></sup> présentée ci-dessous illustre, de manière simplifiée, comment se répartissent des émissions (quelles qu’elles soient, GES, CO₂, particules fines, etc.), en fonction de trois leviers :
+</p>
 
-1. **Le choix d’une énergie bas-carbone**, afin de réduire le contenu CO₂ du vecteur énergétique choisi. C’est notamment le cas de l’électrification en France.
-
-2. **L’efficacité énergétique**, c'est-à-dire l’énergie consommée pour répondre à un besoin donné. C’est par exemple le cas des véhicules électriques, plus efficaces que les véhicules thermiques.
-
-3. **La sobriété**, c'est-à-dire la réduction des besoins, quels qu’ils soient : besoin de déplacements, d’énergie pour le chauffage d’un foyer, de fabrication de biens de consommation. Par exemple, concernant la mobilité, la sobriété peut se traduire soit par une diminution de l’usage, mais également par un report modal vers des mobilités dites douces ou des transports en commun.
+<ul>
+  <li><strong>Le choix d’une énergie bas-carbone</strong>, afin de réduire le contenu CO₂ du vecteur énergétique choisi. C’est notamment le cas de l’électrification en France.</li>
+  <li><strong>L’efficacité énergétique</strong>, c'est-à-dire l’énergie consommée pour répondre à un besoin donné. C’est par exemple le cas des véhicules électriques, plus efficaces que les véhicules thermiques.</li>
+  <li><strong>La sobriété</strong>, c'est-à-dire la réduction des besoins, quels qu’ils soient : besoin de déplacements, d’énergie pour le chauffage d’un foyer, de fabrication de biens de consommation. Par exemple, concernant la mobilité, la sobriété peut se traduire soit par une diminution de l’usage, mais également par un report modal vers des mobilités dites douces ou des transports en commun.</li>
+</ul>
 
 <div class="text-center my-4">
   <img src="/assets/img/Sankey/Itese_Equation.png" alt="" style="max-width: 100%; height: auto;">
 </div>
 
-Après avoir joué sur le choix d’énergies bas-carbone et l'efficacité énergétique, le changement des modes de vie ainsi que les efforts de sobriété auront un rôle crucial – et potentiellement plus rapide – pour atteindre les objectifs climatiques et l’arrêt du recours aux combustibles fossiles. C’est notamment ce qui a été souigné pour la toute première fois par le GIEC dans son dernier rapport (Sixth Assessment Report), indiquant que des efforts de sobriété combinés à l'efficacité énergétique pourraient réduire les émissions de CO2 de 40 à 70% dans certains secteurs de l’économie mondiale (voir figure SPM.7b).
+<p>
+  Après avoir joué sur le choix d’énergies bas-carbone et l'efficacité énergétique, le changement des modes de vie ainsi que les efforts de sobriété auront un rôle crucial – et potentiellement plus rapide – pour atteindre les objectifs climatiques et l’arrêt du recours aux combustibles fossiles. 
+  C’est notamment ce qui a été souligné pour la toute première fois par le GIEC dans son dernier rapport (Sixth Assessment Report), indiquant que des efforts de sobriété combinés à l'efficacité énergétique pourraient réduire les émissions de CO₂ de 40 à 70 % dans certains secteurs de l’économie mondiale (voir figure SPM.7b).
+</p>
 
 <div class="box-accent">
   <p class="text-center"><strong>Importance d’une approche interdisciplinaire</strong></p>
@@ -547,8 +583,13 @@ Après avoir joué sur le choix d’énergies bas-carbone et l'efficacité éner
   </p>
 </div>
 
-1 Equation de Kaya : Yoichi Kaya et Keiichi Yokobori, Environment, energy, and economy : strategies for sustainability : Tokyo conference on Global Environment, Energy and Economic Development (1993), United Nations Univ. Press, Tokyo, 1997, 381 p. (ISBN 92-808-0911-3).
-2 Au rythme actuel, le parc automobile se renouvelle en 20 ans, le parc immobilier en 50 ans.
+<hr>
+<p><strong>Notes</strong></p>
+<ol style="font-size: 0.9rem;">
+  <li id="note-2d-1">Equation de Kaya : Yoichi Kaya et Keiichi Yokobori, <em>Environment, energy, and economy : strategies for sustainability</em> : Tokyo conference on Global Environment, Energy and Economic Development (1993), United Nations Univ. Press, Tokyo, 1997, 381 p. (ISBN 92-808-0911-3).</li>
+  <li id="note-2d-2">Au rythme actuel, le parc automobile se renouvelle en 20 ans, le parc immobilier en 50 ans.</li>
+</ol>
+
 
 <hr style="width: 80px; border: 3px solid #117a8b; margin-left: auto; margin-bottom: 2rem;">
 
