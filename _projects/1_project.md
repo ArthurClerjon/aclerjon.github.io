@@ -140,57 +140,78 @@ Les données énergétiques utilisées pour la réalisation de ce graphique prov
   <h3>1.a - Présentation du diagramme principal</h3>
 </div>
 
+<p>
+En France métropolitaine, environ 65 % de l’énergie finale consommée est d’origine fossile (pétrole, gaz, charbon). 
+C’est ce qu’illustre le <a href="https://www.statistiques.developpement-durable.gouv.fr/edition-numerique/bilan-energetique-2019/pdf/document.pdf" target="_blank">Bilan énergétique de la France</a>, 
+une publication annuelle du Service des Données et Études Statistiques (SDES). Ces rapports font notamment l’état de la consommation des ressources énergétiques primaires en France, 
+comme le pétrole brut, le gaz ou les ressources fissiles ; ainsi que de leur transformation en énergie dite finale, disponible à la consommation.
+</p>
 
-En France métropolitaine, environ 65% de l’énergie finale consommée est d’origine fossile (pétrole, gaz, charbon). C’est ce qu’illustre le <a href="https://www.statistiques.developpement-durable.gouv.fr/edition-numerique/bilan-energetique-2019/pdf/document.pdf" target="_blank">Bilan énergétique de la France</a>, une publication annuelle du Service des Données et Études Statistiques (SDES). Ces rapports font notamment l’état de la consommation des ressources énergétiques primaires en France, comme le pétrole brut, le gaz ou les ressources fissiles ; ainsi que de leur transformation en énergie dite  finale, disponible à la consommation.
+<p>
+Afin d’illustrer les étapes principales de la chaîne d’approvisionnement énergétique et définir un vocabulaire commun, nous avons schématisé sur le graphique ci-dessous le processus 
+permettant d’aboutir à une énergie finale, disponible à la consommation.
+</p>
 
-Afin d’illustrer les étapes principales de la chaîne d’approvisionnement énergétique et définir un vocabulaire commun, nous avons schématisé sur le graphique ci-dessous le processus permettant d’aboutir à une énergie finale, disponible à la consommation.
-
-
- <div class="text-center my-4">
+<div class="text-center my-4">
   <img src="/assets/img/Sankey/Itese_Visual_1.png" alt="" style="max-width: 100%; height: auto;">
 </div>
 
-De gauche à droite, tout commence par l’extraction de ressources énergétiques primaires, comme le pétrole brut, l’énergie hydraulique ou encore la biomasse. Celles-ci sont ensuite converties et transformées avant d’être disponibles à la consommation comme énergie finale (ou vecteur énergétique final). L’énergie finale, sous la forme d’électricité, de combustible ou de chaleur, sera ensuite consommée pour différents usages, comme ceux de l’industrie ou le transport (rond de droite).
-Le flux entre ressources primaires et énergies finales est régulièrement présenté sous la forme d’un diagramme de Sankey, comme celui ci-dessous1.
+<p>
+De gauche à droite, tout commence par l’extraction de ressources énergétiques primaires, comme le pétrole brut, l’énergie hydraulique ou encore la biomasse. 
+Celles-ci sont ensuite converties et transformées avant d’être disponibles à la consommation comme énergie finale (ou vecteur énergétique final). 
+L’énergie finale, sous la forme d’électricité, de combustible ou de chaleur, sera ensuite consommée pour différents usages, comme ceux de l’industrie ou le transport (rond de droite). 
+Le flux entre ressources primaires et énergies finales est régulièrement présenté sous la forme d’un diagramme de Sankey, comme celui ci-dessous<sup>1</sup>.
+</p>
 
-FLUX ENERGETIQUES ENTRE RESSOURCES PRIMAIRES ET ÉNERGIES FINALES A L'ECHELLE DU TERRITOIRE FRANÇAIS EN 2019
- <div class="text-center my-4">
+<p class="text-center fw-bold">FLUX ÉNERGÉTIQUES ENTRE RESSOURCES PRIMAIRES ET ÉNERGIES FINALES À L'ÉCHELLE DU TERRITOIRE FRANÇAIS EN 2019</p>
+
+<div class="text-center my-4">
   <img src="/assets/img/Sankey/sankey-SDES.png" alt="" style="max-width: 100%; height: auto;">
 </div>
 
+<p>
+Cette représentation permet de visualiser la répartition des sources d’énergie finale utilisées en France (partie de droite), 
+ainsi que l’ensemble des pertes du système énergétique associées à la conversion des ressources primaires (partie haute). 
+On y lit notamment qu'en 2019 le système énergétique français a consommé 258 Mtep<sup>2</sup> d’énergie primaire, pour une énergie finale disponible à la consommation de 153 Mtep. 
+Cette différence s’explique principalement par les pertes lors de la conversion des énergies primaires en énergie électrique<sup>3</sup>. 
+Le reste de cette différence est imputé aux exportations d’électricité et de pétrole pour le transport international.
+</p>
 
-Cette représentation permet de visualiser la répartition des sources d’énergie finale utilisées en France (partie de droite), ainsi que l’ensemble des pertes du système énergétique associées à la conversion des ressources primaires (partie haute). On y lit notamment qu'en 2019 le système énergétique français a consommé 258 Mtep2 d’énergie primaire, pour une énergie finale disponible à la consommation de 153 Mtep. Cette différence s’explique principalement par les pertes lors de la conversion des énergies primaires en énergie électrique3. Le reste de cette différence est imputé aux exportations d’électricité et de pétrole pour le transport international
+<p>
+Ce graphique ne montre cependant pas quels sont les usages faits de chacun de ces vecteurs énergétiques. 
+Le pétrole est-il principalement utilisé pour le transport, les besoins de l’industrie, le chauffage ? 
+Dans une dynamique de décarbonation, il est nécessaire de comprendre quels sont les potentiels reports des sources fossiles vers des sources ‘bas-carbone’, 
+et dans quelles mesures ces solutions peuvent être déployées. 
+</p>
 
-Ce graphique ne montre cependant pas quels sont les usages faits de chacun de ces vecteurs énergétiques. Le pétrole est-il principalement utilisé pour le transport, les besoins de l’industrie, le chauffage ? Dans une dynamique de décarbonation, il est nécessaire de comprendre quels sont les potentiels reports des sources fossiles vers des sources ‘bas-carbone’, et dans quelles mesures ces solutions peuvent être déployées. 
-
-Afin de mettre en évidence le potentiel de réduction du recours aux énergies fossiles, et à titre pédagogique, nous avons prolongé ce diagramme pour faire le lien entre les sources d’énergie finale et les usages. Le graphique ci-dessous montre la répartition par usages des 1750 TWh d’énergie finale annuellement consommée sur le territoire4.
-
-
+<p>
+Afin de mettre en évidence le potentiel de réduction du recours aux énergies fossiles, et à titre pédagogique, nous avons prolongé ce diagramme pour faire le lien 
+entre les sources d’énergie finale et les usages. Le graphique ci-dessous montre la répartition par usages des 1750 TWh d’énergie finale annuellement consommée sur le territoire<sup>4</sup>.
+</p>
 
 <div class="text-center my-4">
   <img src="/assets/img/Sankey/Itese_Sankey_Gradient.png" alt="Diagramme de Sankey" style="max-width: 100%; height: auto;">
 </div>
 
+<p>
+Les données utilisées pour produire ce graphique proviennent d’une agrégation de données publiques, notamment du SDES et de l’Agence Internationale de l’Énergie (AIE) pour l’année 2019, 
+avant la crise sanitaire liée à la COVID. En plus des volumes des énergies en jeu, représentés par l’épaisseur des flux, 
+un code couleur en niveau de gris quantifie le contenu CO₂ équivalent de l’ensemble des vecteurs énergétiques finaux.
+</p>
 
-Les données utilisées pour produire ce graphique proviennent d’une agrégation de données publiques, notamment du SDES et l’Agence Internationale de l’Energie (AIE) pour l’année 2019, avant la crise sanitaire liée à la COVID. En plus des volumes des énergies en jeu, représentés par l’épaisseur des flux, un code couleur en niveau de gris quantifie le contenu CO2 équivalent de l’ensemble des vecteurs énergétiques finaux.
+<p>Nous allons dans la suite de ce document analyser pas-à-pas ce diagramme pour apporter des éléments de réponses aux questions suivantes :</p>
+<ul>
+  <li>Comment l’énergie finale est-elle répartie entre les différents secteurs de l’économie ?</li>
+  <li>Quels sont les secteurs les plus consommateurs en énergie et émetteurs de gaz à effet de serre (GES) ?</li>
+  <li>Quels sont les potentiels reports de ressources fossiles vers des sources bas-carbone ?</li>
+  <li>Quels sont les secteurs à décarboner en priorité ?</li>
+</ul>
 
-Nous allons dans la suite de ce document analyser pas-à-pas ce diagramme pour apporter des éléments de réponses aux questions suivantes :
-
-- Comment l’énergie finale est-elle répartie entre les différents secteurs de l’économie ?
-- Quels sont les secteurs les plus consommateurs en énergie et émetteurs de gaz à effet de serre (GES)?
-- Quels sont les potentiels reports de ressources fossiles vers des sources bas-carbones ? 
-- Quels sont les secteurs à décarboner en priorité ?
-
-Pour cela, nous distinguerons les vecteurs énergétiques dits ‘bas carbone’ et ‘haut carbone’ : 
-- On qualifie de ‘haut carbone’ l’énergie finale issue des combustibles fossiles, comme le charbon, le gaz et le pétrole. A titre indicatif, ces vecteurs énergétiques ont un contenu carbone entre 200 et 400 gCO2/kWh.
-- Par opposition, les vecteurs ‘bas-carbone’ ont un contenu CO2 plus faible, entre 50 et 130 gCO2/kWh. C’est le cas de l’électricité en France – grâce au parc électro-nucléaire, à l'hydroélectricité et aux énergies renouvelables – de la chaleur commercialisée et de l’énergie issue des déchets et de la biomasse.
-
-1 Dans ce diagramme de Sankey, les soutes internationales désignent la consommation énergétique (carburants) du transport aérien et maritime international.
-2 Le Mtep (Millions de tonnes équivalent pétrole) est une unité qui permet de quantifier l’énergie, au même titre que le TWh. 1 Mtep = 11.6 TWh.
-3 Les pertes des centrales électriques proviennent principalement des centrales nucléaires. La fission du combustible nucléaire dégage une forte quantité de chaleur, dont seulement 30 à 40% est convertie en électricité.
-4 Sur ce diagramme a été ajoutée la consommation de pétrole imputée au transport aérien et maritime international. Celui-ci s'élève à environ 90 TWh; soit une énergie finale totale consommée de 1840 TWh en 2019.
-
-Ci-dessous une version interactive du diagramme : elle permet de donner accès aux données utilisées, à la fois pour l’énergie et le contenu CO2.
+<p>Pour cela, nous distinguerons les vecteurs énergétiques dits <em>‘bas carbone’</em> et <em>‘haut carbone’</em> :</p>
+<ul>
+  <li><strong>Haut carbone</strong> : énergie finale issue des combustibles fossiles, comme le charbon, le gaz et le pétrole. Contenu carbone : entre 200 et 400 gCO₂/kWh.</li>
+  <li><strong>Bas carbone</strong> : contenu CO₂ plus faible (entre 50 et 130 gCO₂/kWh). Exemples : électricité (France), chaleur commercialisée, déchets, biomasse.</li>
+</ul>
 
 <div class="text-center my-4">
   <h5 style="font-weight: bold;">Diagramme interactif – Flux d’énergie finale par usage</h5>
@@ -204,15 +225,16 @@ Ci-dessous une version interactive du diagramme : elle permet de donner accès a
   </iframe>
 </div>
 
-
 <hr>
 <p><strong>Notes :</strong></p>
 <ol style="font-size: 0.9rem;">
-  <li>Dans ce diagramme de Sankey, les soutes internationales désignent la consommation énergétique (carburants) du transport aérien et maritime international.</li>
-  <li>Le Mtep (Millions de tonnes équivalent pétrole) est une unité qui permet de quantifier l’énergie, au même titre que le TWh. 1 Mtep = 11.6 TWh.</li>
-  <li>Les pertes des centrales électriques proviennent principalement des centrales nucléaires. La fission du combustible nucléaire dégage une forte quantité de chaleur, dont seulement 30 à 40% est convertie en électricité.</li>
-  <li>Sur ce diagramme a été ajoutée la consommation de pétrole imputée au transport aérien et maritime international. Celui-ci s'élève à environ 90 TWh, soit une énergie finale totale consommée de 1840 TWh en 2019.</li>
+  <li><sup>1</sup> Dans ce diagramme de Sankey, les soutes internationales désignent la consommation énergétique (carburants) du transport aérien et maritime international.</li>
+  <li><sup>2</sup> Le Mtep (Millions de tonnes équivalent pétrole) est une unité qui permet de quantifier l’énergie, au même titre que le TWh. 1 Mtep = 11.6 TWh.</li>
+  <li><sup>3</sup> Les pertes des centrales électriques proviennent principalement des centrales nucléaires. La fission du combustible nucléaire dégage une forte quantité de chaleur, dont seulement 30 à 40 % est convertie en électricité.</li>
+  <li><sup>4</sup> Sur ce diagramme a été ajoutée la consommation de pétrole imputée au transport aérien et maritime international. Celui-ci s'élève à environ 90 TWh, soit une énergie finale totale consommée de 1840 TWh en 2019.</li>
 </ol>
+
+
 
 ---
 
