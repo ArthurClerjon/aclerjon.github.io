@@ -93,6 +93,7 @@ Cet article n’a pas vocation à décrire une marche à suivre pour décarboner
 
 Les données énergétiques utilisées pour la réalisation de ce graphique proviennent de l’agrégation de rapports du (SDES) pour l’année 2019, avant la crise sanitaire. Le cadre méthodologique est identique à celui choisi par ces rapports, à l'exception du transport international (aérien et maritime) qui a été ajouté. Les données d'émissions de CO2 proviennent quant à elles du <a href="https://bilans-ges.ademe.fr/" target="_blank">centre de ressources Base Carbone de l’ADEME</a>.
 
+---
 
 ## Sommaire illustré
 
@@ -234,8 +235,6 @@ un code couleur en niveau de gris quantifie le contenu CO₂ équivalent de l’
   <li><sup>4</sup> Sur ce diagramme a été ajoutée la consommation de pétrole imputée au transport aérien et maritime international. Celui-ci s'élève à environ 90 TWh, soit une énergie finale totale consommée de 1840 TWh en 2019.</li>
 </ol>
 
-
-
 ---
 
 <div style="background-color: #eef4f7; border-left: 4px solid #0d3b66; padding: 1rem; margin-top: 2rem;">
@@ -311,10 +310,8 @@ Le transport et les usages du résidentiel-tertiaire sont les deux secteurs les 
 
 
 <div style="background-color: #eef4f7; border-left: 4px solid #0d3b66; padding: 1rem; margin-top: 2rem;">
-  <h3>2.a - Décarboner  le besoin de chaleur des secteurs résidentiels et tertiaires, le fort potentiel des pompes à chaleur</h3>
+  <h3>2.a - Décarboner le besoin de chaleur des secteurs résidentiels et tertiaires, le fort potentiel des pompes à chaleur</h3>
 </div>
-
-
 
 <p style="font-style: italic; font-size: 1.05rem; text-align: justify;">
   La baisse de consommation des énergies fossiles passera – en partie – par le report vers les vecteurs 
@@ -330,43 +327,56 @@ Le transport et les usages du résidentiel-tertiaire sont les deux secteurs les 
 
 <hr style="width: 60px; border: none; border-top: 2px solid #ccc; margin: 1rem auto;">
 
-Le secteur du bâtiment est aujourd’hui susceptible de réduire fortement sa consommation d’énergie, notamment par des gains d’efficacité énergétique réalisés à la fois en rénovant les bâtiments les moins bien isolés ([Classes Énergétiques F, G](https://www.ademe.fr/particuliers-eco-citoyens/habitation/renover/connaitre-classe-energetique)) ; et en remplaçant les chaudières au gaz et au fioul par des [pompes à chaleur (PAC)](https://www.ademe.fr/particuliers-eco-citoyens/habitation/se-chauffer/chauffage-economique/pompes-chaleur).
+<p>
+  Le secteur du bâtiment est aujourd’hui susceptible de réduire fortement sa consommation d’énergie, notamment par des gains d’efficacité énergétique réalisés à la fois en rénovant les bâtiments les moins bien isolés 
+  (<a href="https://www.ademe.fr/particuliers-eco-citoyens/habitation/renover/connaitre-classe-energetique">Classes Énergétiques F, G</a>) ; 
+  et en remplaçant les chaudières au gaz et au fioul par des 
+  <a href="https://www.ademe.fr/particuliers-eco-citoyens/habitation/se-chauffer/chauffage-economique/pompes-chaleur">pompes à chaleur (PAC)</a>.
+</p>
 
-
-En effet, les pompes à chaleur, lorsque leur installation est possible, produisent en moyenne 3 unités de chaleur pour une unité d’énergie électrique consommée, comme l’illustre le schéma de principe ci-dessous.
+<p>
+  En effet, les pompes à chaleur, lorsque leur installation est possible, produisent en moyenne 3 unités de chaleur pour une unité d’énergie électrique consommée, comme l’illustre le schéma de principe ci-dessous.
+</p>
 
 <div class="text-center my-4">
   <img src="/assets/img/Sankey/Itese_Visual_4.png" alt="" style="max-width: 100%; height: auto;">
 </div>
 
-Dans un [**rapport du SDES**](https://www.statistiques.developpement-durable.gouv.fr/renovation-energetique-du-parc-immobilier-en-france) faisant état de l’efficacité des différentes mesures de rénovation du parc immobilier français réalisées de 2016 à 2019, celui-ci indique que **la rénovation, d’une part de la toiture, des murs et du plancher**, d’autre part **le remplacement des moyens de chauffage et de l’Eau Chaude Sanitaire (ECS)** sont les actions les plus efficaces pour réduire la consommation énergétique. En 2019, **ces deux leviers représentaient respectivement 57 % et 39 %** des économies d’énergie générales.
+<p>
+  Dans un <a href="https://www.statistiques.developpement-durable.gouv.fr/renovation-energetique-du-parc-immobilier-en-france"><strong>rapport du SDES</strong></a> faisant état de l’efficacité des différentes mesures de rénovation du parc immobilier français réalisées de 2016 à 2019, celui-ci indique que <strong>la rénovation, d’une part de la toiture, des murs et du plancher</strong>, d’autre part <strong>le remplacement des moyens de chauffage et de l’Eau Chaude Sanitaire (ECS)</strong> sont les actions les plus efficaces pour réduire la consommation énergétique. En 2019, <strong>ces deux leviers représentaient respectivement 57 % et 39 %</strong> des économies d’énergie générales.
+</p>
 
-Afin de comprendre dans quelle mesure **le développement massif des pompes à chaleur** sur le territoire pourrait affecter la production de chauffage, plaçons-nous dans le scénario suivant :  
-**« Demain, 50 % des chaudières à gaz et au fioul seront remplacées par des pompes à chaleur avec un coefficient de performance (COP) de 3 »**.  
-*Attention, il s’agit là d’un choix arbitraire, le curseur pourrait être poussé dans un sens comme dans l’autre. C’est un scénario caricatural à des échéances courtes[^1] mais qui permet de souligner le potentiel et les limites d’une telle solution technologique.*^/
-
-
-Le résultat de cette expérience de pensée est présenté sur le visuel ci-dessous. 
+<p>
+  Afin de comprendre dans quelle mesure <strong>le développement massif des pompes à chaleur</strong> sur le territoire pourrait affecter la production de chauffage, plaçons-nous dans le scénario suivant :  
+  <strong>« Demain, 50 % des chaudières à gaz et au fioul seront remplacées par des pompes à chaleur avec un coefficient de performance (COP) de 3 »</strong>.  
+  <em>Attention, il s’agit là d’un choix arbitraire, le curseur pourrait être poussé dans un sens comme dans l’autre. C’est un scénario caricatural à des échéances courtes<sup><a href="#note-2a-1">1</a></sup> mais qui permet de souligner le potentiel et les limites d’une telle solution technologique.</em>
+</p>
 
 <div class="text-center my-4">
   <img src="/assets/img/Sankey/Itese_Visual_5a.png" alt="" style="max-width: 100%; height: auto;">
 </div>
 
+<p>
+  On lit sur la barre de gauche la répartition par source du besoin de chauffage en 2019 (400 TWh), à droite la répartition de ce même besoin dans le scénario d’électrification <strong>‘50% PAC’</strong> décrit précédemment. Voici les principaux messages de ce graphique :
+</p>
 
-On lit sur la barre de gauche la répartition par source  du besoin de chauffage en 2019  (400 TWh), à droite la répartition de ce même besoin dans le scénario d’électrification **‘50% PAC’** décrit précédemment. Voici les principaux messages de ce graphique : 
-- On observe une baisse de 50% des énergies fossiles pour atteindre 110 TWh. 
-- Les pompes à chaleur produisant plus d’énergie thermique que d’électricité consommée[^2], la consommation totale d'énergie baisse de 70 TWh.
+<ul>
+  <li>On observe une baisse de 50% des énergies fossiles pour atteindre 110 TWh.</li>
+  <li>Les pompes à chaleur produisant plus d’énergie thermique que d’électricité consommée<sup><a href="#note-2a-2">2</a></sup>, la consommation totale d'énergie baisse de 70 TWh.</li>
+</ul>
 
-Loin de s’affranchir des énergies fossiles, le développement des pompes à chaleur dans ce scénario '50% PAC' permettrait toutefois d’en réduire l’usage. Pour se décarboner davantage (en dehors d'une électrification plus importante), il est aussi possible de récupérer la chaleur dite ‘fatale’ , majoritairement produite lors de procédés industriels et qui serait perdue si elle n’était pas valorisée.  En France, <a href="https://librairie.ademe.fr/changement-climatique-et-energie/3276-le-potentiel-de-la-chaleur-fatale-en-france.html" target="_blank">l’ADEME</a> évalue le potentiel de chaleur fatale qui pourrait être récupérée à 109,5 TWh thermique (dont 53 TWh à plus de 100 °C)[^3], sous réserve de développer des infrastructures adaptées, comme des <strong>réseaux de chaleur urbains</strong>.
-
-La valorisation de cette chaleur fatale pourrait subvenir au besoin de chauffage et ce potentiel est comparé au besoin 2019 et celui  du scénario **‘50% PAC’** sur le visuel suivant.
+<p>
+  Loin de s’affranchir des énergies fossiles, le développement des pompes à chaleur dans ce scénario ‘50% PAC’ permettrait toutefois d’en réduire l’usage. Pour se décarboner davantage (en dehors d'une électrification plus importante), il est aussi possible de récupérer la chaleur dite ‘fatale’, majoritairement produite lors de procédés industriels et qui serait perdue si elle n’était pas valorisée. 
+  En France, <a href="https://librairie.ademe.fr/changement-climatique-et-energie/3276-le-potentiel-de-la-chaleur-fatale-en-france.html" target="_blank">l’ADEME</a> évalue le potentiel de chaleur fatale qui pourrait être récupérée à 109,5 TWh thermique (dont 53 TWh à plus de 100 °C)<sup><a href="#note-2a-3">3</a></sup>, sous réserve de développer des infrastructures adaptées, comme des <strong>réseaux de chaleur urbains</strong>.
+</p>
 
 <div class="text-center my-4">
   <img src="/assets/img/Sankey/Itese_Visual_5b.png" alt="" style="max-width: 100%; height: auto;">
 </div>
 
-
-Ce graphique montre que le potentiel total de récupération de chaleur fatale est du même ordre de grandeur que la consommation de fossiles pour répondre au besoin de chauffage dans le cas du scénario **‘50% PAC’**. Attention cependant, cette chaleur fatale ne peut être valorisable qu’en développant des infrastructures de transport de chaleur entre les sites industriels et les sites  où elle sera utilisée. Les réseaux de chaleur urbains fonctionnant pour la majorité en France à plus de 100°C, la chaleur fatale produite à moins de 100°C (plus de la moitié) ne pourra pas être valorisée directement.
+<p>
+  Ce graphique montre que le potentiel total de récupération de chaleur fatale est du même ordre de grandeur que la consommation de fossiles pour répondre au besoin de chauffage dans le cas du scénario <strong>‘50% PAC’</strong>. Attention cependant, cette chaleur fatale ne peut être valorisable qu’en développant des infrastructures de transport de chaleur entre les sites industriels et les sites où elle sera utilisée. Les réseaux de chaleur urbains fonctionnant pour la majorité en France à plus de 100 °C, la chaleur fatale produite à moins de 100 °C (plus de la moitié) ne pourra pas être valorisée directement.
+</p>
 
 <div class="box-accent" style="max-width: 800px; margin: 2rem auto;">
   <p>
@@ -381,10 +391,13 @@ Ce graphique montre que le potentiel total de récupération de chaleur fatale e
   </p>
 </div>
 
-
-[^1]: Aucun horizon temporel n’est visé, cet exemple est simplement choisi à titre indicatif.  
-[^2]: Dans le cadre de la méthodologie comptable employée par le SDES et l’AIE, l’énergie thermique ‘gratuite’, prélevée dans l’environnement par les pompes à chaleur doit être imputée au secteur Énergies renouvelables thermiques et déchets. Dans le cas de l’analyse de sensibilité ‘50 % PAC’, nous avons délibérément choisi de ne pas le faire, afin de garder visible le gain d'efficacité énergétique sur le graphique.  
-[^3]: Le niveau de température de la chaleur fatale a une importance primordiale. À haute température (plusieurs centaines de degrés) elle pourra être facilement valorisée, dans des procédés industriels par exemple. À basse température (~80–90 °C), les usages pouvant valoriser la chaleur sont moindres. Derrière cette question de température se cache la notion d’exergie, c’est-à-dire l’énergie ‘utile’ qui peut être extraite du flux de chaleur fatale.
+<hr>
+<p><strong>Notes</strong></p>
+<ol style="font-size: 0.9rem;">
+  <li id="note-2a-1">Aucun horizon temporel n’est visé, cet exemple est simplement choisi à titre indicatif.</li>
+  <li id="note-2a-2">Dans le cadre de la méthodologie comptable employée par le SDES et l’AIE, l’énergie thermique ‘gratuite’, prélevée dans l’environnement par les pompes à chaleur doit être imputée au secteur Énergies renouvelables thermiques et déchets. Dans le cas de l’analyse de sensibilité ‘50 % PAC’, nous avons délibérément choisi de ne pas le faire, afin de garder visible le gain d'efficacité énergétique sur le graphique.</li>
+  <li id="note-2a-3">Le niveau de température de la chaleur fatale a une importance primordiale. À haute température (plusieurs centaines de degrés) elle pourra être facilement valorisée, dans des procédés industriels par exemple. À basse température (~80–90 °C), les usages pouvant valoriser la chaleur sont moindres. Derrière cette question de température se cache la notion d’exergie, c’est-à-dire l’énergie ‘utile’ qui peut être extraite du flux de chaleur fatale.</li>
+</ol>
 
 ---
 
