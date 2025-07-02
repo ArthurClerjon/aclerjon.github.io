@@ -91,7 +91,8 @@ L’objet de ce document est de présenter dans sa globalité le système énerg
 Le système énergétique national étant éminemment complexe, nous ne rentrerons pas dans le détail de l'ensemble des solutions de décarbonation. Nous avons plutôt choisi de montrer, à travers des exemples simples, l’effet que pourrait avoir le développement de différentes technologies sur la consommation d’énergie. Cette approche nous permet de présenter les grands enjeux de la transition énergétique et de prendre la mesure du chemin à parcourir, que ce soit du point de vue des technologies ou de l’évolution des modes de vie.
 Cet article n’a pas vocation à décrire une marche à suivre pour décarboner l’économie. Nous avons au contraire souhaité donner des éléments de contexte pour que le lecteur puisse construire sa propre analyse.
 
-Les données énergétiques utilisées pour la réalisation de ce graphique proviennent de l’agrégation de rapports du (SDES) pour l’année 2019, avant la crise sanitaire. Le cadre méthodologique est identique à celui choisi par ces rapports, à l'exception du transport international (aérien et maritime) qui a été ajouté. Les données d'émissions de CO2  proviennent quant à elles du centre de ressources .
+Les données énergétiques utilisées pour la réalisation de ce graphique proviennent de l’agrégation de rapports du (SDES) pour l’année 2019, avant la crise sanitaire. Le cadre méthodologique est identique à celui choisi par ces rapports, à l'exception du transport international (aérien et maritime) qui a été ajouté. Les données d'émissions de CO2 proviennent quant à elles du <a href="https://bilans-ges.ademe.fr/" target="_blank">centre de ressources Base Carbone de l’ADEME</a>.
+
 
 ## Sommaire illustré
 
@@ -140,7 +141,7 @@ Les données énergétiques utilisées pour la réalisation de ce graphique prov
 </div>
 
 
-En France métropolitaine, environ 65% de l’énergie finale consommée est d’origine fossile (pétrole, gaz, charbon). C’est ce qu’illustre le , une publication annuelle du Service des Données et Études Statistiques  (SDES). Ces rapports font notamment l’état de la consommation des ressources énergétiques primaires en France, comme le pétrole brut, le gaz ou les ressources fissiles ; ainsi que de leur transformation en énergie dite  finale, disponible à la consommation.
+En France métropolitaine, environ 65% de l’énergie finale consommée est d’origine fossile (pétrole, gaz, charbon). C’est ce qu’illustre le <a href="https://www.statistiques.developpement-durable.gouv.fr/edition-numerique/bilan-energetique-2019/pdf/document.pdf" target="_blank">Bilan énergétique de la France</a>, une publication annuelle du Service des Données et Études Statistiques (SDES). Ces rapports font notamment l’état de la consommation des ressources énergétiques primaires en France, comme le pétrole brut, le gaz ou les ressources fissiles ; ainsi que de leur transformation en énergie dite  finale, disponible à la consommation.
 
 Afin d’illustrer les étapes principales de la chaîne d’approvisionnement énergétique et définir un vocabulaire commun, nous avons schématisé sur le graphique ci-dessous le processus permettant d’aboutir à une énergie finale, disponible à la consommation.
 
@@ -259,15 +260,21 @@ Ces données sont agrégées dans le visuel ci-dessous (partie de droite du Sank
 <div class="box-accent box-right">
   <p><strong>Charbon énergétique et charbon métallurgique, quelles différences ?</strong></p>
   <p>
-Il faut distinguer le charbon dit thermique (14 TWh en 2019) du , utilisé dans les hauts fourneaux pour la production d’acier. Ce dernier, après transformation en coke par pyrolyse,  est utilisé comme source de carbone pour transformer de l’oxyde de fer en acier. 
+<p>
+Il faut distinguer le charbon dit thermique (14 TWh en 2019) du <strong>charbon métallurgique</strong>, utilisé dans les hauts fourneaux pour la production d’acier. Ce dernier, après transformation en coke par pyrolyse, est utilisé comme source de carbone pour transformer de l’oxyde de fer en acier.
+</p>
+ , utilisé dans les hauts fourneaux pour la production d’acier. Ce dernier, après transformation en coke par pyrolyse,  est utilisé comme source de carbone pour transformer de l’oxyde de fer en acier. 
 
 La consommation de charbon métallurgique en France représente annuellement environ 50 TWh. N’étant pas utilisé pour la production d’énergie, mais nécessitant tout de même des étapes de transformation avant usage, sa consommation n’apparaît dans aucun secteur sur les graphiques présentés ici.
 
-Plus de détails sur la transformation du charbon en France sont disponibles .  </p>
+Plus de détails sur la transformation du charbon en France sont disponibles [dans cette publication du SDES](https://www.statistiques.developpement-durable.gouv.fr/sites/default/files/2021-12/repere-energies-charbon-septembre2021.pdf).
+  </p>
 </div>
 
 
-Ce graphique indique clairement que le transport et les usages du résidentiel-tertiaire sont les deux secteurs les plus intensifs en énergie, représentant à eux deux la majeure partie de la consommation des fossiles. Pour compléter ce graphique, rappelons que , tandis que . 
+Ce graphique indique clairement que le transport et les usages du résidentiel-tertiaire sont les deux secteurs les plus intensifs en énergie, représentant à eux deux la majeure partie de la consommation des fossiles. Pour compléter ce graphique, rappelons que le transport représente environ 30 % des émissions de GES sur le territoire, tandis que le chauffage résidentiel et tertiaire en représente environ 15 %.
+
+ 
 
 Ces deux postes de consommation vont faire l’objet d’une analyse détaillée dans la suite du texte. Nous montrerons notamment quel peut être l’effet de certaines mesures de décarbonation, comme le développement des véhicules électriques ou des  pompes à chaleur.
 
@@ -328,7 +335,7 @@ On lit sur la barre de gauche la répartition par source  du besoin de chauffage
 - On observe une baisse de 50% des énergies fossiles pour atteindre 110 TWh. 
 - Les pompes à chaleur produisant plus d’énergie thermique que d’électricité consommée[^2], la consommation totale d'énergie baisse de 70 TWh.
 
-Loin de s’affranchir des énergies fossiles, le développement des pompes à chaleur dans ce scénario '50% PAC' permettrait toutefois d’en réduire l’usage. Pour se décarboner davantage (en dehors d'une électrification plus importante), il est aussi possible de récupérer la chaleur dite ‘fatale’ , majoritairement produite lors de procédés industriels et qui serait perdue si elle n’était pas valorisée. En France,  évalue le potentiel de chaleur fatale qui pourrait être récupérée à 109.5 TWh thermique (dont 53 TWh à plus de 100°C[^3]), sous réserve de développer des infrastructures adaptées, comme des . Il s’agit donc d’un potentiel hypothétique.
+Loin de s’affranchir des énergies fossiles, le développement des pompes à chaleur dans ce scénario '50% PAC' permettrait toutefois d’en réduire l’usage. Pour se décarboner davantage (en dehors d'une électrification plus importante), il est aussi possible de récupérer la chaleur dite ‘fatale’ , majoritairement produite lors de procédés industriels et qui serait perdue si elle n’était pas valorisée.  En France, <a href="https://librairie.ademe.fr/changement-climatique-et-energie/3276-le-potentiel-de-la-chaleur-fatale-en-france.html" target="_blank">l’ADEME</a> évalue le potentiel de chaleur fatale qui pourrait être récupérée à 109,5 TWh thermique (dont 53 TWh à plus de 100 °C)[^3], sous réserve de développer des infrastructures adaptées, comme des <strong>réseaux de chaleur urbains</strong>.
 
 La valorisation de cette chaleur fatale pourrait subvenir au besoin de chauffage et ce potentiel est comparé au besoin 2019 et celui  du scénario **‘50% PAC’** sur le visuel suivant.
 
