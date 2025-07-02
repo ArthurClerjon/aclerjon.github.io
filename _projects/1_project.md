@@ -142,9 +142,15 @@ Les données énergétiques utilisées pour la réalisation de ce graphique prov
 
 
 ---
-<div style="background-color: #eef4f7; border-left: 4px solid #0d3b66; padding: 1rem; margin-top: 2rem;">
-  <h3>1.a - Présentation du diagramme principal</h3>
+
+<!-- Section 1.a -->
+<div id="section-1a" style="background-color: #eef4f7; border-left: 4px solid #0d3b66; padding: 1rem; margin-top: 2rem;">
+  <h3>
+    1.a – Présentation du diagramme principal
+    <a href="#sommaire" title="Retour au sommaire" style="font-size: 0.8rem; margin-left: 1rem;">🔝</a>
+  </h3>
 </div>
+
 
 <p>
   En France métropolitaine, environ 65 % de l’énergie finale consommée est d’origine fossile (pétrole, gaz, charbon). 
@@ -330,8 +336,12 @@ Le transport et les usages du résidentiel-tertiaire sont les deux secteurs les 
 <hr style="width: 80px; border: 3px solid #117a8b; margin-left: auto; margin-bottom: 2rem;">
 
 
-<div style="background-color: #eef4f7; border-left: 4px solid #0d3b66; padding: 1rem; margin-top: 2rem;">
-  <h3>2.a - Décarboner le besoin de chaleur des secteurs résidentiels et tertiaires, le fort potentiel des pompes à chaleur</h3>
+<!-- Section 2.a -->
+<div id="section-2a" style="background-color: #eef4f7; border-left: 4px solid #0d3b66; padding: 1rem; margin-top: 2rem;">
+  <h3>
+    2.a – Le fort potentiel des pompes à chaleur
+    <a href="#sommaire" title="Retour au sommaire" style="font-size: 0.8rem; margin-left: 1rem;">🔝</a>
+  </h3>
 </div>
 
 <p style="font-style: italic; font-size: 1.05rem; text-align: justify;">
