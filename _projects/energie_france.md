@@ -108,8 +108,9 @@ Les données énergétiques utilisées pour la réalisation de ce graphique prov
 
 ---
 <!-- Sommaire -->
-<div id="sommaire" style="background-color: #f5faff; border: 1px solid #cce0f5; border-left: 4px solid #0d3b66; padding: 1.5rem; margin: 2rem 0; box-shadow: 0 2px 6px rgba(0,0,0,0.05);">
+<div id="sommaire" style="padding: 1.5rem 0; margin: 2rem 0;">
   <h2 style="color: #0d3b66; font-weight: bold;">Sommaire</h2>
+
 
   <!-- Titre principal 1 -->
   <h4 style="margin-top: 1.5rem; color: #0d3b66;">1. Le point sur l'utilisation des ressources énergétiques en France</h4>
