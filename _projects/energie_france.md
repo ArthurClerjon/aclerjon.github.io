@@ -6,6 +6,7 @@ img: /assets/img/Sankey/Itese_Sankey_Gradient.png
 importance: 1
 category: Energy uses
 related_publications: true
+hide_title: true
 
 # SEO & Social
 canonical_url: https://arthurclerjon.github.io/energie-france
@@ -61,7 +62,7 @@ Nous avons construit une représentation graphique des flux entre la consommatio
       </ul>
     </li>
   </ul>
-
+<hr>
   <p><strong>Les défis à venir :</strong></p>
   <ul>
     <li>L’électrification massive des usages est un levier indispensable pour réduire fortement la consommation d’énergie fossile.</li>
@@ -141,6 +142,7 @@ Les données énergétiques utilisées pour la réalisation de ce graphique prov
       <a href="#section-1c" style="text-decoration: none;">1.c – Répartition inégale des énergies fossiles entre les secteurs <span style="margin-left: 0.5rem;">➤</span></a>
     </div>
   </div>
+  
 
   <!-- Titre principal 2 -->
   <h4 style="margin-top: 2rem; color: #0d3b66;">2. Quelles alternatives pour décarboner ?</h4>
@@ -753,6 +755,37 @@ Le contenu CO₂ des vecteurs énergétiques finaux provient de la [Base Carbone
 - **SNBC** : Stratégie Nationale Bas Carbone  
 - **VE** : Véhicule Électrique  
 
+<style>
+#backToTopBtn {
+  position: fixed;
+  bottom: 30px;
+  right: 30px;
+  background-color: #0d3b66;
+  color: white;
+  padding: 10px 14px;
+  border-radius: 50%;
+  font-size: 1.5rem;
+  cursor: pointer;
+  display: none;
+  z-index: 999;
+}
+#backToTopBtn:hover {
+  background-color: #084372;
+}
+</style>
+
+<button id="backToTopBtn" onclick="window.scrollTo({top: 0, behavior: 'smooth'});">⇧</button>
+
+<script>
+window.onscroll = function() {
+  const btn = document.getElementById("backToTopBtn");
+  if (document.body.scrollTop > 400 || document.documentElement.scrollTop > 400) {
+    btn.style.display = "block";
+  } else {
+    btn.style.display = "none";
+  }
+};
+</script>
 
 
 
