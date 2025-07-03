@@ -9,15 +9,15 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-arthur-clerjon-cv-académique-recherche-projets-énergie-et-climat",
-          title: "Arthur Clerjon – CV académique, recherche, projets énergie et climat",
+  },{id: "nav-cv",
+          title: "CV",
           description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "nav-publications-arthur-clerjon-articles-scientifiques-et-projets",
-          title: "Publications – Arthur Clerjon – Articles scientifiques et projets",
+        },{id: "nav-publications",
+          title: "Publications",
           description: "Liste complète des publications scientifiques d’Arthur Clerjon : énergie, décarbonation, modélisation, climat.",
           section: "Navigation",
           handler: () => {
@@ -93,21 +93,11 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
+          section: "News",},{id: "projects-project-3-with-very-long-name",
           title: 'project 3 with very long name',
           description: "a project that redirects to another website",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-flexibility-of-power-systems",
-          title: 'Flexibility of power systems',
-          description: "another without an image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/4_project/";
             },},{id: "projects-project-5",
           title: 'project 5',
           description: "a project with a background image",
@@ -128,16 +118,26 @@ ninja.data = [{
           description: "an other project with a background image and giscus comments",
           section: "Projects",handler: () => {
               window.location.href = "/projects/8_project/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
+            },},{id: "projects-power-system-flexibility",
+          title: 'Power system flexibility',
+          description: "",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/9_project/";
+              window.location.href = "/projects/Power_flex/";
             },},{id: "projects-les-usages-de-l-énergie-en-france-analyse-et-leviers-de-décarbonation",
           title: 'Les usages de l’énergie en France – Analyse et leviers de décarbonation',
           description: "Panorama illustré de l’énergie finale en France, avec focus sur les transports, le chauffage et les solutions bas carbone.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/energie_france/";
+            },},{id: "projects-heat-decarbonation",
+          title: 'Heat decarbonation',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/heat_decarbonatoin/";
+            },},{id: "projects-decarbonize-road-transportation",
+          title: 'Decarbonize road transportation',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/transportation/";
             },},{
         id: 'social-email',
         title: 'email',
