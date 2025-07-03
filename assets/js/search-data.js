@@ -118,9 +118,9 @@ ninja.data = [{
           description: "an other project with a background image and giscus comments",
           section: "Projects",handler: () => {
               window.location.href = "/projects/8_project/";
-            },},{id: "projects-power-system-flexibility",
-          title: 'Power system flexibility',
-          description: "",
+            },},{id: "projects-energy-system-flexibility",
+          title: 'Energy System Flexibility',
+          description: "Optimization of energy system flexibility with storage solutions, renewable energy integration, and innovative techno-economic models.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Power_flex/";
             },},{id: "projects-les-usages-de-l-énergie-en-france-analyse-et-leviers-de-décarbonation",
@@ -128,14 +128,14 @@ ninja.data = [{
           description: "Panorama illustré de l’énergie finale en France, avec focus sur les transports, le chauffage et les solutions bas carbone.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/energie_france/";
-            },},{id: "projects-heat-decarbonation",
-          title: 'Heat decarbonation',
-          description: "",
+            },},{id: "projects-heat-decarbonization",
+          title: 'Heat Decarbonization',
+          description: "My research on heat decarbonization focusing on integrating low-carbon technologies into energy systems and district heating.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/heat_decarbonatoin/";
-            },},{id: "projects-decarbonize-road-transportation",
-          title: 'Decarbonize road transportation',
-          description: "",
+            },},{id: "projects-transport-decarbonization",
+          title: 'Transport Decarbonization',
+          description: "Research on decarbonizing transport, optimizing electric vehicle charging infrastructure, and battery sizing strategies.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/transportation/";
             },},{
