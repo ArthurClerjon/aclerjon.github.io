@@ -9,7 +9,7 @@ related_publications: true
 hide_title: true
 
 # SEO & Social
-canonical_url: https://arthurclerjon.github.io/energie-france
+canonical_url: https://www.cea.fr/energies/i-tese/Pages/Actualites/Focus-Thematiques/usages-energie-france.aspx
 image: /assets/img/Sankey/Itese_Sankey_Gradient.png
 author: Arthur Clerjon
 
@@ -27,7 +27,9 @@ og_type: article
 </div>
 
 <div class="alert alert-secondary">
-J'ai réalisé ce travail entre 2022 et 2023 au sein du CEA I-Tésé. Dans une dynamique de capitalisation et regroupement de mes production, je le présente sur cette page. Le document original est disponible <a href="https://www.cea.fr/energies/i-tese/Pages/Actualites/Focus-Thematiques/usages-energie-france.aspx" target="_blank">ici.</a>.
+  Ce travail a d’abord été publié sur le site du <strong>CEA I-Tésé</strong> entre 2022 et 2023. 
+  Cette page en propose une republication enrichie (graphiques interactifs, contenu éditorial). 
+  L’article original est consultable <a href="https://www.cea.fr/energies/i-tese/Pages/Actualites/Focus-Thematiques/usages-energie-france.aspx" target="_blank">à cette adresse</a>.
 </div>
 
 
