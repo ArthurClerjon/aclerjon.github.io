@@ -20,12 +20,6 @@ og_url: https://arthurclerjon.github.io/energie-france
 og_type: article
 ---
 
-
-
-<div class="alert alert-warning text-center">
-  <strong>Attention :</strong> Page en cours de construction.
-</div>
-
 <div style="text-align: center;">
   <h2>La France dépend encore majoritairement des énergies fossiles.</h2>
   <h3>Quels leviers pour décarboner ?</h3>
@@ -118,7 +112,7 @@ Les données énergétiques utilisées pour la réalisation de ce graphique prov
   <div class="row">
     <div class="col-md-2 text-center">
       <a href="#section-1a">
-        <img src="/assets/img/Sankey/Itese_Visual_1.png" alt="Diagramme principal" class="img-thumbnail" style="width: 90px; object-fit: cover; object-position: center;">
+        <img src="/assets/img/Sankey/Itese_Sankey_Gradient.png" alt="Diagramme principal" class="img-thumbnail" style="width: 90px; object-fit: cover; object-position: center;">
       </a>
     </div>
     <div class="col-md-10 d-flex align-items-center">
@@ -187,7 +181,7 @@ Les données énergétiques utilisées pour la réalisation de ce graphique prov
   <div class="row mt-2">
     <div class="col-md-2 text-center">
       <a href="#section-2d">
-        <img src="/assets/img/Sankey/Itese_Equation.png" alt="Autres leviers" class="img-thumbnail" style="width: 90px; object-fit: cover; object-position: center;">
+        <img src="/assets/img/Sankey/Equation.png" alt="Autres leviers" class="img-thumbnail" style="width: 90px; object-fit: cover; object-position: center;">
       </a>
     </div>
     <div class="col-md-10 d-flex align-items-center">
