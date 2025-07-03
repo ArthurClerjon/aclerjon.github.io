@@ -34,7 +34,11 @@ og_type: article
 
 
 #### Résumé  
-Nous avons construit une représentation graphique des flux entre la consommation d’énergie finale et les usages sous forme d’un diagramme de Sankey. Ce diagramme décrit les volumes en jeu, leur origine et leur contenu en CO₂, et sert de base pour analyser les leviers majeurs de décarbonation.
+Cette étude s’inscrit dans un ensemble de <a href="/projects/">projets de recherche</a> consacrés à la transition énergétique et à la décarbonation des systèmes énergétiques.  
+Elle vise à retranscrire, de manière pédagogique, les principaux enjeux de cette décarbonation, en s’appuyant sur des données claires, des représentations graphiques et une analyse des leviers technologiques et comportementaux.  
+Retrouvez la publication complète dans <a href="/publications/">ma liste de publications</a> et découvrez d’autres travaux sur <a href="/cv/">mon parcours scientifique</a>.
+
+Ici, avons construit une représentation graphique des flux entre la consommation d’énergie finale et les usages sous forme d’un diagramme de Sankey. Ce diagramme décrit les volumes en jeu, leur origine et leur contenu en CO₂, et sert de base pour analyser les leviers majeurs de décarbonation.
 
   <div class="text-center my-4">
     <img src="/assets/img/Sankey/Itese_Sankey_Gradient.png" alt="Diagramme de Sankey" style="max-width: 100%; height: auto;">
@@ -97,6 +101,7 @@ Nous avons construit une représentation graphique des flux entre la consommatio
 </div>
 
 ### Introduction
+
 L’objet de ce document est de présenter dans sa globalité le système énergétique français, de l’utilisation des ressources primaires aux usages finaux. Nous rappelons ici les principaux ordres de grandeur de consommation d’énergie, par sources et usages, afin de donner aux lecteurs une intuition des enjeux qu’implique la fin du recours aux énergies fossiles.
 Le système énergétique national étant éminemment complexe, nous ne rentrerons pas dans le détail de l'ensemble des solutions de décarbonation. Nous avons plutôt choisi de montrer, à travers des exemples simples, l’effet que pourrait avoir le développement de différentes technologies sur la consommation d’énergie. Cette approche nous permet de présenter les grands enjeux de la transition énergétique et de prendre la mesure du chemin à parcourir, que ce soit du point de vue des technologies ou de l’évolution des modes de vie.
 Cet article n’a pas vocation à décrire une marche à suivre pour décarboner l’économie. Nous avons au contraire souhaité donner des éléments de contexte pour que le lecteur puisse construire sa propre analyse.
@@ -510,7 +515,7 @@ Le transport et les usages du résidentiel-tertiaire sont les deux secteurs les 
 <p>Le graphique ci-dessous indique la répartition des émissions de GES du transport national. Il est important de remarquer que, au sein du transport national, la partie routière est responsable de plus de 95% des émissions de GES.</p>
 
 <figure>
-  <img src="/assets/img/Sankey/repartition-transports.png" alt="" class="img-fluid">
+  <img src="/assets/img/Sankey/repartition-transports.png" alt="Emissions de GES du transport en France" class="img-fluid">
   <figcaption class="figure-caption">
     Source : 
     <a href="https://www.statistiques.developpement-durable.gouv.fr/chiffres-cles-du-climat-france-europe-et-monde-edition-2024" target="_blank">
@@ -542,7 +547,7 @@ Le transport et les usages du résidentiel-tertiaire sont les deux secteurs les 
 <p>Les résultats de cette analyse sont présentés sur la figure ci-dessous.</p>
 
 <div class="text-center my-4">
-  <img src="/assets/img/Sankey/Itese_Visual_6.png" alt="" style="max-width: 100%; height: auto;">
+  <img src="/assets/img/Sankey/Itese_Visual_6.png" alt="Consommation énergie finale du transport en France par sourc" style="max-width: 100%; height: auto;">
 </div>
 
 <p>
@@ -573,7 +578,7 @@ Le transport et les usages du résidentiel-tertiaire sont les deux secteurs les 
 Évaluons maintenant l’effet cumulé que pourrait avoir le déploiement de ces deux  technologies – pompes à chaleur et véhicules électriques – sur la consommation globale d’énergie finale (hors transport international et consommations à usages non-énergétiques). Les résultats sont présentés sur la figure ci-dessous. Rappelons toutefois qu’il ne s’agit là que de scénarios d’électrification choisis arbitrairement et non pas de potentiels maximum.
 
 <div class="text-center my-4">
-  <img src="/assets/img/Sankey/Itese_Visual_7a.png" alt="" style="max-width: 100%; height: auto;">
+  <img src="/assets/img/Sankey/Itese_Visual_7a.png" alt="Effets de différents leviers de décarbonation en Frznce." style="max-width: 100%; height: auto;">
 </div>  
 
 
