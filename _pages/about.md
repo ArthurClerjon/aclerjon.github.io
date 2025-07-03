@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Welcome to my personal webpage!
+subtitle: 
 profile:
   align: right
   image: pic_bw.jpg
@@ -24,29 +24,29 @@ latest_posts:
 ---
 
 <!-- Hidden h1 for SEO -->
-<h1 style="display:none;">Arthur Clerjon – Researcher in Energy Systems, Climate, Decarbonation</h1>
+<h1 style="display:none;">Arthur Clerjon – Researcher in Energy Systems Modeling, Climate Policy, Decarbonation in France</h1>
 
-### 🔧 This website is under construction.
+I am a permanent researcher at the [CEA](https://www.cea.fr/) in Grenoble, France, working on the design and evaluation of energy systems compatible with climate neutrality targets.
 
----
+My work lies at the intersection of engineering, economics, and environmental science. It focuses on the **feasibility**, **carbon impact**, and **economic performance** of low-carbon energy systems, particularly in the context of **France's climate goals**.
 
-I am a permanent researcher at the [CEA](https://www.cea.fr/) in Grenoble, France, working on the design of energy systems aligned with climate neutrality objectives. My research focuses on the **technical feasibility**, **environmental impacts**, and **economic performance** of energy transitions.
-
-With a background in physics and engineering, and a PhD in energy systems modeling, I specialize in **flexibility analysis** — understanding how power systems can remain stable despite intermittent **renewable energy** and growing electricity demand from **mobility** and **heating**.
-
-### 🔬 My work in a nutshell
-
-- 🏠 Decarbonizing **heating** (~30% of French GHG emissions)
-- 🚗 Decarbonizing **transport** (~15%)
-- ⚡ Modeling the flexibility needs of electric systems
-- 📈 Analyzing trade-offs between efficiency, cost, and climate goals
-
-This website hosts my latest [projects](/projects/), [publications](/publications/), and accessible summaries of my ongoing work.
+With a background in physics and a PhD in energy systems modeling, I specialize in the analysis of **system flexibility**—how power grids can stay balanced as we shift toward **intermittent renewable sources** and electrify sectors like **heating** and **transport**.
 
 ---
 
-### 📬 Contact
+### What I work on
 
-Feel free to get in touch:
-- 📧 arthur.clerjon *at* cea.fr  
-- 🧾 [Full CV](/assets/cv/cv_arthur_clerjon.pdf)
+- Reducing emissions from **heating systems** (~30% of national GHG emissions)  
+- Supporting the electrification of **road transport** (~15%)  
+- Modeling the flexibility needs of **electric power systems**  
+- Exploring trade-offs between **efficiency**, **cost**, and **decarbonation pathways**  
+
+This website presents my [research projects](/projects/), [publications](/publications/), and accessible summaries of recent work.
+
+---
+
+### Contact
+
+If you’d like to know more or discuss potential collaborations:  
+**arthur.clerjon *at* cea.fr**  
+[Download my CV](/assets/cv/cv_arthur_clerjon.pdf)
