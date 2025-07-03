@@ -135,9 +135,9 @@ ninja.data = [{
               window.location.href = "/projects/9_project/";
             },},{id: "projects-les-usages-de-l-39-énergie-en-france",
           title: 'Les usages de l&amp;#39;énergie en France',
-          description: "Analyse du système énergétique français et leviers de décarbonation",
+          description: "Analyse du système énergétique français, des dépendances aux énergies fossiles, et des principaux leviers technologiques et comportementaux de décarbonation.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/Sankey/";
+              window.location.href = "/projects/energie_france/";
             },},{
         id: 'social-email',
         title: 'email',
