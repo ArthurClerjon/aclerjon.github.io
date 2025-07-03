@@ -1,7 +1,6 @@
 ---
 layout: page
-nav_title: Publications
-title: "Publications – Arthur Clerjon – Articles scientifiques et projets"
+title: Publications
 description: "Liste complète des publications scientifiques d’Arthur Clerjon : énergie, décarbonation, modélisation, climat."
 permalink: /publications/
 nav: true
@@ -12,7 +11,7 @@ nav_order: 3
 
 <!-- External Links with Icons -->
 <p>
-  Up-to-date publications are also available on:
+  Publications are also available on
 </p>
 <p style="display: flex; gap: 1rem; flex-wrap: wrap; align-items: center; margin-top: 0.5em;">
   <a href="https://scholar.google.fr/citations?user=X0s6r3QAAAAJ&hl=fr" target="_blank">
@@ -24,8 +23,10 @@ nav_order: 3
   <a href="https://www.researchgate.net/profile/Arthur-Clerjon" target="_blank">
     <i class="ai ai-researchgate"></i> ResearchGate
   </a>
+  <a href="https://hal.science/search/index/?q=arthur+clerjon" target="_blank">
+    <i class="ai ai-hal"></i> HAL
+  </a>
 </p>
-
 <!-- Bibsearch Feature -->
 {% include bib_search.liquid %}
 

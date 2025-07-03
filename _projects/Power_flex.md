@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Flexibility of power systems
-description: another without an image
+title: Power system flexibility
+description:
 img:
 importance: 3
-category: PhD thesis
+category: Energy
 ---
 
 Every project has a beautiful feature showcase page.

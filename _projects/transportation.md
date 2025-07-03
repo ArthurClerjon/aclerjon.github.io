@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 9
-description: another project with an image 🎉
+title: Decarbonize road transportation
+description:
 img: assets/img/6.jpg
 importance: 4
-category: fun
+category: Energy
 ---
 
 Every project has a beautiful feature showcase page.

@@ -1,8 +1,7 @@
 ---
 layout: cv
 permalink: /cv/
-nav_title: CV
-title: "Arthur Clerjon – CV académique, recherche, projets énergie et climat"
+title: CV
 description: "Parcours académique, expériences, encadrements et collaborations d’Arthur Clerjon autour des systèmes énergétiques."
 nav: true
 nav_order: 
