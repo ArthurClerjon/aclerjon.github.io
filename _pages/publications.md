@@ -1,6 +1,8 @@
 ---
 layout: page
-title: Publications
+nav_title: Publications
+title: "Publications – Arthur Clerjon – Articles scientifiques et projets"
+description: "Liste complète des publications scientifiques d’Arthur Clerjon : énergie, décarbonation, modélisation, climat."
 permalink: /publications/
 nav: true
 nav_order: 3
