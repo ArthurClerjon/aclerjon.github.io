@@ -1,12 +1,24 @@
 ---
 layout: page
-title: Decarbonize road transportation
-description:
+title: "Transport Decarbonization"
+description: "Research on decarbonizing transport, optimizing electric vehicle charging infrastructure, and battery sizing strategies."
+tags: [Transport Decarbonization, Electric Vehicles, Battery Sizing, Charging Infrastructure, Mobility]
+status: "Under construction"
 img: assets/img/6.jpg
-importance: 4
+importance: 4 
 category: Energy
 ---
 
+
+*This page is under construction.*
+
+My research in **transport decarbonization** focuses on electrifying mobility by optimizing electric vehicle battery sizing and charging infrastructure.  
+
+Together with **P. Azaïs** and **F. Perdu***, I supervise the doctoral research of **Héloïse Parmentier (2023-2026)**, aiming to reduce both economic and environmental impacts of electric vehicle infrastructure.
+
+Additionally, I analyzed regional impacts of renewable integration strategies to minimize the use of dispatchable power sources, directly contributing to the efficiency of electric mobility systems.
+
+---
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
 Make your photos 1/3, 2/3, or full width.

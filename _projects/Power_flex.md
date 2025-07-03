@@ -1,10 +1,35 @@
 ---
 layout: page
-title: Power system flexibility
-description:
+title: "Energy System Flexibility"
+description: "Optimization of energy system flexibility with storage solutions, renewable energy integration, and innovative techno-economic models."
+tags: [Energy Flexibility, Renewable Energy, Electricity Storage, ESOI, Optimization]
+status: "Under construction"
 img:
-importance: 3
+importance: 2
 category: Energy
+---
+
+*This page is under construction.*
+
+My research addresses **energy system flexibility** challenges posed by the intermittent nature of renewable energies (solar, wind). It employs advanced optimization methodologies and techno-economic modeling, using tools such as wavelet decomposition and Energy Stored On Invested (**ESOI**).
+
+The developed models help to understand optimal combinations of storage technologies (e.g., Li-ion batteries, hydrogen, pumped hydro storage) to effectively match renewable energy supply with demand, considering regional climates and electricity demand patterns.
+
+### Selected Publications
+
+- **Clerjon, A.**, Perdu, F. (2022).  
+[**Matching intermittent electricity supply and demand with electricity storage – An optimization based on a time scale analysis**](https://doi.org/10.1016/j.energy.2021.122799). *Energy*, Vol. 241.
+
+- **Clerjon, A.**, Perdu, F. (2019).  
+[**Matching intermittency and electricity storage characteristics through time scale analysis: an energy return on investment comparison**](https://doi.org/10.1039/C8EE01940A). *Energy & Environmental Science*, Vol. 12.
+
+- Duval, J., **Clerjon, A.**, Parmentier, P., Perdu, F. (2025).  
+[**Optimal deployment of wind and solar electricity considering regional climates and demand patterns to minimize dispatchable supply**](https://cea.hal.science/cea-05141769). ECOS2025 Conference Proceedings, Paris.
+
+- **Clerjon, A.** (2021).  
+[**Analysis and modeling of the impacts of intermittent renewable energies on the French electricity system**](https://theses.hal.science/tel-03230033). PhD Thesis, Université Grenoble Alpes.
+
+
 ---
 
 Every project has a beautiful feature showcase page.
