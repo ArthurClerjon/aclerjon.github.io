@@ -1,12 +1,25 @@
 ---
 layout: page
 title: Les usages de l'énergie en France
-description: Analyse du système énergétique français et leviers de décarbonation
-img: assets/img/Sankey/Itese_Sankey_Gradient.png
+description: Analyse du système énergétique français, des dépendances aux énergies fossiles, et des principaux leviers technologiques et comportementaux de décarbonation.
+img: /assets/img/Sankey/Itese_Sankey_Gradient.png
 importance: 1
 category: Energy uses
 related_publications: true
+
+# SEO & Social
+canonical_url: https://arthurclerjon.github.io/energie-france
+image: /assets/img/Sankey/Itese_Sankey_Gradient.png
+author: Arthur Clerjon
+
+# Open Graph
+og_title: "Les usages de l'énergie en France"
+og_description: "Un panorama visuel et analytique du système énergétique français, illustré par des diagrammes de Sankey et une étude des solutions de décarbonation."
+og_image: /assets/img/Sankey/Itese_Sankey_Gradient.png
+og_url: https://arthurclerjon.github.io/energie-france
+og_type: article
 ---
+
 
 
 <div class="alert alert-warning text-center">
@@ -489,7 +502,7 @@ Le transport et les usages du résidentiel-tertiaire sont les deux secteurs les 
   <a href="https://www.notre-environnement.gouv.fr/themes/climat/les-emissions-de-gaz-a-effet-de-serre-et-l-empreinte-carbone-ressources/article/les-emissions-de-gaz-a-effet-de-serre-du-secteur-des-transports#:~:text=En%202019%2c%20le%20transport%20est%2crepr%C3%A9sentait%2022%20%25%20du%20total%20national." 
      target="_blank" 
      style="font-style: italic;">
-    30% des émissions de GES sur territoire
+    30% des émissions de GES sur le territoire
   </a>.
 </p>
 
