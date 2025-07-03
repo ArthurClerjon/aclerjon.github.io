@@ -94,97 +94,90 @@ Cet article n’a pas vocation à décrire une marche à suivre pour décarboner
 Les données énergétiques utilisées pour la réalisation de ce graphique proviennent de l’agrégation de rapports du (SDES) pour l’année 2019, avant la crise sanitaire. Le cadre méthodologique est identique à celui choisi par ces rapports, à l'exception du transport international (aérien et maritime) qui a été ajouté. Les données d'émissions de CO2 proviennent quant à elles du <a href="https://bilans-ges.ademe.fr/" target="_blank">centre de ressources Base Carbone de l’ADEME</a>.
 
 ---
-<div id="sommaire">
-  <h2>Sommaire</h2>
+<!-- Sommaire -->
+<div id="sommaire" style="background-color: #f5faff; border: 1px solid #cce0f5; border-left: 4px solid #0d3b66; padding: 1.5rem; margin: 2rem 0; box-shadow: 0 2px 6px rgba(0,0,0,0.05);">
+  <h2 style="color: #0d3b66; font-weight: bold;">Sommaire</h2>
 
-  <div class="row mb-4" style="align-items: center;">
+  <!-- Titre principal 1 -->
+  <h4 style="margin-top: 1.5rem; color: #0d3b66;">1. Le point sur l'utilisation des ressources énergétiques en France</h4>
+
+  <div class="row">
     <div class="col-md-2 text-center">
       <a href="#section-1a">
-        <img src="/assets/img/Sankey/Itese_Visual_1.png" class="img-thumbnail" style="max-width: 120px; object-fit: cover; object-position: center; clip-path: inset(0 10%);">
+        <img src="/assets/img/Sankey/Itese_Visual_1.png" alt="Diagramme principal" class="img-thumbnail" style="width: 90px; object-fit: cover; object-position: center;">
       </a>
     </div>
-    <div class="col-md-10">
-      <a href="#section-1a" style="text-decoration: none; color: inherit;">
-        <h5>➤ 1.a – Présentation du diagramme principal</h5>
-      </a>
+    <div class="col-md-10 d-flex align-items-center">
+      <a href="#section-1a" style="text-decoration: none;">1.a – Présentation du diagramme principal <span style="margin-left: 0.5rem;">➤</span></a>
     </div>
   </div>
 
-  <div class="row mb-4" style="align-items: center;">
+  <div class="row mt-2">
     <div class="col-md-2 text-center">
       <a href="#section-1b">
-        <img src="/assets/img/Sankey/Itese_Visual_2.png" class="img-thumbnail" style="max-width: 120px; object-fit: cover; object-position: center; clip-path: inset(0 10%);">
+        <img src="/assets/img/Sankey/Itese_Visual_2.png" alt="Répartition par source" class="img-thumbnail" style="width: 90px; object-fit: cover; object-position: center;">
       </a>
     </div>
-    <div class="col-md-10">
-      <a href="#section-1b" style="text-decoration: none; color: inherit;">
-        <h5>➤ 1.b – Un système qui repose majoritairement sur les fossiles</h5>
-      </a>
+    <div class="col-md-10 d-flex align-items-center">
+      <a href="#section-1b" style="text-decoration: none;">1.b – Un système qui repose majoritairement sur les fossiles <span style="margin-left: 0.5rem;">➤</span></a>
     </div>
   </div>
 
-  <div class="row mb-4" style="align-items: center;">
+  <div class="row mt-2">
     <div class="col-md-2 text-center">
       <a href="#section-1c">
-        <img src="/assets/img/Sankey/Itese_Visual_3.png" class="img-thumbnail" style="max-width: 120px; object-fit: cover; object-position: center; clip-path: inset(0 10%);">
+        <img src="/assets/img/Sankey/Itese_Visual_3.png" alt="Répartition par secteur" class="img-thumbnail" style="width: 90px; object-fit: cover; object-position: center;">
       </a>
     </div>
-    <div class="col-md-10">
-      <a href="#section-1c" style="text-decoration: none; color: inherit;">
-        <h5>➤ 1.c – Une répartition inégale des énergies fossiles entre les secteurs</h5>
-      </a>
+    <div class="col-md-10 d-flex align-items-center">
+      <a href="#section-1c" style="text-decoration: none;">1.c – Répartition inégale des énergies fossiles entre les secteurs <span style="margin-left: 0.5rem;">➤</span></a>
     </div>
   </div>
 
-  <div class="row mb-4" style="align-items: center;">
+  <!-- Titre principal 2 -->
+  <h4 style="margin-top: 2rem; color: #0d3b66;">2. Quelles alternatives pour décarboner ?</h4>
+
+  <div class="row mt-2">
     <div class="col-md-2 text-center">
       <a href="#section-2a">
-        <img src="/assets/img/Sankey/Itese_Visual_5a.png" class="img-thumbnail" style="max-width: 120px; object-fit: cover; object-position: center; clip-path: inset(0 10%);">
+        <img src="/assets/img/Sankey/Itese_Visual_5a.png" alt="PAC 50%" class="img-thumbnail" style="width: 90px; object-fit: cover; object-position: center;">
       </a>
     </div>
-    <div class="col-md-10">
-      <a href="#section-2a" style="text-decoration: none; color: inherit;">
-        <h5>➤ 2.a – Le fort potentiel des pompes à chaleur</h5>
-      </a>
+    <div class="col-md-10 d-flex align-items-center">
+      <a href="#section-2a" style="text-decoration: none;">2.a – Le fort potentiel des pompes à chaleur <span style="margin-left: 0.5rem;">➤</span></a>
     </div>
   </div>
 
-  <div class="row mb-4" style="align-items: center;">
+  <div class="row mt-2">
     <div class="col-md-2 text-center">
       <a href="#section-2b">
-        <img src="/assets/img/Sankey/Itese_Visual_6.png" class="img-thumbnail" style="max-width: 120px; object-fit: cover; object-position: center; clip-path: inset(0 10%);">
+        <img src="/assets/img/Sankey/Itese_Visual_6.png" alt="VE" class="img-thumbnail" style="width: 90px; object-fit: cover; object-position: center;">
       </a>
     </div>
-    <div class="col-md-10">
-      <a href="#section-2b" style="text-decoration: none; color: inherit;">
-        <h5>➤ 2.b – Quel potentiel pour les véhicules électriques ?</h5>
-      </a>
+    <div class="col-md-10 d-flex align-items-center">
+      <a href="#section-2b" style="text-decoration: none;">2.b – Potentiel des véhicules électriques <span style="margin-left: 0.5rem;">➤</span></a>
     </div>
   </div>
 
-  <div class="row mb-4" style="align-items: center;">
+  <div class="row mt-2">
     <div class="col-md-2 text-center">
       <a href="#section-2c">
-        <img src="/assets/img/Sankey/Itese_Visual_7a.png" class="img-thumbnail" style="max-width: 120px; object-fit: cover; object-position: center; clip-path: inset(0 10%);">
+        <img src="/assets/img/Sankey/Itese_Visual_7a.png" alt="Synthèse technologique" class="img-thumbnail" style="width: 90px; object-fit: cover; object-position: center;">
       </a>
     </div>
-    <div class="col-md-10">
-      <a href="#section-2c" style="text-decoration: none; color: inherit;">
-        <h5>➤ 2.c – Effet global de ces scénarios de développement technologique</h5>
-      </a>
+    <div class="col-md-10 d-flex align-items-center">
+      <a href="#section-2c" style="text-decoration: none;">2.c – Effet global des scénarios technologiques <span style="margin-left: 0.5rem;">➤</span></a>
     </div>
   </div>
 
-  <div class="row mb-4" style="align-items: center;">
+  <div class="row mt-2">
     <div class="col-md-2 text-center">
       <a href="#section-2d">
-        <img src="/assets/img/Sankey/Itese_Equation.png" class="img-thumbnail" style="max-width: 120px; object-fit: cover; object-position: center; clip-path: inset(0 10%);">
+        <img src="/assets/img/Sankey/Itese_Equation.png" alt="Autres leviers" class="img-thumbnail" style="width: 90px; object-fit: cover; object-position: center;">
       </a>
     </div>
-    <div class="col-md-10">
-      <a href="#section-2d" style="text-decoration: none; color: inherit;">
-        <h5>➤ 2.d – Quels leviers supplémentaires pour décarboner la consommation d'énergie ?</h5>
-      </a>
+    <div class="col-md-10 d-flex align-items-center">
+      <a href="#section-2d" style="text-decoration: none;">2.d – Autres leviers pour décarboner <span style="margin-left: 0.5rem;">➤</span></a>
     </div>
   </div>
 </div>
@@ -336,10 +329,10 @@ Près de 65% de l'énergie finale consommée en France est d'origine fossile.
 
 ---
 
-<div style="background-color: #eef4f7; border-left: 4px solid #0d3b66; padding: 1rem; margin-top: 2rem;">
-  <h3>1.c - Une répartition inégale des énergies fossiles entre les secteurs</h3>
+<!-- Section 1c -->
+<div id="section-1c" style="background-color: #eef4f7; border-left: 4px solid #0d3b66; padding: 1rem; margin-top: 2rem;">
+  <h3>1.c – Une répartition inégale des énergies fossiles entre les secteurs <a href="#sommaire" title="Retour au sommaire" style="font-size: 1rem; margin-left: 1rem;">▲</a></h3>
 </div>
-
 
 
 Demandons-nous maintenant quels sont les postes de consommation de cette énergie finale ? Quels sont les secteurs aujourd’hui les plus demandeurs en énergie fossile ? C’est ce que révèle l’analyse de la partie droite de notre diagramme de Sankey, qui montre la répartition de l’approvisionnement énergétique des différents secteurs de l’économie, organisée comme suit :
@@ -388,13 +381,12 @@ Le transport et les usages du résidentiel-tertiaire sont les deux secteurs les 
 <hr style="width: 80px; border: 3px solid #117a8b; margin-left: auto; margin-bottom: 2rem;">
 
 
-<!-- Section 2.a -->
+
+<!-- Section 2a -->
 <div id="section-2a" style="background-color: #eef4f7; border-left: 4px solid #0d3b66; padding: 1rem; margin-top: 2rem;">
-  <h3>
-    2.a – Le fort potentiel des pompes à chaleur
-    <a href="#sommaire" title="Retour au sommaire" style="font-size: 0.8rem; margin-left: 1rem;">🔝</a>
-  </h3>
+  <h3>2.a – Le fort potentiel des pompes à chaleur <a href="#sommaire" title="Retour au sommaire" style="font-size: 1rem; margin-left: 1rem;">▲</a></h3>
 </div>
+
 
 <p style="font-style: italic; font-size: 1.05rem; text-align: justify;">
   La baisse de consommation des énergies fossiles passera – en partie – par le report vers les vecteurs 
@@ -483,9 +475,12 @@ Le transport et les usages du résidentiel-tertiaire sont les deux secteurs les 
 </ol>
 
 ---
-<div style="background-color: #eef4f7; border-left: 4px solid #0d3b66; padding: 1rem; margin-top: 2rem;">
-  <h3>2.b - Décarboner le transport routier : quel potentiel pour les véhicules électriques ?</h3>
+
+<!-- Section 2b -->
+<div id="section-2b" style="background-color: #eef4f7; border-left: 4px solid #0d3b66; padding: 1rem; margin-top: 2rem;">
+  <h3>2.b – Quel potentiel pour les véhicules électriques ? <a href="#sommaire" title="Retour au sommaire" style="font-size: 1rem; margin-left: 1rem;">▲</a></h3>
 </div>
+
 
 <p style="font-style: italic; font-size: 1.05rem; text-align: justify;">
   Pour illustrer le potentiel de report vers les vecteurs 'bas-carbone', nous avons traité dans le paragraphe précédent l'exemple du chauffage du résidentiel et du tertiaire. 
@@ -557,9 +552,11 @@ Le transport et les usages du résidentiel-tertiaire sont les deux secteurs les 
 
 ---
 
-<div style="background-color: #eef4f7; border-left: 4px solid #0d3b66; padding: 1rem; margin-top: 2rem;">
-  <h3>2.c - Bilan : effet global de ces scénarios de développement technologique</h3>
+<!-- Section 2c -->
+<div id="section-2c" style="background-color: #eef4f7; border-left: 4px solid #0d3b66; padding: 1rem; margin-top: 2rem;">
+  <h3>2.c – Effet global de ces scénarios de développement technologique <a href="#sommaire" title="Retour au sommaire" style="font-size: 1rem; margin-left: 1rem;">▲</a></h3>
 </div>
+
 
 Évaluons maintenant l’effet cumulé que pourrait avoir le déploiement de ces deux  technologies – pompes à chaleur et véhicules électriques – sur la consommation globale d’énergie finale (hors transport international et consommations à usages non-énergétiques). Les résultats sont présentés sur la figure ci-dessous. Rappelons toutefois qu’il ne s’agit là que de scénarios d’électrification choisis arbitrairement et non pas de potentiels maximum.
 
@@ -579,8 +576,9 @@ L'accès à l’ensemble de ce potentiel est bien entendu soumis à de fortes in
 
 ---
 
-<div style="background-color: #eef4f7; border-left: 4px solid #0d3b66; padding: 1rem; margin-top: 2rem;">
-  <h3>2.d - Quels leviers supplémentaires pour décarboner la consommation d'énergie ?</h3>
+<!-- Section 2d -->
+<div id="section-2d" style="background-color: #eef4f7; border-left: 4px solid #0d3b66; padding: 1rem; margin-top: 2rem;">
+  <h3>2.d – Quels leviers supplémentaires pour décarboner la consommation d'énergie ? <a href="#sommaire" title="Retour au sommaire" style="font-size: 1rem; margin-left: 1rem;">▲</a></h3>
 </div>
 
 <p>
