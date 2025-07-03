@@ -9,16 +9,16 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-cv",
-          title: "CV",
+  },{id: "nav-arthur-clerjon-cv-académique-recherche-projets-énergie-et-climat",
+          title: "Arthur Clerjon – CV académique, recherche, projets énergie et climat",
           description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "nav-publications",
-          title: "Publications",
-          description: "",
+        },{id: "nav-publications-arthur-clerjon-articles-scientifiques-et-projets",
+          title: "Publications – Arthur Clerjon – Articles scientifiques et projets",
+          description: "Liste complète des publications scientifiques d’Arthur Clerjon : énergie, décarbonation, modélisation, climat.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
@@ -133,9 +133,9 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
-            },},{id: "projects-les-usages-de-l-39-énergie-en-france",
-          title: 'Les usages de l&amp;#39;énergie en France',
-          description: "Analyse du système énergétique français, des dépendances aux énergies fossiles, et des principaux leviers technologiques et comportementaux de décarbonation.",
+            },},{id: "projects-les-usages-de-l-énergie-en-france-analyse-et-leviers-de-décarbonation",
+          title: 'Les usages de l’énergie en France – Analyse et leviers de décarbonation',
+          description: "Panorama illustré de l’énergie finale en France, avec focus sur les transports, le chauffage et les solutions bas carbone.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/energie_france/";
             },},{
