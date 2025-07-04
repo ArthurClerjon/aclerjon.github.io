@@ -23,24 +23,26 @@ latest_posts:
 ---
 
 <!-- Hidden h1 for SEO -->
-<h1 style="display:none;">Arthur Clerjon – Researcher in Energy Systems Modeling, Climate Policy, Decarbonation in France</h1>
+<h1 style="display:none;">Arthur Clerjon – Researcher in Energy Systems Modeling, Decarbonation of power systems</h1>
 
-I am a permanent researcher at the [CEA](https://www.cea.fr/) in Grenoble, France, working on the design and evaluation of energy systems compatible with climate neutrality targets.
+I am a **permanent research scientist** at [**CEA Grenoble**](https://www.cea.fr/english/Pages/energy/energy.aspx), working at the intersection of **engineering**, **economics**, and **environmental science**. My research focuses on assessing the **feasibility**, **carbon impact**, and **economic performance** of **low-carbon energy systems**.
 
-My work lies at the intersection of engineering, economics, and environmental science. It focuses on the **feasibility**, **carbon impact**, and **economic performance** of low-carbon energy systems, particularly in the context of **France's climate goals**.
+With a background in **physics** ([**ENS Cachan**](https://ens-paris-saclay.fr/)) and a **PhD in energy systems modeling** from [**CEA-Liten**](https://liten.cea.fr/cea-tech/liten/Pages/en/Welcome.aspx), I specialize in analyzing **system flexibility**—how **power grids** can remain balanced as we scale up **intermittent renewables** and **electrify** key sectors such as **heating** and **transport**.
 
-With a background in physics and a PhD in energy systems modeling, I specialize in the analysis of **system flexibility**—how power grids can stay balanced as we shift toward **intermittent renewable sources** and electrify sectors like **heating** and **transport**.
+I am currently developing **integrated approaches** to energy planning that combine **optimization models**, **participatory scenario building**, and **dynamic system modeling**. This work is part of the [**EQUALS – Global Equitable Allocation of Renewable Energy Sources**](/equals) project, which explores how to **fairly** and **efficiently** deploy low-carbon technologies across diverse territories.
 
-### What I work on
+My goal is to understand and model **trade-offs** between **technologies**, **resource availability**, and **local needs**, in order to help design **realistic** and **context-sensitive energy transitions**.
 
-- Reducing emissions from **[heating systems](/heat-decarbonization)** (~30% of national GHG emissions).  
-- Supporting the electrification of **[road transport](/transport-decarbonization)** (~15%).  
-- Modeling the **[flexibility needs of electric power systems](/energy-system-flexibility)**.  
+I am also deeply committed to **knowledge sharing**—through [**teaching**](https://www.ense3.grenoble-inp.fr/), **research supervision**, and **public engagement**—and to advancing **open science** practices via the [**OpenMod initiative**](https://openmod-initiative.org/).
 
-I am particularly eager to carry out **interdisciplinary research** to understand how technical solutions can be effectively and equitably deployed in the real world. This approach is at the heart of my current project: **[EQUALS – Global Equitable Allocation of Renewable Energy Sources](/equals)**.
+## What I work on
+
+- Reducing emissions from **[heating systems](/projects/heat-decarbonization)** (~30% of national GHG emissions)  
+- Supporting the electrification of **[road transport](/projects/transport-decarbonization)** (~15%)  
+- Modeling the **[flexibility needs of electric power systems](/projects/energy-system-flexibility)**
+
+I am particularly eager to carry out **interdisciplinary research** to understand how **technical solutions** can be effectively and **equitably deployed** in the real world. This approach is at the heart of my current project: **[EQUALS – Global Equitable Allocation of Renewable Energy Sources](/equals)**.
 
 ---
 
-This website presents my [research projects](/projects/), [publications](/publications/), and accessible summaries of recent work.
-
-If you’d like to know more, I’m always happy to discuss and present my research—feel free to reach out: **arthur.clerjon *at* cea.fr**
+This website presents my [**research projects**](/projects/), [**publications**](/publications/), and **accessible summaries** of recent work.
