@@ -6,7 +6,7 @@ tags: [Transport Decarbonization, Electric Vehicles, Battery Sizing, Charging In
 status: "Under construction"
 img: assets/img/6.jpg
 importance: 4 
-category: Energy
+category: Research themes
 ---
 
 

@@ -6,7 +6,7 @@ tags: [Heat Decarbonization, District Heating, Thermal Storage, Energy Systems, 
 status: "Under construction"
 img: assets/img/3.jpg
 importance: 3
-category: Energy
+category: Research themes
 giscus_comments: true
 ---
 

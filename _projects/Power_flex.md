@@ -6,7 +6,7 @@ tags: [Energy Flexibility, Renewable Energy, Electricity Storage, ESOI, Optimiza
 status: "Under construction"
 img:
 importance: 2
-category: Energy
+category: Research themes
 ---
 
 *This page is under construction.*
