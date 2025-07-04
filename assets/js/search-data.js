@@ -118,8 +118,8 @@ ninja.data = [{
           description: "Equitable Allocation of Low-carbon Electricity Sources in a Changing and Resource-limited World",
           section: "Projects",handler: () => {
               window.location.href = "/projects/EQUALS/";
-            },},{id: "projects-energy-system-flexibility",
-          title: 'Energy System Flexibility',
+            },},{id: "projects-power-system-flexibility",
+          title: 'Power System Flexibility',
           description: "Optimization of energy system flexibility with storage solutions, renewable energy integration, and innovative techno-economic models.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Power_flex/";
