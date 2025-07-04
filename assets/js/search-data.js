@@ -117,12 +117,12 @@ ninja.data = [{
           title: 'EQUALS',
           description: "Equitable Allocation of Low-carbon Electricity Sources in a Changing and Resource-limited World",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/EQUALS/";
+              window.location.href = "/projects/equals";
             },},{id: "projects-power-system-flexibility",
           title: 'Power System Flexibility',
           description: "Optimization of energy system flexibility with storage solutions, renewable energy integration, and innovative techno-economic models.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/Power_flex/";
+              window.location.href = "/projects/energy-system-flexibility";
             },},{id: "projects-les-usages-de-l-énergie-en-france-analyse-et-leviers-de-décarbonation",
           title: 'Les usages de l’énergie en France – Analyse et leviers de décarbonation',
           description: "Panorama illustré de l’énergie finale en France, avec focus sur les transports, le chauffage et les solutions bas carbone.",
@@ -132,12 +132,12 @@ ninja.data = [{
           title: 'Heat Decarbonization',
           description: "My research on heat decarbonization focusing on integrating low-carbon technologies into energy systems and district heating.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/heat_decarbonatoin/";
+              window.location.href = "/projects/heat-decarbonization";
             },},{id: "projects-transport-decarbonization",
           title: 'Transport Decarbonization',
           description: "Research on decarbonizing transport, optimizing electric vehicle charging infrastructure, and battery sizing strategies.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/transportation/";
+              window.location.href = "/projects/transport-decarbonization";
             },},{
         id: 'social-email',
         title: 'email',
