@@ -13,7 +13,7 @@ giscus_comments: true
 
 ## Project Summary
 
-The **EQUALS** project ("Equitable Allocation of Low-carbon Electricity Sources in a Changing and Resource-limited World") addresses a central challenge of the global energy transition: how to deploy renewable electricity systems that are technically robust, environmentally sustainable, and socially equitable across regions. The project is funded by the ANR JCJC program (2025–2029) and coordinated by Arthur Clerjon (CEA I-Tésé).
+The **EQUALS** project (**Equitable Allocation of Low-carbon Electricity Sources in a Changing and Resource-limited World**) addresses a central challenge of the global energy transition: how to deploy renewable electricity systems that are technically robust, environmentally sustainable, and socially equitable across regions. The project is funded by the ANR JCJC program (2025–2029) and coordinated by Arthur Clerjon (CEA I-Tésé).
 
 The transition away from fossil-based energy systems cannot rely solely on replicating dispatchable capacity with solar or wind. These variable renewable energy sources (VRES) are inherently dependent on local climatic conditions and vary significantly in availability and efficiency across regions and seasons. In parallel, electricity demand patterns vary widely depending on economic structure, lifestyle, and climatic constraints. 
 
@@ -28,10 +28,10 @@ The project combines energy modeling, climate analysis, geospatial constraints, 
 
 EQUALS builds directly on Arthur Clerjon’s doctoral and postdoctoral work on renewable integration and storage optimization:
 
-- [@clerjon_phd_2021] — analysis of electricity system response to large-scale VRES integration in France.
-- [@clerjon_eroi_2019] — time-scale decomposition of VRES variability and comparative ESOI of storage technologies.
-- [@clerjon_matching_2022] — linear optimization of storage and curtailment strategies across fluctuating demand signals.
-- [@duval:cea-05141769] — doctoral research quantifying optimal wind/PV deployment strategies considering regional demand and climate compatibility.
+- [Clerjon (2021) – PhD Thesis](https://theses.fr/s343655): analysis of electricity system response to large-scale VRES integration in France.
+- [Clerjon & Perdu (2019) – *Energy & Environmental Science*](https://doi.org/10.1039/C8EE01940A): time-scale decomposition of VRES variability and comparative ESOI of storage technologies.
+- [Clerjon & Perdu (2022) – *Energy*](https://doi.org/10.1016/j.energy.2021.122799): linear optimization of storage and curtailment strategies across fluctuating demand signals.
+- [Duval et al. (2025) – ECOS Conference Paper](https://cea.hal.science/cea-05141769): doctoral research quantifying optimal wind/PV deployment strategies considering regional demand and climate compatibility.
 
 These works establish the conceptual and methodological core of EQUALS. Further contributions are expected through ongoing collaborations and doctoral supervision.
 
@@ -39,13 +39,6 @@ These works establish the conceptual and methodological core of EQUALS. Further 
 
 The project is led by Arthur Clerjon (CEA I-Tésé), with contributions from Olivier Vidal (ISTerre, CNRS), Emmanuelle Santoire (LATTS, CNRS), François-Marie Bréon (CEA LSCE), Fabien Perdu and Pimprenelle Parmentier (CEA Liten), and PhD candidate Justine Duval.
 
-## Ongoing Research Roles
-
-- PhD: Justine Duval (2024–2027, CEA Liten)
-- Postdoctoral researcher (18 months, recruitment ongoing)
-- New PhD start in 2025 (CEA/ISTerre)
-- Master's internship in geography (LATTS, 2025)
-- Short internship for platform/interface prototyping
 
 ## Related Pages
 
