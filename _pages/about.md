@@ -33,11 +33,14 @@ With a background in physics and a PhD in energy systems modeling, I specialize 
 
 ### What I work on
 
-- Reducing emissions from **heating systems** (~30% of national GHG emissions)  
-- Supporting the electrification of **road transport** (~15%)  
-- Modeling the flexibility needs of **electric power systems**  
-- Exploring trade-offs between **efficiency**, **cost**, and **decarbonation pathways**  
+- Reducing emissions from **[heating systems](/heat-decarbonization)** (~30% of national GHG emissions).  
+- Supporting the electrification of **[road transport](/transport-decarbonization)** (~15%).  
+- Modeling the **[flexibility needs of electric power systems](/energy-system-flexibility)**.  
+
+I am particularly eager to carry out **interdisciplinary research** to understand how technical solutions can be effectively and equitably deployed in the real world. This approach is at the heart of my current project: **[EQUALS – Global Equitable Allocation of Renewable Energy Sources](/equals)**.
+
+---
 
 This website presents my [research projects](/projects/), [publications](/publications/), and accessible summaries of recent work.
 
-If you’d like to know more, I amlways very happy to discuss and present my research projects ! feel free to reach me out : **arthur.clerjon *at* cea.fr**  
+If you’d like to know more, I’m always happy to discuss and present my research—feel free to reach out: **arthur.clerjon *at* cea.fr**
