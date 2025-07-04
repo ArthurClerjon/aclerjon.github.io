@@ -13,7 +13,7 @@ giscus_comments: true
 
 ## Project Summary
 
-The **EQUALS** project (**Equitable Allocation of Low-carbon Electricity Sources in a Changing and Resource-limited World**) addresses a central challenge of the global energy transition: how to deploy renewable electricity systems that are technically robust, environmentally sustainable, and socially equitable across regions. The project is funded by the ANR JCJC program (2025–2029) and coordinated by Arthur Clerjon (CEA I-Tésé).
+The **EQUALS** project (**Equitable Allocation of Low-carbon Electricity Sources in a Changing and Resource-limited World**) addresses a central challenge of the global energy transition: how to deploy renewable electricity systems that are technically robust, environmentally sustainable, and socially equitable across regions. The project is funded by the ANR JCJC program (2025–2029) and coordinated by Arthur Clerjon.
 
 The transition away from fossil-based energy systems cannot rely solely on replicating dispatchable capacity with solar or wind. These variable renewable energy sources (VRES) are inherently dependent on local climatic conditions and vary significantly in availability and efficiency across regions and seasons. In parallel, electricity demand patterns vary widely depending on economic structure, lifestyle, and climatic constraints. 
 
