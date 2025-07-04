@@ -23,6 +23,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
+        },{id: "nav-projects",
+          title: "Projects",
+          description: "A growing collection of your cool projects.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/projects/";
+          },
         },{id: "nav-teaching",
           title: "Teaching",
           description: "This page is currently under construction.",
@@ -108,7 +115,7 @@ ninja.data = [{
               window.location.href = "/projects/7_project/";
             },},{id: "projects-equals",
           title: 'EQUALS',
-          description: "an other project with a background image and giscus comments",
+          description: "Equitable Allocation of Low-carbon Electricity Sources in a Changing and Resource-limited World",
           section: "Projects",handler: () => {
               window.location.href = "/projects/EQUALS/";
             },},{id: "projects-energy-system-flexibility",
