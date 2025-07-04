@@ -113,11 +113,11 @@ ninja.data = [{
           description: "with background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project/";
-            },},{id: "projects-project-8",
-          title: 'project 8',
+            },},{id: "projects-equals",
+          title: 'EQUALS',
           description: "an other project with a background image and giscus comments",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/8_project/";
+              window.location.href = "/projects/EQUALS/";
             },},{id: "projects-energy-system-flexibility",
           title: 'Energy System Flexibility',
           description: "Optimization of energy system flexibility with storage solutions, renewable energy integration, and innovative techno-economic models.",
