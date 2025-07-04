@@ -1,75 +1,65 @@
 ---
 layout: page
-title: EQUALS
-description: "Equitable Allocation of Low-carbon Electricity Sources in a Changing and Resource-limited World"
-img: assets/img/9.jpg
-importance: 2
-category: Funded projects
-giscus_comments: true
+title: Projects
+permalink: /projects/
+description: A growing collection of your cool projects.
+nav: true
+nav_order: 4
+display_categories: [General public science, Research themes, Funded projects]
+horizontal: false
 ---
 
-*This page is under development and will be regularly updated with further details and results.*
+<!-- pages/projects.md -->
+<div class="projects">
+{% if site.enable_project_categories and page.display_categories %}
+  <!-- Display categorized projects -->
+  {% for category in page.display_categories %}
+  <a id="{{ category }}" href=".#{{ category }}">
+    <h2 class="category">{{ category }}</h2>
+  </a>
+  {% assign categorized_projects = site.projects | where: "category", category %}
+  {% assign sorted_projects = categorized_projects | sort: "importance" %}
+  <!-- Generate cards for each project -->
+  {% if page.horizontal %}
+  <div class="container">
+    <div class="row row-cols-1 row-cols-md-2">
+    {% for project in sorted_projects %}
+      {% include projects_horizontal.liquid %}
+    {% endfor %}
+    </div>
+  </div>
+  {% else %}
+  <div class="row row-cols-1 row-cols-md-3">
+    {% for project in sorted_projects %}
+      {% include projects.liquid %}
+    {% endfor %}
+  </div>
+  {% endif %}
+  {% endfor %}
 
-## Project Summary
+{% else %}
 
-The **EQUALS** project ("Equitable Allocation of Low-carbon Electricity Sources in a Changing and Resource-limited World") addresses a central challenge of the global energy transition: how to deploy renewable electricity systems that are technically robust, environmentally sustainable, and socially equitable across regions. The project is funded by the ANR JCJC program (2025–2029) and coordinated by Arthur Clerjon (CEA I-Tésé).
+<!-- Display projects without categories -->
 
-The transition away from fossil-based energy systems cannot rely solely on replicating dispatchable capacity with solar or wind. These variable renewable energy sources (VRES) are inherently dependent on local climatic conditions and vary significantly in availability and efficiency across regions and seasons. In parallel, electricity demand patterns vary widely depending on economic structure, lifestyle, and climatic constraints. 
+{% assign sorted_projects = site.projects | sort: "importance" %}
 
-**EQUALS seeks to:**
-- Identify where and how low-carbon electricity supply can meet regional electricity demand.
-- Integrate constraints from planetary boundaries, material availability, and environmental compatibility.
-- Design deployment pathways that respect regional equity and global sustainability.
+  <!-- Generate cards for each project -->
 
-The project combines energy modeling, climate analysis, geospatial constraints, and interdisciplinary methods to inform decision-making under global constraints.
+{% if page.horizontal %}
 
-## Scientific Foundations
-
-EQUALS builds directly on Arthur Clerjon’s doctoral and postdoctoral work on renewable integration and storage optimization:
-
-- [@clerjon_phd_2021] — analysis of electricity system response to large-scale VRES integration in France.
-- [@clerjon_eroi_2019] — time-scale decomposition of VRES variability and comparative ESOI of storage technologies.
-- [@clerjon_matching_2022] — linear optimization of storage and curtailment strategies across fluctuating demand signals.
-- [@duval:cea-05141769] — doctoral research quantifying optimal wind/PV deployment strategies considering regional demand and climate compatibility.
-
-These works establish the conceptual and methodological core of EQUALS. Further contributions are expected through ongoing collaborations and doctoral supervision.
-
-## Project Contributors
-
-The project is led by Arthur Clerjon (CEA I-Tésé), with contributions from Olivier Vidal (ISTerre, CNRS), Emmanuelle Santoire (LATTS, CNRS), François-Marie Bréon (CEA LSCE), Fabien Perdu and Pimprenelle Parmentier (CEA Liten), and PhD candidate Justine Duval.
-
-## Ongoing Research Roles
-
-- PhD: Justine Duval (2024–2027, CEA Liten)
-- Postdoctoral researcher (18 months, recruitment ongoing)
-- New PhD start in 2025 (CEA/ISTerre)
-- Master's internship in geography (LATTS, 2025)
-- Short internship for platform/interface prototyping
-
-## Related Pages
-
-- [Energy System Flexibility →](/energy-system-flexibility)  
-  *(Research theme exploring optimization of electricity storage, renewable integration, and time-scale analysis of variability.)*
-
-## First Results
-
-Early simulations show strong spatial and seasonal variations in the viability of solar vs. wind to meet electricity demand, depending on the climatic and socioeconomic profile of each region.
-
-Illustration:  
-![Optimal global PV/Wind allocation](assets/img/world_map.png)
-
-## Downloads
-
-- [Pre-Proposal (PDF)](/downloads/AAPG2025_EQUALS_Pre-Proposal.pdf)
-- [Full Proposal (PDF)](/downloads/aapg-2025_full-proposal_arthur_clerjon_EQUALS_v24.pdf)
-- [Project Summary (PDF)](/downloads/EQUALS_Summary.pdf)
-
-## Coming Soon
-
-This page will soon include:
-
-- An interactive platform for visualizing deployment scenarios
-- Datasets and source code for reproducibility
-- New publications and methodological documents
-
-*Last updated: July 2025*
+  <div class="container">
+    <div class="row row-cols-1 row-cols-md-2">
+    {% for project in sorted_projects %}
+      {% include projects_horizontal.liquid %}
+    {% endfor %}
+    </div>
+  </div>
+  {% else %}
+  <div class="row row-cols-1 row-cols-md-3">
+    {% for project in sorted_projects %}
+      {% include projects.liquid %}
+    {% endfor %}
+  </div>
+  {% endif %}
+{% endif %}
+</div>

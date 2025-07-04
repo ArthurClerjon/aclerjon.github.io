@@ -1,81 +1,75 @@
 ---
 layout: page
 title: EQUALS
-description: an other project with a background image and giscus comments
+description: "Equitable Allocation of Low-carbon Electricity Sources in a Changing and Resource-limited World"
 img: assets/img/9.jpg
 importance: 2
 category: Funded projects
 giscus_comments: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+*This page is under development and will be regularly updated with further details and results.*
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+## Project Summary
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+The **EQUALS** project ("Equitable Allocation of Low-carbon Electricity Sources in a Changing and Resource-limited World") addresses a central challenge of the global energy transition: how to deploy renewable electricity systems that are technically robust, environmentally sustainable, and socially equitable across regions. The project is funded by the ANR JCJC program (2025–2029) and coordinated by Arthur Clerjon (CEA I-Tésé).
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+The transition away from fossil-based energy systems cannot rely solely on replicating dispatchable capacity with solar or wind. These variable renewable energy sources (VRES) are inherently dependent on local climatic conditions and vary significantly in availability and efficiency across regions and seasons. In parallel, electricity demand patterns vary widely depending on economic structure, lifestyle, and climatic constraints. 
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+**EQUALS seeks to:**
+- Identify where and how low-carbon electricity supply can meet regional electricity demand.
+- Integrate constraints from planetary boundaries, material availability, and environmental compatibility.
+- Design deployment pathways that respect regional equity and global sustainability.
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+The project combines energy modeling, climate analysis, geospatial constraints, and interdisciplinary methods to inform decision-making under global constraints.
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+## Scientific Foundations
 
-{% raw %}
+EQUALS builds directly on Arthur Clerjon’s doctoral and postdoctoral work on renewable integration and storage optimization:
 
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
+- [@clerjon_phd_2021] — analysis of electricity system response to large-scale VRES integration in France.
+- [@clerjon_eroi_2019] — time-scale decomposition of VRES variability and comparative ESOI of storage technologies.
+- [@clerjon_matching_2022] — linear optimization of storage and curtailment strategies across fluctuating demand signals.
+- [@duval:cea-05141769] — doctoral research quantifying optimal wind/PV deployment strategies considering regional demand and climate compatibility.
 
-{% endraw %}
+These works establish the conceptual and methodological core of EQUALS. Further contributions are expected through ongoing collaborations and doctoral supervision.
+
+## Project Contributors
+
+The project is led by Arthur Clerjon (CEA I-Tésé), with contributions from Olivier Vidal (ISTerre, CNRS), Emmanuelle Santoire (LATTS, CNRS), François-Marie Bréon (CEA LSCE), Fabien Perdu and Pimprenelle Parmentier (CEA Liten), and PhD candidate Justine Duval.
+
+## Ongoing Research Roles
+
+- PhD: Justine Duval (2024–2027, CEA Liten)
+- Postdoctoral researcher (18 months, recruitment ongoing)
+- New PhD start in 2025 (CEA/ISTerre)
+- Master's internship in geography (LATTS, 2025)
+- Short internship for platform/interface prototyping
+
+## Related Pages
+
+- [Energy System Flexibility →](/energy-system-flexibility)  
+  *(Research theme exploring optimization of electricity storage, renewable integration, and time-scale analysis of variability.)*
+
+## First Results
+
+Early simulations show strong spatial and seasonal variations in the viability of solar vs. wind to meet electricity demand, depending on the climatic and socioeconomic profile of each region.
+
+Illustration:  
+![Optimal global PV/Wind allocation](assets/img/world_map.png)
+
+## Downloads
+
+- [Pre-Proposal (PDF)](/downloads/AAPG2025_EQUALS_Pre-Proposal.pdf)
+- [Full Proposal (PDF)](/downloads/aapg-2025_full-proposal_arthur_clerjon_EQUALS_v24.pdf)
+- [Project Summary (PDF)](/downloads/EQUALS_Summary.pdf)
+
+## Coming Soon
+
+This page will soon include:
+
+- An interactive platform for visualizing deployment scenarios
+- Datasets and source code for reproducibility
+- New publications and methodological documents
+
+*Last updated: July 2025*
