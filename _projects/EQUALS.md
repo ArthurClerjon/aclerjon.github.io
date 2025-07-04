@@ -48,7 +48,7 @@ The project is led by Arthur Clerjon (CEA I-Tésé), with contributions from Oli
 
 ## Related Pages
 
-- [Energy System Flexibility →](/energy-system-flexibility)  
+- [Power System Flexibility →](/power-system-flexibility)  
   *(Research theme exploring optimization of electricity storage, renewable integration, and time-scale analysis of variability.)*
 
 ## First Results
@@ -60,9 +60,17 @@ Illustration:
 
 ## Downloads
 
-- [Pre-Proposal (PDF)](/downloads/AAPG2025_EQUALS_Pre-Proposal.pdf)
-- [Full Proposal (PDF)](/downloads/aapg-2025_full-proposal_arthur_clerjon_EQUALS_v24.pdf)
-- [Project Summary (PDF)](/downloads/EQUALS_Summary.pdf)
+You can access the key documents of the EQUALS project below:
+
+- [Full Proposal (PDF)](https://nuage.gresille.org/index.php/s/9TonKDSQCjWzkZr)  
+  *(Final version submitted in March 2025)*
+
+- [Pre-Proposal (PDF)](https://nuage.gresille.org/index.php/s/cLf7toepGt8nm3g)  
+  *(Initial submission to ANR JCJC 2025 call)*
+
+- [Project Summary (PDF)](https://nuage.gresille.org/index.php/s/sioYgnqM3AHDQyD)  
+  *(2-page overview including methodology and objectives)*
+
 
 ## Coming Soon
 
