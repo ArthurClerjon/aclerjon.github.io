@@ -483,6 +483,8 @@ Le transport et les usages du résidentiel-tertiaire sont les deux secteurs les 
   </p>
 </div>
 
+<div style="display: flex; flex-direction: column; gap: 1.5rem; margin: 2rem 0;"> <div style=" background-color: #eef4f7; border-left: 6px solid #117a8b; padding: 1.2rem 1.5rem; box-shadow: 0 4px 10px rgba(17,122,139,0.2); "> <h4 style="margin-bottom: 0.6rem; color: #117a8b;">Décarbonation de la chaleur</h4> <p style="margin-bottom: 0.8rem;"> Retrouvez mes travaux de recherche consacrés à l’intégration des technologies bas-carbone pour décarboner efficacement le chauffage des secteurs résidentiel et tertiaire. </p> <a href="/heat-decarbonization" style=" color: #117a8b; font-weight: bold; text-decoration: none; border-bottom: 1px dotted #117a8b;"> Consulter le projet &rarr; </a> </div> 
+
 <hr>
 <p><strong>Notes</strong></p>
 <ol style="font-size: 0.9rem;">
@@ -560,6 +562,8 @@ Le transport et les usages du résidentiel-tertiaire sont les deux secteurs les 
   la consommation de produits pétroliers pour le transport routier diminuerait de 70 % 
   et la consommation énergétique totale diminuerait de 225 TWh.
 </blockquote>
+
+<div style=" background-color: #eef4f7; border-left: 6px solid #117a8b; padding: 1.2rem 1.5rem; box-shadow: 0 4px 10px rgba(17,122,139,0.2); "> <h4 style="margin-bottom: 0.6rem; color: #117a8b;">Décarbonation des transports</h4> <p style="margin-bottom: 0.8rem;"> Découvrez mes analyses sur l’électrification du secteur des transports, ainsi que les stratégies d’optimisation des véhicules électriques et de leur infrastructure. </p> <a href="/transport-decarbonization" style=" color: #117a8b; font-weight: bold; text-decoration: none; border-bottom: 1px dotted #117a8b;"> Consulter le projet &rarr; </a> </div> </div>
 
 <hr>
 <p><strong>Notes</strong></p>

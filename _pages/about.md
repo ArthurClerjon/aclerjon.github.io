@@ -41,4 +41,3 @@ With a background in physics and a PhD in energy systems modeling, I specialize 
 This website presents my [research projects](/projects/), [publications](/publications/), and accessible summaries of recent work.
 
 If you’d like to know more, I amlways very happy to discuss and present my research projects ! feel free to reach me out : **arthur.clerjon *at* cea.fr**  
-[Download my CV](/assets/cv/cv_arthur_clerjon.pdf)
