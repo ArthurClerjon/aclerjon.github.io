@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Power System Flexibility"
+permalink: /projects/energy-system-flexibility
 description: "Optimization of energy system flexibility with storage solutions, renewable energy integration, and innovative techno-economic models."
 tags: [Energy Flexibility, Renewable Energy, Electricity Storage, ESOI, Optimization]
 status: "Under construction"

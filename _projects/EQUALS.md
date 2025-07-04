@@ -5,6 +5,7 @@ description: "Equitable Allocation of Low-carbon Electricity Sources in a Changi
 img: assets/img/9.jpg
 importance: 2
 category: Funded projects
+permalink: /projects/equals
 giscus_comments: true
 ---
 

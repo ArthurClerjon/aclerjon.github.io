@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Heat Decarbonization"
+permalink: /projects/heat-decarbonization
 description: "My research on heat decarbonization focusing on integrating low-carbon technologies into energy systems and district heating."
 tags: [Heat Decarbonization, District Heating, Thermal Storage, Energy Systems, Flexibility]
 status: "Under construction"

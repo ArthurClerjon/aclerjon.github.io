@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Transport Decarbonization"
+permalink: /projects/transport-decarbonization
 description: "Research on decarbonizing transport, optimizing electric vehicle charging infrastructure, and battery sizing strategies."
 tags: [Transport Decarbonization, Electric Vehicles, Battery Sizing, Charging Infrastructure, Mobility]
 status: "Under construction"
