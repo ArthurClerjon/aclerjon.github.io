@@ -25,6 +25,13 @@ latest_posts:
 <!-- Hidden h1 for SEO -->
 <h1 style="display:none;">Arthur Clerjon – Researcher in Energy Systems Modeling, Decarbonation of power systems</h1>
 
+
+Welome to my peronal website!
+
+<div style="background-color: #fff3cd; color: #856404; border: 2px solid #ffeeba; padding: 10px 20px; margin: 20px 0; border-radius: 5px; font-weight: bold; text-align: center; box-shadow: 0 2px 6px rgba(0,0,0,0.1);">
+  🚧 This web page is still under construction 🚧
+</div>
+
 I am a **permanent research scientist** at [**CEA Grenoble**](https://www.cea.fr/english/Pages/energy/energy.aspx), working at the intersection of **engineering**, **economics**, and **environmental science**. My research focuses on assessing the **feasibility**, **carbon impact**, and **economic performance** of **low-carbon energy systems**.
 
 With a background in **physics** and a **PhD in energy systems modeling**, I specialize in analyzing **system flexibility**—how **power grids** can remain balanced as we scale up **intermittent renewables** and **electrify** key sectors such as **heating** and **transport**.

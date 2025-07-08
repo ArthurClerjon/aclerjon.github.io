@@ -11,7 +11,9 @@ category: Research themes
 ---
 
 
-*This page is under construction.*
+<div style="background-color: #fff3cd; color: #856404; border: 2px solid #ffeeba; padding: 10px 20px; margin: 20px 0; border-radius: 5px; font-weight: bold; text-align: center; box-shadow: 0 2px 6px rgba(0,0,0,0.1);">
+  🚧 This web page is still under construction 🚧
+</div>
 
 My research in **transport decarbonization** focuses on electrifying mobility by optimizing electric vehicle battery sizing and charging infrastructure.  
 

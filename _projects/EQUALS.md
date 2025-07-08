@@ -9,7 +9,9 @@ permalink: /projects/equals
 giscus_comments: true
 ---
 
-*This page is under development and will be regularly updated with further details and results.*
+<div style="background-color: #fff3cd; color: #856404; border: 2px solid #ffeeba; padding: 10px 20px; margin: 20px 0; border-radius: 5px; font-weight: bold; text-align: center; box-shadow: 0 2px 6px rgba(0,0,0,0.1);">
+  🚧 This web page is still under construction 🚧
+</div>
 
 ## Project Summary
 
