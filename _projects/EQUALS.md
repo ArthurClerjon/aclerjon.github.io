@@ -71,28 +71,22 @@ Finally, [**Fabien Perdu**](https://www.linkedin.com/in/fabien-perdu-7325a41a5/)
 
 ## Preliminary results
 
-EQUALS built on previous researches and embed the ongoing PhD of Justine SDuval. To illustrates
+EQUALS built on previous researches and embed the ongoing PhD thesis of Justine SDuval. To illustrate the overall mindset of this work, we present here prior results extracted from the folowing conference paper presented at the 2025 ECOS international conference: [Duval et al. (2025) – ECOS 2025 Conference Paper](https://cea.hal.science/cea-05141769)
 
+This figure (a) shows optimal wind/PV power mixes that enable to minimize the requirement to dispatchable power plants. These strategies consider regional demand and climate compatibility.
 
-- [Duval et al. (2025) – ECOS Conference Paper](https://cea.hal.science/cea-05141769): doctoral research quantifying optimal wind/PV deployment strategies considering regional demand and climate compatibility.
-Illustration:  
+Figure b shows the results distribution as a function  of the country's lattitude.
+
 ![Optimal global PV/Wind allocation](assets/img/RQUALS/PV_distribution_ECOS.png)
 
 
 ## Related Pages and references
 
-- [Power System Flexibility →](/power-system-flexibility)  
-  *(Research theme exploring optimization of electricity storage, renewable integration, and time-scale analysis of variability.)*
+
+For a better understanding of the scientific foundation and context of tghis work, you can consult this page :[Power System Flexibility →](/power-system-flexibility)  
 
   
-EQUALS builds directly on Arthur Clerjon’s doctoral and postdoctoral work on renewable integration and storage optimization:
-
-- [Clerjon (2021) – PhD Thesis](https://theses.fr/s343655): analysis of electricity system response to large-scale VRES integration in France.
-- [Clerjon & Perdu (2019) – *Energy & Environmental Science*](https://doi.org/10.1039/C8EE01940A): time-scale decomposition of VRES variability and comparative ESOI of storage technologies.
-- [Clerjon & Perdu (2022) – *Energy*](https://doi.org/10.1016/j.energy.2021.122799): linear optimization of storage and curtailment strategies across fluctuating demand signals.
-
-
-These works establish the conceptual and methodological core of EQUALS. Further contributions are expected through ongoing collaborations and doctoral supervision.
+These works establish the conceptual and methodological core of EQUALS.
 
 
 ## Downloads
