@@ -24,6 +24,8 @@ giscus_comments: true
   </p>
 </div>
 
+---
+
 <p style="font-style: italic; font-size: 1.05rem; text-align: justify;">
   The project acronym <strong>EQUALS</strong> stands for 
  <em>“EQUItable Allocation of low carbon electricity Sources in a changing and resource-limited world.”</em>. Another name might have been <em>“Optimal allocation of low-carbon electricity sources […]”</em>, 
@@ -44,16 +46,15 @@ giscus_comments: true
 
 ## Project Summary
 
-The **EQUALS** project (**Equitable Allocation of Low-carbon Electricity Sources in a Changing and Resource-limited World**) addresses a central challenge of the global energy transition: how to deploy renewable electricity systems that are technically robust, environmentally sustainable, and socially equitable across regions. The project is funded by the ANR JCJC program (2025–2029) and coordinated by Arthur Clerjon.
+The **EQUALS** project (**Equitable Allocation of Low-carbon Electricity Sources in a Changing and Resource-limited World**) addresses a central challenge of the global energy transition: how to deploy low-carbon electricity systems that are technically robust, environmentally sustainable, and socially equitable across regions. The project is funded by the ANR JCJC (young researcher) program (2025–2029) and coordinated by Arthur Clerjon.
 
-The transition away from fossil-based energy systems cannot rely solely on replicating dispatchable capacity with solar or wind. These variable renewable energy sources (VRES) are inherently dependent on local climatic conditions and vary significantly in availability and efficiency across regions and seasons. In parallel, electricity demand patterns vary widely depending on economic structure, lifestyle, and climatic constraints. 
+
+**This project aims to help think the development of intermittent renewable energy sources and low-carbon sources within the planetary boundaries**. The primary goal is to explore the global distribution of photovoltaic (PV) and wind power and their complementarity with nuclear and hydropower to minimize the reliance on fossil fuels. Analyses of this deployment will be conducted under environmental constraints, mainly raw materials availability. It will lead to explore the links between climate, energy use and the development of electricity generation infrastructures. To illustrate this idea, in California, PV production perfectly matches summer air-conditioning demand, making its development more profitable than in France, where the constraint currently comes from winter heating needs, when PV production is at its minimum. The resources used to produce PV panels will not provide equivalent energy service in either countries. To achieve these analyses, we will develop a model of the power system that sizes production and flexibility capacities, in every country or region of the world. 
 
 **EQUALS seeks to:**
 - Identify where and how low-carbon electricity supply can meet regional electricity demand.
 - Integrate constraints from planetary boundaries, material availability, and environmental compatibility.
 - Design deployment pathways that respect regional equity and global sustainability.
-
-The project combines energy modeling, climate analysis, geospatial constraints, and interdisciplinary methods to inform decision-making under global constraints.
 
 ## An Interdisciplinary Team
 
@@ -65,32 +66,34 @@ To bridge energy geography and technical modeling, [**Emmanuelle Santoire**](htt
 
 To provide a prospective dimension and assess the influence of future climate conditions on energy supply and demand, **François-Marie Bréon** (CEA-LSCE) will contribute his expertise in climate science and environmental modeling.
 
-Finally, [**Fabien Perdu**](https://www.linkedin.com/in/fabien-perdu-6962b345/) and [**Pimprenelle Parmentier**](https://www.linkedin.com/in/pimprenelle-parmentier-2743bb77/) (CEA), already co-supervising Justine Duval’s PhD, will contribute to the methodological and technical development of the energy system model.
+Finally, [**Fabien Perdu**](https://www.linkedin.com/in/fabien-perdu-7325a41a5/) and [**Pimprenelle Parmentier**](https://www.linkedin.com/in/pimprenelle-parmentier-6b0373131/) (CEA), already co-supervising Justine Duval’s PhD, will contribute to the methodological and technical development of the energy system model.
 
 
-## Scientific Foundations
+## Preliminary results
 
+EQUALS built on previous researches and embed the ongoing PhD of Justine SDuval. To illustrates
+
+
+- [Duval et al. (2025) – ECOS Conference Paper](https://cea.hal.science/cea-05141769): doctoral research quantifying optimal wind/PV deployment strategies considering regional demand and climate compatibility.
+Illustration:  
+![Optimal global PV/Wind allocation](assets/img/RQUALS/PV_distribution_ECOS.png)
+
+
+## Related Pages and references
+
+- [Power System Flexibility →](/power-system-flexibility)  
+  *(Research theme exploring optimization of electricity storage, renewable integration, and time-scale analysis of variability.)*
+
+  
 EQUALS builds directly on Arthur Clerjon’s doctoral and postdoctoral work on renewable integration and storage optimization:
 
 - [Clerjon (2021) – PhD Thesis](https://theses.fr/s343655): analysis of electricity system response to large-scale VRES integration in France.
 - [Clerjon & Perdu (2019) – *Energy & Environmental Science*](https://doi.org/10.1039/C8EE01940A): time-scale decomposition of VRES variability and comparative ESOI of storage technologies.
 - [Clerjon & Perdu (2022) – *Energy*](https://doi.org/10.1016/j.energy.2021.122799): linear optimization of storage and curtailment strategies across fluctuating demand signals.
-- [Duval et al. (2025) – ECOS Conference Paper](https://cea.hal.science/cea-05141769): doctoral research quantifying optimal wind/PV deployment strategies considering regional demand and climate compatibility.
+
 
 These works establish the conceptual and methodological core of EQUALS. Further contributions are expected through ongoing collaborations and doctoral supervision.
 
-
-## Related Pages
-
-- [Power System Flexibility →](/power-system-flexibility)  
-  *(Research theme exploring optimization of electricity storage, renewable integration, and time-scale analysis of variability.)*
-
-## First Results
-
-Early simulations show strong spatial and seasonal variations in the viability of solar vs. wind to meet electricity demand, depending on the climatic and socioeconomic profile of each region.
-
-Illustration:  
-![Optimal global PV/Wind allocation](assets/img/world_map.png)
 
 ## Downloads
 
@@ -107,8 +110,9 @@ You can access the key documents of the EQUALS project below:
 
 This page will soon include:
 
+- Descriptions of the 4 open positions : 2 interships, 1 bPhD, 1 postdoc.
 - An interactive platform for visualizing deployment scenarios
 - Datasets and source code for reproducibility
 - New publications and methodological documents
 
-*Last updated: July 2025*
+*Last updated: July, 9, 2025*
