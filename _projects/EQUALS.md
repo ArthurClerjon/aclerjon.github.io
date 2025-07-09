@@ -55,11 +55,17 @@ The transition away from fossil-based energy systems cannot rely solely on repli
 
 The project combines energy modeling, climate analysis, geospatial constraints, and interdisciplinary methods to inform decision-making under global constraints.
 
-## An interdisciplinary team
+## An Interdisciplinary Team
 
-The project is led by Arthur Clerjon (CEA I-Tésé), with contributions from Olivier Vidal (ISTerre, CNRS), Emmanuelle Santoire (LATTS, CNRS), François-Marie Bréon (CEA LSCE), Fabien Perdu and Pimprenelle Parmentier (CEA Liten), and PhD candidate Justine Duval.
+The EQUALS project builds on initial research carried out by **Arthur Clerjon** during his [PhD thesis](https://hal.science/tel-03230033/). His work is now being extended at the global scale through the doctoral research of **[Justine Duval](https://theses.fr/s399297)**, who is developing the project’s first proof of concept.
 
+To explore the link between energy systems and resource availability, the project involves the ISTerre group led by **Olivier Vidal**, with the support of **Hugo Le Boulzec**.
 
+To bridge energy geography and technical modeling, **Emmanuelle Santoire** (LATTS, CNRS) will contribute expertise in territorial planning and regulation. She will work with the support of a master’s intern (_position open_) to integrate spatial constraints and local governance into the global energy modeling framework.
+
+To provide a prospective dimension and assess the influence of future climate conditions on energy supply and demand, **François-Marie Bréon** (CEA-LSCE) will contribute his expertise in climate science and environmental modeling.
+
+Finally, **Fabien Perdu** and **Pimprenelle Parmentier** (CEA), already co-supervising Justine Duval’s PhD, will contribute to the methodological and technical development of the energy system model.
 
 ## Scientific Foundations
 
