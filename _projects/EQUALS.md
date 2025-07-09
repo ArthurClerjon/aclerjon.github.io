@@ -8,6 +8,15 @@ category: Funded projects
 permalink: /projects/equals
 ---
 
+
+<img src="{{ site.baseurl }}/assets/img/EQUALS_logo.jpg" alt="EQUALS project logo" style="width: 300px; float: left; margin-right: 20px;" />
+
+# EQUALS  
+**Equitable Allocation of Electricity in a Changing World**  
+<span style="color:gray;">A JCJC research project funded by the ANR (AAPG 2025 – Axis H01: Science of Sustainability)</span>
+
+
+
 <div style="border-left: 6px solid #0d6efd; background-color: #e9f1ff; padding: 1em 1.5em; margin: 1.5em 0; border-radius: 6px; box-shadow: 0 1px 4px rgba(0,0,0,0.05);">
   <strong>🔔 Note:</strong><br>
   <p style="margin-top: 0.5em;">
