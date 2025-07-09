@@ -52,8 +52,10 @@ You can find here some examples of my research projects:
 - Supporting the electrification of **[road transport](/projects/transport-decarbonization)** (~15%)  
 
 
-I strongly believe that to face the challenges of energy transition and economy decarbonation while staying within the planetary boundaries and societal plancher, it is necessary to bridge scientific fields, meeting technical optimums, territorial specificities, economical and political contexts.
-For this reason, I initiated an **interdisciplinary research** project **[EQUALS – Global Equitable Allocation of Renewable Energy Sources](/projects/equals)**, funded by the French research agency (ANR). 
+I strongly believe that in order to meet the challenges of energy transition and decarbonization of the economy while respecting planetary boundaries and societal thresholds, it is necessary to bridge the gap between technical sciences and social sciences, combining technical optimums, territorial specificities, and economic and political contexts.
+It is in this spirit that I initiated the interdisciplinary research project **[EQUALS – Global Equitable Allocation of Renewable Energy Sources](/projects/equals)**, funded by the French National Research Agency (ANR).
+
+Translated with DeepL.com (free version)
 
 ---
 
