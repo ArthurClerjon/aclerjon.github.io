@@ -13,11 +13,11 @@ giscus_comments: true
   🚧 This web page is still under construction 🚧
 </div>
 
-:::info
+'''
 EQUALS is a research project funded by the French Research Agency's 2025 generic call for proposals (https://anr.fr/en/call-for-proposals-details/call/generic-call-for-proposals-aapg-2025/).
 
 This project will begin in early 2026 and will last four years. Two internships, one PhD position, and one postdoctoral position will soon be available. Join the team!
-:::
+'''
 
 
 ## Project Summary
