@@ -13,10 +13,16 @@ giscus_comments: true
   🚧 This web page is still under construction 🚧
 </div>
 
-> [!NOTE]
->EQUALS is a research project funded by the French Research Agency's 2025 generic call for proposals (https://anr.fr/en/call-for-proposals-details/call/generic-call-for-proposals-aapg-2025/).
-
->This project will begin in early 2026 and will last four years. Two internships, one PhD position, and one postdoctoral position will soon be available. Join the team!
+<div style="border-left: 6px solid #0d6efd; background-color: #e9f1ff; padding: 1em 1.5em; margin: 1.5em 0; border-radius: 6px; box-shadow: 0 1px 4px rgba(0,0,0,0.05);">
+  <strong>🔔 Note:</strong><br>
+  <p style="margin-top: 0.5em;">
+    <strong>EQUALS</strong> is a research project funded by the 
+    <a href="https://anr.fr/en/call-for-proposals-details/call/generic-call-for-proposals-aapg-2025/" target="_blank" rel="noopener">French Research Agency's 2025 generic call for proposals</a>.<br>
+    This project will begin in early 2026 and will last four years.
+    <br><br>
+    <strong>Two internships, one PhD position, and one postdoctoral position will soon be available. Join the team!</strong>
+  </p>
+</div>
 
 <p style="font-style: italic; font-size: 1.05rem; text-align: justify;">
   The project acronym <strong>EQUALS</strong> stands for 
@@ -49,6 +55,12 @@ The transition away from fossil-based energy systems cannot rely solely on repli
 
 The project combines energy modeling, climate analysis, geospatial constraints, and interdisciplinary methods to inform decision-making under global constraints.
 
+## An interdisciplinary team
+
+The project is led by Arthur Clerjon (CEA I-Tésé), with contributions from Olivier Vidal (ISTerre, CNRS), Emmanuelle Santoire (LATTS, CNRS), François-Marie Bréon (CEA LSCE), Fabien Perdu and Pimprenelle Parmentier (CEA Liten), and PhD candidate Justine Duval.
+
+
+
 ## Scientific Foundations
 
 EQUALS builds directly on Arthur Clerjon’s doctoral and postdoctoral work on renewable integration and storage optimization:
@@ -59,10 +71,6 @@ EQUALS builds directly on Arthur Clerjon’s doctoral and postdoctoral work on r
 - [Duval et al. (2025) – ECOS Conference Paper](https://cea.hal.science/cea-05141769): doctoral research quantifying optimal wind/PV deployment strategies considering regional demand and climate compatibility.
 
 These works establish the conceptual and methodological core of EQUALS. Further contributions are expected through ongoing collaborations and doctoral supervision.
-
-## Project Contributors
-
-The project is led by Arthur Clerjon (CEA I-Tésé), with contributions from Olivier Vidal (ISTerre, CNRS), Emmanuelle Santoire (LATTS, CNRS), François-Marie Bréon (CEA LSCE), Fabien Perdu and Pimprenelle Parmentier (CEA Liten), and PhD candidate Justine Duval.
 
 
 ## Related Pages
