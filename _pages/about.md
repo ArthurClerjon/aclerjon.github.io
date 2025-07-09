@@ -32,24 +32,31 @@ Welome to my peronal website!
   🚧 This web page is still under construction 🚧
 </div>
 
-I am a **permanent research scientist** at [**CEA Grenoble**](https://www.cea.fr/english/Pages/energy/energy.aspx), working at the intersection of **engineering**, **economics**, and **environmental science**. My research focuses on assessing the **feasibility**, **carbon impact**, and **economic performance** of **low-carbon energy systems**.
+I am a **permanent research scientist** at [**CEA Grenoble**](https://www.cea.fr/english/Pages/energy/energy.aspx), working on energy systems modelling.
 
-With a background in **physics** and a **PhD in energy systems modeling**, I specialize in analyzing **system flexibility**—how **power grids** can remain balanced as we scale up **intermittent renewables** and **electrify** key sectors such as **heating** and **transport**.
+
+I am particularly focusing on the analysys of  electricity **system flexibility**—how **power grids** can remain balanced as we scale up **intermittent renewables** and **electrify** key sectors such as **heating** and **transport**.
 
 I am currently developing **integrated approaches** to energy planning as part of the [**EQUALS – Global Equitable Allocation of Renewable Energy Sources**](/projects/equals) project, which explores how to **optimaly** deploy low-carbon technologies across the world based on **climate**, **energy uses** and **territorial specificities**.
 
-My goal is to understand and model **trade-offs** between **technologies**, **resource availability**, and **local needs**, in order to help design **realistic** and **context-sensitive energy transitions**.
+One of my research ambition is to understand and model trade-offs between **technologies**, **resource availability**, and **local needs**, in order to help design **realistic** energy transition pathways.
 
-I am also committed to **knowledge sharing**—through [**teaching**](https://www.ense3.grenoble-inp.fr/), **research supervision**, and **public engagement**—and to advancing **open science** practices.
+I am also committed to knowledge sharing—through [teaching](/teaching), research supervision, and public engagement.
 
 ## What I work on
 
+You can find here some examples of my research projects:
+
+- Modeling the **[flexibility needs of electric power systems](/projects/energy-system-flexibility)**
 - Reducing emissions from **[heating systems](/projects/heat-decarbonization)** (~30% of national GHG emissions)  
 - Supporting the electrification of **[road transport](/projects/transport-decarbonization)** (~15%)  
-- Modeling the **[flexibility needs of electric power systems](/projects/energy-system-flexibility)**
 
-I am particularly eager to carry out **interdisciplinary research** to understand how **technical solutions** can be effectively and **equitably deployed** in the real world. This approach is at the heart of my current project: **[EQUALS – Global Equitable Allocation of Renewable Energy Sources](/equals)**.
+
+I strongly believe that to face the challenges of energy transition and economy decarbonation while staying within the planetary boundaries and societal plancher, it is necessary to bridge scientific fields, meeting technical optimums, territorial specificities, economical and political contexts.
+For this reason, I initiated an **interdisciplinary research** project **[EQUALS – Global Equitable Allocation of Renewable Energy Sources](/projects/equals)**, funded by the French research agency (ANR). 
 
 ---
 
 This website presents my [**research projects**](/projects/), [**publications**](/publications/), and **accessible summaries** of recent work.
+
+I am always very happy to discuss my research projects, feel free to reach out at arthur.clerjon (at) cea.fr!

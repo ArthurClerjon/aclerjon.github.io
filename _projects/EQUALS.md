@@ -13,6 +13,11 @@ giscus_comments: true
   🚧 This web page is still under construction 🚧
 </div>
 
+:::info
+EQUALS is a research projects funded by the 2025 [generic call from the french research agency](https://anr.fr/en/call-for-proposals-details/call/generic-call-for-proposals-aapg-2025/).
+:::
+
+
 ## Project Summary
 
 The **EQUALS** project (**Equitable Allocation of Low-carbon Electricity Sources in a Changing and Resource-limited World**) addresses a central challenge of the global energy transition: how to deploy renewable electricity systems that are technically robust, environmentally sustainable, and socially equitable across regions. The project is funded by the ANR JCJC program (2025–2029) and coordinated by Arthur Clerjon.
