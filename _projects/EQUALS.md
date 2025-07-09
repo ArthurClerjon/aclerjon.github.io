@@ -85,11 +85,18 @@ EQUALS builds on previous research and incorporates the ongoing PhD work of Just
 👉 [Duval et al. (2025) – ECOS Conference Paper](https://cea.hal.science/cea-05141769)
 
 <a href="/assets/img/RQUALS/PV_distribution_ECOS.png" target="_blank">
-  <img src="/assets/img/RQUALS/PV_distribution_ECOS.png" alt="Optimal PV/Wind allocation" style="max-width:100%; border: 1px solid #ccc; padding: 5px;">
+  <img src="/assets/img/EQUALS/PV_distribution_ECOS.png" alt="Optimal PV/Wind allocation" style="max-width:100%; border: 1px solid #ccc; padding: 5px;">
 </a>
 <p style="font-size: 0.9rem;">Figure: Optimal mix of PV and wind by region (a), and by latitude (b), minimizing the need for dispatchable power. Source: ECOS 2025.</p>
 
-## Related Pages and References
+Overall, this figure shows an optimal mixes of PV and wind that would minimize dispatchable power sources. To go further, here a some of the folowing steps:
+
+- Increasing model complexity: to include interconnexions, existing low-carbon dispatchable sources (hydro and nuclear)
+- Adding regional and fglobal environmental  constraints, such as greenhouse gas budgets, land availability, etc. to assess how these constraints impact balances between power sources in each region.
+- Building prospective energy demand and supplys time-series, accounting for future climates and energy demand paterns.
+- etc.
+
+## Related Page and References
 
 For more on the scientific foundation and background behind this work, see the [Power System Flexibility →](/power-system-flexibility) page.
 
