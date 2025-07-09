@@ -80,18 +80,14 @@ Finally, [**Fabien Perdu**](https://www.linkedin.com/in/fabien-perdu-7325a41a5/)
 
 ## Preliminary Results
 
-EQUALS builds on previous research and incorporates the ongoing PhD work of Justine Duval. Below is an illustration of the project's approach, from the 2025 ECOS International Conference:  
-[Duval et al. (2025) – ECOS Conference Paper](https://cea.hal.science/cea-05141769)
+EQUALS builds on previous research and incorporates the ongoing PhD work of Justine Duval. Below is an illustration of the project's approach, from the 2025 ECOS International Conference:
 
-Figure (a) shows optimal regional PV/wind mixes that minimize the need for dispatchable power. Figure (b) displays the same data by country latitude.
+👉 [Duval et al. (2025) – ECOS Conference Paper](https://cea.hal.science/cea-05141769)
 
-<details>
-<summary>📊 Click to view the figure</summary>
-<br>
-<img src="/assets/img/RQUALS/PV_distribution_ECOS.png" alt="Optimal PV/Wind allocation" style="max-width:100%; border: 1px solid #ccc; padding: 5px;">
+<a href="/assets/img/RQUALS/PV_distribution_ECOS.png" target="_blank">
+  <img src="/assets/img/RQUALS/PV_distribution_ECOS.png" alt="Optimal PV/Wind allocation" style="max-width:100%; border: 1px solid #ccc; padding: 5px;">
+</a>
 <p style="font-size: 0.9rem;">Figure: Optimal mix of PV and wind by region (a), and by latitude (b), minimizing the need for dispatchable power. Source: ECOS 2025.</p>
-</details>
-
 
 ## Related Pages and References
 
@@ -105,8 +101,8 @@ These earlier studies form the conceptual and methodological basis of the EQUALS
 
 <p>
   <a class="btn btn-primary" href="https://nuage.gresille.org/index.php/s/9TonKDSQCjWzkZr">📄 Full Proposal (PDF)</a><br>
-  <a class="btn btn-outline-primary" href="https://nuage.gresille.org/index.php/s/sioYgnqM3AHDQyD">📝 Project Summary</a><br>
   <a class="btn btn-outline-secondary" href="https://nuage.gresille.org/index.php/s/cLf7toepGt8nm3g">📃 Pre-Proposal</a>
+  <a class="btn btn-outline-primary" href="https://nuage.gresille.org/index.php/s/sioYgnqM3AHDQyD">📝 Project Summary</a><br>
 </p>
 
 ---
@@ -114,7 +110,7 @@ These earlier studies form the conceptual and methodological basis of the EQUALS
 ## Coming Soon
 
 <ul>
-  <li>📢 Descriptions of four open positions: two internships, one PhD, and one postdoc</li>
+  <li>📢 Descriptions of four open positions: two internships, one PhD, and one postdoc. Contact us arthur.clerjon (at) cea.fr!</li>
   <li>📊 Interactive platform for exploring deployment scenarios</li>
   <li>📁 Access to datasets and source code</li>
   <li>📚 New publications and methodological notes</li>
