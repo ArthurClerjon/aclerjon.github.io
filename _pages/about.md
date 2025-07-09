@@ -55,7 +55,6 @@ You can find here some examples of my research projects:
 I strongly believe that in order to meet the challenges of energy transition and decarbonization of the economy while respecting planetary boundaries and societal thresholds, it is necessary to bridge the gap between technical sciences and social sciences, combining technical optimums, territorial specificities, and economic and political contexts.
 It is in this spirit that I initiated the interdisciplinary research project **[EQUALS – Global Equitable Allocation of Renewable Energy Sources](/projects/equals)**, funded by the French National Research Agency (ANR).
 
-Translated with DeepL.com (free version)
 
 ---
 

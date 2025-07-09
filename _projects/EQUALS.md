@@ -13,12 +13,28 @@ giscus_comments: true
   🚧 This web page is still under construction 🚧
 </div>
 
-'''
-EQUALS is a research project funded by the French Research Agency's 2025 generic call for proposals (https://anr.fr/en/call-for-proposals-details/call/generic-call-for-proposals-aapg-2025/).
+> [!NOTE]
+>EQUALS is a research project funded by the French Research Agency's 2025 generic call for proposals (https://anr.fr/en/call-for-proposals-details/call/generic-call-for-proposals-aapg-2025/).
 
-This project will begin in early 2026 and will last four years. Two internships, one PhD position, and one postdoctoral position will soon be available. Join the team!
-'''
+>This project will begin in early 2026 and will last four years. Two internships, one PhD position, and one postdoctoral position will soon be available. Join the team!
 
+<p style="font-style: italic; font-size: 1.05rem; text-align: justify;">
+  The project acronym <strong>EQUALS</strong> stands for 
+ <em>“EQUItable Allocation of low carbon electricity Sources in a changing and resource-limited world.”</em>. Another name might have been <em>“Optimal allocation of low-carbon electricity sources […]”</em>, 
+  reflecting the project's dual ambition:
+</p>
+
+<ol>
+  <li>
+    Optimize the global allocation of low-carbon energy sources in a constrained world.
+  </li>
+  <li>
+    Investigate the feasibility of bringing low-carbon electricity to the whole population in an equitable manner, 
+    ensuring a decent standard of living while respecting planetary boundaries.
+  </li>
+</ol>
+
+<hr style="width: 60px; border: none; border-top: 2px solid #ccc; margin: 1rem auto;">
 
 ## Project Summary
 
@@ -66,13 +82,10 @@ Illustration:
 You can access the key documents of the EQUALS project below:
 
 - [Full Proposal (PDF)](https://nuage.gresille.org/index.php/s/9TonKDSQCjWzkZr)  
-  *(Final version submitted in March 2025)*
 
 - [Pre-Proposal (PDF)](https://nuage.gresille.org/index.php/s/cLf7toepGt8nm3g)  
-  *(Initial submission to ANR JCJC 2025 call)*
 
 - [Project Summary (PDF)](https://nuage.gresille.org/index.php/s/sioYgnqM3AHDQyD)  
-  *(2-page overview including methodology and objectives)*
 
 
 ## Coming Soon
