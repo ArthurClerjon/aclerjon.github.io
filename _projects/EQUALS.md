@@ -93,7 +93,7 @@ EQUALS builds on previous research and incorporates the ongoing PhD work of Just
 
 👉 [Duval et al. (2025) – ECOS Conference Paper](https://cea.hal.science/cea-05141769)
 
-<a href="/assets/img/RQUALS/PV_distribution_ECOS.png" target="_blank">
+<a href="/assets/img/EQUALS/PV_distribution_ECOS.png" target="_blank">
   <img src="/assets/img/EQUALS/PV_distribution_ECOS.png" alt="Optimal PV/Wind allocation" style="max-width:100%; border: 1px solid #ccc; padding: 5px;">
 </a>
 <p style="font-size: 0.9rem;">Figure: Optimal mix of PV and wind by region (a), and by latitude (b), minimizing the need for dispatchable power. Source: ECOS 2025.</p>
