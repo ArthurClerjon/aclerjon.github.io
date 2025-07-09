@@ -6,7 +6,6 @@ img: assets/img/9.jpg
 importance: 2
 category: Funded projects
 permalink: /projects/equals
-giscus_comments: true
 ---
 
 <div style="background-color: #fff3cd; color: #856404; border: 2px solid #ffeeba; padding: 10px 20px; margin: 20px 0; border-radius: 5px; font-weight: bold; text-align: center; box-shadow: 0 2px 6px rgba(0,0,0,0.1);">
@@ -23,6 +22,7 @@ giscus_comments: true
     <strong>Two internships, one PhD position, and one postdoctoral position will soon be available. Join the team!</strong>
   </p>
 </div>
+
 
 ---
 
@@ -42,6 +42,15 @@ giscus_comments: true
 </ol>
 
 <hr style="width: 60px; border: none; border-top: 2px solid #ccc; margin: 1rem auto;">
+
+
+## Quick Navigation
+
+- [Project Summary](#project-summary)
+- [An Interdisciplinary Team](#an-interdisciplinary-team)
+- [Preliminary Results](#preliminary-results)
+- [Downloads](#downloads)
+- [Coming Soon](#coming-soon)
 
 ## Project Summary
 
@@ -80,30 +89,40 @@ EQUALS builds on previous research and incorporates the ongoing PhD work of Just
 
 Figure (a) shows optimal regional PV/wind mixes that minimize the need for dispatchable power. Figure (b) displays the same data by country latitude.
 
-![Optimal global PV/Wind allocation](assets/img/EQUALS/PV_distribution_ECOS.png)
+<details>
+<summary>📊 Click to view the figure</summary>
+<br>
+<img src="/assets/img/RQUALS/PV_distribution_ECOS.png" alt="Optimal PV/Wind allocation" style="max-width:100%; border: 1px solid #ccc; padding: 5px;">
+<p style="font-size: 0.9rem;">Figure: Optimal mix of PV and wind by region (a), and by latitude (b), minimizing the need for dispatchable power. Source: ECOS 2025.</p>
+</details>
+
 
 ## Related Pages and References
 
-For more on the scientific foundation and background behind this work, see:  
-👉 [Power System Flexibility →](/power-system-flexibility)
+For more on the scientific foundation and background behind this work, see the [Power System Flexibility →](/power-system-flexibility) page.
 
 These earlier studies form the conceptual and methodological basis of the EQUALS project.
 
+---
+
 ## Downloads
 
-You can access key project documents here:
+<p>
+  <a class="btn btn-primary" href="https://nuage.gresille.org/index.php/s/9TonKDSQCjWzkZr">📄 Full Proposal (PDF)</a><br>
+  <a class="btn btn-outline-primary" href="https://nuage.gresille.org/index.php/s/sioYgnqM3AHDQyD">📝 Project Summary</a><br>
+  <a class="btn btn-outline-secondary" href="https://nuage.gresille.org/index.php/s/cLf7toepGt8nm3g">📃 Pre-Proposal</a>
+</p>
 
-- [Full Proposal (PDF)](https://nuage.gresille.org/index.php/s/9TonKDSQCjWzkZr)  
-- [Pre-Proposal (PDF)](https://nuage.gresille.org/index.php/s/cLf7toepGt8nm3g)  
-- [Project Summary (PDF)](https://nuage.gresille.org/index.php/s/sioYgnqM3AHDQyD)  
+---
 
 ## Coming Soon
 
-This page will soon include:
-
-- Descriptions of four open positions: two internships, one PhD, and one postdoc
-- An interactive platform for visualizing deployment scenarios
-- Datasets and source code for reproducibility
-- New publications and methodological documents
+<ul>
+  <li>📢 Descriptions of four open positions: two internships, one PhD, and one postdoc</li>
+  <li>📊 Interactive platform for exploring deployment scenarios</li>
+  <li>📁 Access to datasets and source code</li>
+  <li>📚 New publications and methodological notes</li>
+</ul>
 
 *Last updated: July 9, 2025*
+
