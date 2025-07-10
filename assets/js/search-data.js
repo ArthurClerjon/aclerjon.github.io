@@ -116,9 +116,9 @@ ninja.data = [{
           description: "Optimization of energy system flexibility with storage solutions, renewable energy integration, and innovative techno-economic models.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/energy-system-flexibility";
-            },},{id: "projects-les-usages-de-l-énergie-en-france-analyse-et-leviers-de-décarbonation",
-          title: 'Les usages de l’énergie en France – Analyse et leviers de décarbonation',
-          description: "Panorama illustré de l’énergie finale en France, avec focus sur les transports, le chauffage et les solutions bas carbone.",
+            },},{id: "projects-lusages-de-l-énergie-en-france",
+          title: 'LUsages de l’énergie en France',
+          description: "Panorama de l’énergie finale en France, focus sur les transports, le chauffage et les solutions bas carbone.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/energie_france/";
             },},{id: "projects-heat-decarbonization",
