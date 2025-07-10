@@ -16,19 +16,19 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "nav-publications",
-          title: "Publications",
-          description: "Liste complète des publications scientifiques d’Arthur Clerjon : énergie, décarbonation, modélisation, climat.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/publications/";
-          },
         },{id: "nav-projects",
           title: "Projects",
           description: "A growing collection of your cool projects.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
+          },
+        },{id: "nav-publications",
+          title: "Publications",
+          description: "Liste complète des publications scientifiques d’Arthur Clerjon : énergie, décarbonation, modélisation, climat.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/publications/";
           },
         },{id: "nav-teaching",
           title: "Teaching",
@@ -106,8 +106,8 @@ ninja.data = [{
           description: "with background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project/";
-            },},{id: "projects-equals",
-          title: 'Equals',
+            },},{id: "projects-",
+          title: '',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/equals";
@@ -116,8 +116,8 @@ ninja.data = [{
           description: "Optimization of energy system flexibility with storage solutions, renewable energy integration, and innovative techno-economic models.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/energy-system-flexibility";
-            },},{id: "projects-lusages-de-l-énergie-en-france",
-          title: 'LUsages de l’énergie en France',
+            },},{id: "projects-les-usages-de-l-énergie-en-france",
+          title: 'Les usages de l’énergie en France',
           description: "Panorama de l’énergie finale en France, focus sur les transports, le chauffage et les solutions bas carbone.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/energie_france/";
