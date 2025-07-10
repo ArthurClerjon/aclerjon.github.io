@@ -2,20 +2,14 @@
 layout: page
 title: EQUALS
 description: "Equitable Allocation of Low-carbon Electricity Sources in a Changing and Resource-limited World"
-img: assets/img/9.jpg
+img: assets/img/EQUALS/logo_EQUALS.png
 importance: 2
 category: Funded projects
 permalink: /projects/equals
 ---
 
 
-<img src="{{ site.baseurl }}/assets/img/EQUALS_logo.jpg" alt="EQUALS project logo" style="width: 300px; float: left; margin-right: 20px;" />
-
-# EQUALS  
-**Equitable Allocation of Electricity in a Changing World**  
-<span style="color:gray;">A JCJC research project funded by the ANR (AAPG 2025 – Axis H01: Science of Sustainability)</span>
-
-
+<img src="{/assets/img/EQUALS/logo_EQUALS.png" alt="EQUALS project logo" style="width: 300px; float: left; margin-right: 20px;" />
 
 <div style="border-left: 6px solid #0d6efd; background-color: #e9f1ff; padding: 1em 1.5em; margin: 1.5em 0; border-radius: 6px; box-shadow: 0 1px 4px rgba(0,0,0,0.05);">
   <strong>🔔 Note:</strong><br>
@@ -47,7 +41,6 @@ permalink: /projects/equals
 </ol>
 
 <hr style="width: 60px; border: none; border-top: 2px solid #ccc; margin: 1rem auto;">
-
 
 ## Quick Navigation
 
@@ -93,7 +86,7 @@ EQUALS builds on previous research and incorporates the ongoing PhD work of Just
 
 👉 [Duval et al. (2025) – ECOS Conference Paper](https://cea.hal.science/cea-05141769)
 
-<a href="/assets/img/EQUALS/PV_distribution_ECOS.png" target="_blank">
+<a href="/assets/img/RQUALS/PV_distribution_ECOS.png" target="_blank">
   <img src="/assets/img/EQUALS/PV_distribution_ECOS.png" alt="Optimal PV/Wind allocation" style="max-width:100%; border: 1px solid #ccc; padding: 5px;">
 </a>
 <p style="font-size: 0.9rem;">Figure: Optimal mix of PV and wind by region (a), and by latitude (b), minimizing the need for dispatchable power. Source: ECOS 2025.</p>
