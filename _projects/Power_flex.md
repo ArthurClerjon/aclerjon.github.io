@@ -5,10 +5,17 @@ permalink: /projects/energy-system-flexibility
 description: "Optimization of energy system flexibility with storage solutions, renewable energy integration, and innovative techno-economic models."
 tags: [Energy Flexibility, Renewable Energy, Electricity Storage, ESOI, Optimization]
 status: "Under construction"
-img:
+img: assets/img/power_flex.webp
 importance: 2
 category: Research themes
 ---
+
+<img src="/assets/img/power_flex.webp" alt="Power System Flexibility" style="width: 100%; border-radius: 10px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1); margin-bottom: 10px;" />
+
+<p style="text-align: right; font-size: 0.85em; color: gray;">
+  Image Credits: William Potter / Shutterstock.com
+</p>
+
 
 <div style="background-color: #fff3cd; color: #856404; border: 2px solid #ffeeba; padding: 10px 20px; margin: 20px 0; border-radius: 5px; font-weight: bold; text-align: center; box-shadow: 0 2px 6px rgba(0,0,0,0.1);">
   🚧 This web page is still under construction 🚧
