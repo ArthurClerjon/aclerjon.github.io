@@ -10,7 +10,7 @@ permalink: /projects/equals
 
 <div style="display: flex; align-items: center; gap: 36px; margin-bottom: 2em;">
   <img src="/assets/img/EQUALS/logo_EQUALS.png"
-       alt="EQUALS project logo"
+       alt=alt="EQUALS – Low-carbon electricity modeling project logo"
        style="width: 480px; max-width: 95vw; min-width: 120px; border-radius: 16px; margin-bottom: 0; background: white; padding: 0.5em; box-shadow: none;" />
   <div style="text-align: left;">
     <div style="font-size: 2.1rem; font-weight: 700; letter-spacing: 1.5px; margin-bottom: 0.4em; font-family: 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;">
@@ -109,11 +109,11 @@ EQUALS builds on previous research and incorporates the ongoing PhD work of Just
 </a>
 <p style="font-size: 0.9rem;">Figure: Optimal mix of PV and wind by region (a), and by latitude (b), minimizing the need for dispatchable power. Source: ECOS 2025.</p>
 
-Overall, this figure shows an optimal mixes of PV and wind that would minimize dispatchable power sources. To go further, here a some of the folowing steps:
+Overall, this figure shows an optimal mixes of PV and wind that would minimize dispatchable power sources. To go further, here a some of the following steps:
 
-- Increasing model complexity: to include interconnexions, existing low-carbon dispatchable sources (hydro and nuclear)
+- Increasing model complexity: to include interconnections, existing low-carbon dispatchable sources (hydro and nuclear)
 - Adding regional and fglobal environmental  constraints, such as greenhouse gas budgets, land availability, etc. to assess how these constraints impact balances between power sources in each region.
-- Building prospective energy demand and supplys time-series, accounting for future climates and energy demand paterns.
+- Building prospective energy demand and supply time-series, accounting for future climates and energy demand patterns.
 - etc.
 
 ## Related Page and References
@@ -137,7 +137,7 @@ These earlier studies form the conceptual and methodological basis of the EQUALS
 ## Coming Soon
 
 <ul>
-  <li>📢 Descriptions of four open positions: two internships, one PhD, and one postdoc. Contact us arthur.clerjon (at) cea.fr!</li>
+  <li>🧑‍🔬 <strong>Join the team!</strong> Internship, PhD, and postdoc openings—descriptions available soon. Contact arthur.clerjon (at) cea.fr!</li>
   <li>📊 Interactive platform for exploring deployment scenarios</li>
   <li>📁 Access to datasets and source code</li>
   <li>📚 New publications and methodological notes</li>
