@@ -1,19 +1,25 @@
 ---
 layout: page
-title:
-description:
+title: ""
+description: ""
 img: assets/img/EQUALS/logo_EQUALS.png
 importance: 2
 category: Funded projects
 permalink: /projects/equals
 ---
-<img src="/assets/img/EQUALS/logo_EQUALS.png" alt="EQUALS project logo"
-     style="display: block; width: 220px; max-width: 60vw; height: auto; margin-bottom: 1em; border-radius: 12px; box-shadow: 0 2px 10px rgba(0,0,0,0.04);" />
+<div style="display: flex; flex-direction: column; align-items: center; margin-bottom: 2em;">
+  <img src="/assets/img/EQUALS/logo_EQUALS.png"
+       alt="EQUALS project logo"
+       style="width: 120px; max-width: 25vw; min-width: 80px; box-shadow: 0 6px 24px rgba(0,0,0,0.10); border-radius: 18px; margin-bottom: 1.2em; background: white; padding: 0.5em;" />
+  <div style="text-align: center;">
+    <div style="font-size: 2.1rem; font-weight: 700; letter-spacing: 1.5px; margin-bottom: 0.4em; font-family: 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;">EQUALS</div>
+    <div style="font-size: 1.07rem; font-weight: 400; color: #1d3557; letter-spacing: 0.5px; margin-bottom: 0.2em; line-height: 1.4;">
+      Equitable Allocation of Low-carbon Electricity Sources in a Changing and Resource-limited World
+    </div>
+  </div>
+</div>
 
-# EQUALS
-### Equitable Allocation of Low-carbon Electricity Sources in a Changing and Resource-limited World
-
-<div style="border-left: 6px solid #0d6efd; background-color: #e9f1ff; padding: 1em 1.5em; margin: 1.5em 0; border-radius: 6px; box-shadow: 0 1px 4px rgba(0,0,0,0.05);">
+<div style="border-left: 6px solid #0d6efd; background-color: #e9f1ff; padding: 1em 1.5em; margin: 1.5em 0; border-radius: 6px; box-shadow: 0 1px 4px rgba(0,0,0,0.07);">
   <strong>🔔 Note:</strong><br>
   <p style="margin-top: 0.5em;">
     <strong>EQUALS</strong> is a research project funded by the 
@@ -23,6 +29,7 @@ permalink: /projects/equals
     <strong>Two internships, one PhD position, and one postdoctoral position will soon be available. Join the team!</strong>
   </p>
 </div>
+
 
 ---
 
