@@ -4,7 +4,7 @@ permalink: /teaching/
 title: Teaching
 description: This page is currently under construction. 
 nav: true
-nav_order: 5
+nav_order: 4
 ---
 
 I teach and supervise Master’s-level courses and projects on energy systems, economics, and sustainability. Below is an overview of selected contributions.
