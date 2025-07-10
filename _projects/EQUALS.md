@@ -7,17 +7,31 @@ importance: 2
 category: Funded projects
 permalink: /projects/equals
 ---
-<div style="display: flex; flex-direction: column; align-items: center; margin-bottom: 2em;">
+
+<div style="display: flex; align-items: center; gap: 36px; margin-bottom: 2em;">
   <img src="/assets/img/EQUALS/logo_EQUALS.png"
        alt="EQUALS project logo"
-       style="width: 120px; max-width: 25vw; min-width: 80px; box-shadow: 0 6px 24px rgba(0,0,0,0.10); border-radius: 18px; margin-bottom: 1.2em; background: white; padding: 0.5em;" />
-  <div style="text-align: center;">
-    <div style="font-size: 2.1rem; font-weight: 700; letter-spacing: 1.5px; margin-bottom: 0.4em; font-family: 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;">EQUALS</div>
+       style="width: 480px; max-width: 95vw; min-width: 120px; border-radius: 16px; margin-bottom: 0; background: white; padding: 0.5em; box-shadow: none;" />
+  <div style="text-align: left;">
+    <div style="font-size: 2.1rem; font-weight: 700; letter-spacing: 1.5px; margin-bottom: 0.4em; font-family: 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;">
+      EQUALS
+    </div>
     <div style="font-size: 1.07rem; font-weight: 400; color: #1d3557; letter-spacing: 0.5px; margin-bottom: 0.2em; line-height: 1.4;">
       Equitable Allocation of Low-carbon Electricity Sources in a Changing and Resource-limited World
     </div>
+    <div style="border-left: 6px solid #0d6efd; background-color: #e9f1ff; padding: 1em 1.5em; margin: 1.5em 0; border-radius: 6px; box-shadow: 0 1px 4px rgba(0,0,0,0.07);">
+      <strong>🔔 Note:</strong><br>
+      <p style="margin-top: 0.5em;">
+        <strong>EQUALS</strong> is a research project funded by the 
+        <a href="https://anr.fr/en/call-for-proposals-details/call/generic-call-for-proposals-aapg-2025/" target="_blank" rel="noopener">French National Research Agency (ANR)</a> as part of the 2025 Generic Call for Proposals.<br>
+        The project will begin in early 2026 and will run for four years.
+        <br><br>
+        <strong>Two internships, one PhD position, and one postdoctoral position will soon be available. Join the team!</strong>
+      </p>
+    </div>
   </div>
 </div>
+
 
 <div style="border-left: 6px solid #0d6efd; background-color: #e9f1ff; padding: 1em 1.5em; margin: 1.5em 0; border-radius: 6px; box-shadow: 0 1px 4px rgba(0,0,0,0.07);">
   <strong>🔔 Note:</strong><br>
