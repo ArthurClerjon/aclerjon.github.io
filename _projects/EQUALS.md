@@ -33,18 +33,6 @@ permalink: /projects/equals
 </div>
 
 
-<div style="border-left: 6px solid #0d6efd; background-color: #e9f1ff; padding: 1em 1.5em; margin: 1.5em 0; border-radius: 6px; box-shadow: 0 1px 4px rgba(0,0,0,0.07);">
-  <strong>🔔 Note:</strong><br>
-  <p style="margin-top: 0.5em;">
-    <strong>EQUALS</strong> is a research project funded by the 
-    <a href="https://anr.fr/en/call-for-proposals-details/call/generic-call-for-proposals-aapg-2025/" target="_blank" rel="noopener">French National Research Agency (ANR)</a> as part of the 2025 Generic Call for Proposals.<br>
-    The project will begin in early 2026 and will run for four years.
-    <br><br>
-    <strong>Two internships, one PhD position, and one postdoctoral position will soon be available. Join the team!</strong>
-  </p>
-</div>
-
-
 ---
 
 <p style="font-style: italic; font-size: 1.05rem; text-align: justify;">
@@ -74,21 +62,29 @@ permalink: /projects/equals
 
 ## Project Summary
 
-**EQUALS** addresses a key question in the global energy transition: how can we deploy low-carbon electricity systems that are technically viable, environmentally sustainable, and socially equitable across regions?
+**EQUALS** addresses a critical challenge in the global energy transition: how can we deploy low-carbon electricity systems that are technically feasible, environmentally sustainable, and socially fair—across regions with very different climates, needs, and resources?
 
-Funded by the ANR JCJC (young researchers) program and coordinated by **Arthur Clerjon**, the project seeks to support the global development of renewable and low-carbon electricity within the limits of resource availability and planetary boundaries.
+Funded by the ANR JCJC programme and coordinated by **Arthur Clerjon**, the project explores how solar, wind, nuclear, and hydropower can be most effectively distributed worldwide. The goal is to reduce reliance on fossil fuels while respecting planetary boundaries and resource limitations.
 
-The core objective is to explore the optimal global distribution of photovoltaic (PV), wind, nuclear, and hydropower capacities—minimizing reliance on fossil fuels. This will involve assessing deployment feasibility under various environmental constraints, particularly the availability of critical raw materials.
+A central concept in EQUALS is that of **energy service**—the ability of an energy source to meet demand when and where it arises. For instance, solar power works particularly well in California, where demand peaks in summer due to air conditioning—exactly when solar production is high. In contrast, France experiences peak electricity needs in winter, when solar output is minimal. The same solar panel delivers very different service in each context.
 
-To illustrate: in California, solar production aligns well with summer air-conditioning demand, making PV highly effective. In contrast, France faces winter peaks for heating, when solar output is lowest. A PV panel will not deliver the same energy service in both places—raising questions of how and where best to invest resources globally.
+To analyze such differences, EQUALS will develop a global energy model that assesses how well low-carbon electricity sources match regional energy demand. It will also account for environmental constraints, material needs, and the physical space required for infrastructure.
 
-To carry out these analyses, EQUALS will develop a global energy system model that sizes both production and flexibility capacities at the country and regional levels.
+The project is grounded in an interdisciplinary approach, combining:
 
-Overall, **EQUALS seeks to:**
+- **Energy systems modeling**, to assess generation, storage, and flexibility;
+- **Climate science**, to factor in demand and supply variability;
+- **Energy–material system analyses**, to evaluate feasibility and resource use;
+- **Geography and social sciences**, to account for local and regulatory constraints.
 
-- Identify where and how low-carbon electricity can meet local demand.
-- Integrate constraints from planetary boundaries, material availability, and environmental compatibility.
+By openly sharing its methods and results, EQUALS aims to support more informed, inclusive, and sustainable energy decisions.
+
+**Overall, EQUALS seeks to:**
+
+- Identify where and how low-carbon electricity can meet local demand;  
+- Integrate constraints from planetary boundaries, material availability, and environmental compatibility;  
 - Design deployment strategies that respect both regional equity and global sustainability.
+
 
 ## An Interdisciplinary Team
 
