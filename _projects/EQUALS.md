@@ -1,18 +1,17 @@
 ---
 layout: page
 title:
-description: "Equitable Allocation of Low-carbon Electricity Sources in a Changing and Resource-limited World"
+description:
 img: assets/img/EQUALS/logo_EQUALS.png
 importance: 2
 category: Funded projects
 permalink: /projects/equals
 ---
+<img src="/assets/img/EQUALS/logo_EQUALS.png" alt="EQUALS project logo"
+     style="display: block; width: 220px; max-width: 60vw; height: auto; margin-bottom: 1em; border-radius: 12px; box-shadow: 0 2px 10px rgba(0,0,0,0.04);" />
 
-
-<img src="/assets/img/EQUALS/logo_EQUALS.png" alt="EQUALS project logo" style="width: 300px; float: left; margin-right: 20px;" />
-
-# EQUAMS
-### Equitable Allocation of Low-carbon Electricity Sources in a Changing and Resource-limited World"
+# EQUALS
+### Equitable Allocation of Low-carbon Electricity Sources in a Changing and Resource-limited World
 
 <div style="border-left: 6px solid #0d6efd; background-color: #e9f1ff; padding: 1em 1.5em; margin: 1.5em 0; border-radius: 6px; box-shadow: 0 1px 4px rgba(0,0,0,0.05);">
   <strong>🔔 Note:</strong><br>
@@ -24,7 +23,6 @@ permalink: /projects/equals
     <strong>Two internships, one PhD position, and one postdoctoral position will soon be available. Join the team!</strong>
   </p>
 </div>
-
 
 ---
 
