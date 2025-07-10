@@ -107,7 +107,7 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project/";
             },},{id: "projects-equals",
-          title: 'EQUALS',
+          title: 'Equals',
           description: "Equitable Allocation of Low-carbon Electricity Sources in a Changing and Resource-limited World",
           section: "Projects",handler: () => {
               window.location.href = "/projects/equals";
