@@ -38,7 +38,7 @@ Cette étude s’inscrit dans un ensemble de <a href="/projects/">projets de rec
 Elle vise à retranscrire, de manière pédagogique, les principaux enjeux de cette décarbonation, en s’appuyant sur des données claires, des représentations graphiques et une analyse des leviers technologiques et comportementaux.  
 Retrouvez la publication complète dans <a href="/publications/">ma liste de publications</a> et découvrez d’autres travaux sur <a href="/cv/">mon parcours scientifique</a>.
 
-Ici, avons construit une représentation graphique des flux entre la consommation d’énergie finale et les usages sous forme d’un diagramme de Sankey. Ce diagramme décrit les volumes en jeu, leur origine et leur contenu en CO₂, et sert de base pour analyser les leviers majeurs de décarbonation.
+Ici, nous avons construit une représentation graphique des flux entre la consommation d’énergie finale et les usages sous forme d’un diagramme de Sankey. Ce diagramme décrit les volumes en jeu, leur origine et leur contenu en CO₂, et sert de base pour analyser les leviers majeurs de décarbonation.
 
   <div class="text-center my-4">
     <img src="/assets/img/Sankey/Itese_Sankey_Gradient.png" alt="Diagramme de Sankey" style="max-width: 100%; height: auto;">
@@ -216,7 +216,7 @@ Les données énergétiques utilisées pour la réalisation de ce graphique prov
   C’est ce qu’illustre le 
   <a href="https://www.statistiques.developpement-durable.gouv.fr/edition-numerique/bilan-energetique-2019/pdf/document.pdf" target="_blank">Bilan énergétique de la France</a>, 
   une publication annuelle du Service des Données et Études Statistiques (SDES). Ces rapports font notamment l’état de la consommation des ressources énergétiques primaires en France, 
-  comme le pétrole brut, le gaz ou les ressources fissiles ; ainsi que de leur transformation en énergie dite finale, disponible à la consommation.
+  comme le pétrole brut, le gaz ou les ressources fossiles ; ainsi que de leur transformation en énergie dite finale, disponible à la consommation.
 </p>
 
 <p>
