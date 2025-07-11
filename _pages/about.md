@@ -26,11 +26,7 @@ latest_posts:
 <h1 style="display:none;">Arthur Clerjon – Researcher in Energy Systems Modeling, Decarbonation of power systems</h1>
 
 
-Welome to my peronal website!
-
-<div style="background-color: #fff3cd; color: #856404; border: 2px solid #ffeeba; padding: 10px 20px; margin: 20px 0; border-radius: 5px; font-weight: bold; text-align: center; box-shadow: 0 2px 6px rgba(0,0,0,0.1);">
-  🚧 Website still under construction 🚧
-</div>
+### Welome to my peronal website!
 
 I am a **permanent research scientist** at [**CEA Grenoble**](https://www.cea.fr/english/Pages/energy/energy.aspx), working on energy systems modelling.
 

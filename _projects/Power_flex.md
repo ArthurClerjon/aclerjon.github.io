@@ -2,7 +2,7 @@
 layout: page
 title: "Power System Flexibility"
 permalink: /projects/energy-system-flexibility
-description: "Optimization of energy system flexibility with storage solutions, renewable energy integration, and innovative techno-economic models."
+description: ""
 tags: [Energy Flexibility, Renewable Energy, Electricity Storage, ESOI, Optimization]
 status: "Under construction"
 img: assets/img/power_flex.webp
@@ -21,11 +21,11 @@ category: Research themes
   🚧 This web page is still under construction 🚧
 </div>
 
-My research addresses **energy system flexibility** challenges posed by the intermittent nature of renewable energies (solar, wind). It employs advanced optimization methodologies and techno-economic modeling, using tools such as wavelet decomposition and Energy Stored On Invested (**ESOI**).
+My research addresses **energy system flexibility** challenges posed by the intermittent nature of renewable energies (solar, wind). It employs optimization methodologies and techno-economic modeling.
 
-The developed models help to understand optimal combinations of storage technologies (e.g., Li-ion batteries, hydrogen, pumped hydro storage) to effectively match renewable energy supply with demand, considering regional climates and electricity demand patterns.
+The developed models help to understand optimal integration of storage technologies (e.g., Li-ion batteries, hydrogen, pumped hydro storage) to effectively match renewable energy supply with demand, considering regional climates and electricity demand patterns.
 
-### Selected Publications
+### Related Publications
 
 - **Clerjon, A.**, Perdu, F. (2022).  
 [**Matching intermittent electricity supply and demand with electricity storage – An optimization based on a time scale analysis**](https://doi.org/10.1016/j.energy.2021.122799). *Energy*, Vol. 241.

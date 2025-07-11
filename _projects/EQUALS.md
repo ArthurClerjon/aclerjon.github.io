@@ -14,11 +14,8 @@ permalink: /projects/equals
        style="width: 100%; max-width: 480px; border-radius: 16px; background: white; padding: 0.5em; display: block; margin: 0 auto 1em auto;" />
 
   <div>
-    <div style="font-size: 2.1rem; font-weight: 700; letter-spacing: 1.5px; margin-bottom: 0.4em; font-family: 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;">
-      EQUALS
-    </div>
     <div style="font-size: 1.07rem; font-weight: 400; color: #1d3557; letter-spacing: 0.5px; margin-bottom: 0.2em; line-height: 1.4;">
-      Equitable Allocation of Low-carbon Electricity Sources in a Changing and Resource-limited World
+      EQUALS - Equitable Allocation of Low-carbon Electricity Sources in a Changing and Resource-limited World
     </div>
     <div style="border-left: 6px solid #0d6efd; background-color: #e9f1ff; padding: 1em 1.5em; margin: 1.5em 0; border-radius: 6px;">
       <strong>🔔 Note:</strong><br>
