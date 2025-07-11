@@ -70,13 +70,6 @@ A central concept in EQUALS is that of **energy service**—the ability of an en
 
 To analyze such differences, EQUALS will develop a global energy model that assesses how well low-carbon electricity sources match regional energy demand. It will also account for environmental constraints, material needs, and the physical space required for infrastructure.
 
-The project is grounded in an interdisciplinary approach, combining:
-
-- **Energy systems modeling**, to assess generation, storage, and flexibility;
-- **Climate science**, to factor in demand and supply variability;
-- **Energy–material system analyses**, to evaluate feasibility and resource use;
-- **Geography and social sciences**, to account for local and regulatory constraints.
-
 By openly sharing its methods and results, EQUALS aims to support more informed, inclusive, and sustainable energy decisions.
 
 **Overall, EQUALS seeks to:**
