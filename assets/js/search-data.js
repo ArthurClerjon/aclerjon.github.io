@@ -113,7 +113,7 @@ ninja.data = [{
               window.location.href = "/projects/equals";
             },},{id: "projects-power-system-flexibility",
           title: 'Power System Flexibility',
-          description: "Optimization of energy system flexibility with storage solutions, renewable energy integration, and innovative techno-economic models.",
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/energy-system-flexibility";
             },},{id: "projects-les-usages-de-l-énergie-en-france",
@@ -123,12 +123,12 @@ ninja.data = [{
               window.location.href = "/projects/energie_france/";
             },},{id: "projects-heat-decarbonization",
           title: 'Heat Decarbonization',
-          description: "My research on heat decarbonization focusing on integrating low-carbon technologies into energy systems and district heating.",
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/heat-decarbonization";
             },},{id: "projects-transport-decarbonization",
           title: 'Transport Decarbonization',
-          description: "Research on decarbonizing transport, optimizing electric vehicle charging infrastructure, and battery sizing strategies.",
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/transport-decarbonization";
             },},{
