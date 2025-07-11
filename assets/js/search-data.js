@@ -118,7 +118,7 @@ ninja.data = [{
               window.location.href = "/projects/energy-system-flexibility";
             },},{id: "projects-les-usages-de-l-énergie-en-france",
           title: 'Les usages de l’énergie en France',
-          description: "Panorama de l’énergie finale en France, focus sur les transports, le chauffage et les solutions bas carbone.",
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/energie_france/";
             },},{id: "projects-heat-decarbonization",
