@@ -10,7 +10,7 @@ importance: 3
 category: Research themes
 ---
 
-<img src="/assets/img/heating_house.png" alt="Heat Decarbonization" style="width: 100%; border-radius: 10px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1); margin-bottom: 10px;" />
+<img src="/assets/img/heating_house.png" alt="Heat Decarbonization" style="width: 40%; border-radius: 10px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1); margin-bottom: 10px;" />
 
 <p style="text-align: right; font-size: 0.85em; color: gray;">
   Image Credits: BrianAJackson / iStock

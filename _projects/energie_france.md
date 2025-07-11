@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Les usages de l’énergie en France"
-description: "Panorama de l’énergie finale en France, focus sur les transports, le chauffage et les solutions bas carbone."
+description: ""
 img: /assets/img/Sankey/Itese_Sankey_Gradient.png
 importance: 1
 category: General public science
